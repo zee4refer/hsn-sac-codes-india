@@ -1,0 +1,447 @@
+code,description,common_items,chapter,search_words
+0105,"Live poultry (fowls, ducks, geese, turkeys and guinea fowls)","Live chickens, ducks, day-old chicks",Live animals,murgi chicken live bird poultry
+0201,"Meat of bovine animals, fresh or chilled",Fresh buffalo or beef meat,Meat and edible meat offal,carabeef buffalo meat
+0204,"Meat of sheep or goats, fresh, chilled or frozen","Mutton, goat meat, lamb",Meat and edible meat offal,mutton bakra gosht
+0207,"Meat and edible offal of poultry, fresh, chilled or frozen","Chicken meat, dressed chicken, chicken legs and breast",Meat and edible meat offal,chicken murga broiler
+0302,"Fish, fresh or chilled (excluding fish fillets and other fish meat)","Fresh fish such as rohu, pomfret, hilsa, surmai","Fish and crustaceans, molluscs and other aquatic invertebrates",machhli fish fresh
+0303,"Fish, frozen (excluding fish fillets and other fish meat)",Frozen whole fish,"Fish and crustaceans, molluscs and other aquatic invertebrates",machhli frozen fish
+0305,"Fish, dried, salted or in brine; smoked fish","Dry fish, salted fish","Fish and crustaceans, molluscs and other aquatic invertebrates",sukhi machhli dry fish
+0306,"Crustaceans, whether in shell or not, live, fresh, chilled, frozen, dried or salted","Prawns, shrimps, crabs, lobsters","Fish and crustaceans, molluscs and other aquatic invertebrates",jhinga prawn shrimp
+0401,"Milk and cream, not concentrated nor containing added sugar or other sweetening matter","Fresh milk, toned milk, full cream milk, fresh cream",Dairy produce; birds' eggs; natural honey; edible products of animal origin,doodh milk dudh malai
+0402,"Milk and cream, concentrated or containing added sugar or other sweetening matter","Milk powder, skimmed milk powder, condensed milk",Dairy produce; birds' eggs; natural honey; edible products of animal origin,milk powder dairy whitener condensed
+0403,"Yogurt, buttermilk, curdled milk and cream, kephir and other fermented or acidified milk and cream","Curd, dahi, lassi, chhach, yogurt",Dairy produce; birds' eggs; natural honey; edible products of animal origin,dahi curd lassi chaas chhachh buttermilk
+0404,"Whey; products consisting of natural milk constituents, n.e.s.","Whey, whey powder",Dairy produce; birds' eggs; natural honey; edible products of animal origin,whey
+0405,Butter and other fats and oils derived from milk; dairy spreads,"Butter, ghee, butter oil",Dairy produce; birds' eggs; natural honey; edible products of animal origin,ghee makhan butter desi ghee
+0406,Cheese and curd,"Paneer, cheese, cheese slices, processed cheese",Dairy produce; birds' eggs; natural honey; edible products of animal origin,paneer cheese chena
+0407,"Birds' eggs, in shell, fresh, preserved or cooked","Hen eggs, duck eggs",Dairy produce; birds' eggs; natural honey; edible products of animal origin,anda eggs ande
+0409,Natural honey,Honey,Dairy produce; birds' eggs; natural honey; edible products of animal origin,shahad honey madhu
+0602,"Other live plants (including their roots), cuttings and slips; mushroom spawn","Nursery plants, saplings, potted plants",Live trees and other plants; cut flowers and ornamental foliage,paudha plants nursery sapling
+0603,"Cut flowers and flower buds of a kind suitable for bouquets or for ornamental purposes, fresh, dried, dyed or bleached","Fresh cut flowers, roses, marigold, bouquets",Live trees and other plants; cut flowers and ornamental foliage,phool flowers gende
+0701,"Potatoes, fresh or chilled",Potatoes,Edible vegetables and certain roots and tubers,aloo aaloo potato
+0702,"Tomatoes, fresh or chilled",Tomatoes,Edible vegetables and certain roots and tubers,tamatar tomato
+0703,"Onions, shallots, garlic, leeks and other alliaceous vegetables, fresh or chilled","Onions, garlic, spring onions",Edible vegetables and certain roots and tubers,pyaz pyaaz kanda lehsun lahsun onion garlic
+0704,"Cabbages, cauliflowers, kohlrabi, kale and similar edible brassicas, fresh or chilled","Cabbage, cauliflower, broccoli",Edible vegetables and certain roots and tubers,gobhi patta gobhi phool gobhi cabbage cauliflower
+0706,"Carrots, turnips, salad beetroot, radishes and similar edible roots, fresh or chilled","Carrots, radish, beetroot, turnip",Edible vegetables and certain roots and tubers,gajar mooli chukandar shalgam
+0707,"Cucumbers and gherkins, fresh or chilled","Cucumber, gherkins",Edible vegetables and certain roots and tubers,kheera kakdi cucumber
+0708,"Leguminous vegetables, shelled or unshelled, fresh or chilled","Green peas, beans",Edible vegetables and certain roots and tubers,matar beans sem
+0709,"Other vegetables, fresh or chilled","Brinjal, okra, spinach, green chillies, capsicum, mushrooms, sweet corn",Edible vegetables and certain roots and tubers,baingan bhindi palak hari mirch shimla mirch sabzi vegetables
+0710,"Vegetables (uncooked or cooked by steaming or boiling in water), frozen","Frozen peas, frozen sweet corn, frozen mixed vegetables",Edible vegetables and certain roots and tubers,frozen matar frozen vegetables
+0712,"Dried vegetables, whole, cut, sliced, broken or in powder, but not further prepared","Dehydrated onion, dried vegetables",Edible vegetables and certain roots and tubers,dry vegetables dehydrated
+0713,"Dried leguminous vegetables, shelled, whether or not skinned or split","Pulses and dals: chana, moong, masoor, urad, toor/arhar, rajma, dried peas",Edible vegetables and certain roots and tubers,dal daal pulses chana moong masoor urad toor arhar rajma lobia kabuli chole
+0714,"Manioc (cassava), sweet potatoes and similar roots and tubers with high starch content","Tapioca root, sweet potato",Edible vegetables and certain roots and tubers,shakarkandi tapioca cassava
+0801,"Coconuts, Brazil nuts and cashew nuts, fresh or dried","Coconut, cashew nuts (kaju)",Edible fruit and nuts; peel of citrus fruit or melons,nariyal kaju cashew coconut
+0802,"Other nuts, fresh or dried (almonds, walnuts, pistachios, areca nuts etc.)","Almonds, walnuts, pistachios, supari (areca nut)",Edible fruit and nuts; peel of citrus fruit or melons,badam akhrot pista supari dry fruits
+0803,"Bananas, including plantains, fresh or dried","Bananas, raw banana",Edible fruit and nuts; peel of citrus fruit or melons,kela banana
+0804,"Dates, figs, pineapples, avocados, guavas, mangoes and mangosteens, fresh or dried","Dates (khajoor), dried figs (anjeer), mangoes, guava, pineapple",Edible fruit and nuts; peel of citrus fruit or melons,khajoor anjeer aam amrood ananas mango
+0805,"Citrus fruit, fresh or dried","Oranges, mosambi, lemons, limes",Edible fruit and nuts; peel of citrus fruit or melons,santra mosambi nimbu orange lemon
+0806,"Grapes, fresh or dried","Grapes, raisins (kishmish, munakka)",Edible fruit and nuts; peel of citrus fruit or melons,angoor kishmish munakka raisins
+0807,"Melons (including watermelons) and papaws (papayas), fresh","Watermelon, muskmelon, papaya",Edible fruit and nuts; peel of citrus fruit or melons,tarbooz kharbooja papita
+0808,"Apples, pears and quinces, fresh","Apples, pears",Edible fruit and nuts; peel of citrus fruit or melons,seb apple nashpati
+0810,"Other fruit, fresh","Pomegranate, strawberries, litchi, chikoo, kiwi",Edible fruit and nuts; peel of citrus fruit or melons,anar chikoo litchi strawberry fruits
+0811,"Fruit and nuts, frozen","Frozen fruit, frozen berries",Edible fruit and nuts; peel of citrus fruit or melons,frozen fruit
+0813,"Fruit, dried, other than that of headings 0801 to 0806; mixtures of nuts or dried fruits","Dried apricots, prunes, tamarind, mixed dry fruits",Edible fruit and nuts; peel of citrus fruit or melons,imli tamarind khubani dry fruit mix
+0901,"Coffee, whether or not roasted or decaffeinated; coffee husks and skins","Coffee beans, roasted coffee, ground coffee powder","Coffee, tea, mate and spices",coffee filter coffee
+0902,"Tea, whether or not flavoured","Tea leaves, CTC tea, green tea","Coffee, tea, mate and spices",chai patti chai tea
+0904,Pepper of the genus Piper; dried or crushed or ground fruits of the genus Capsicum or Pimenta,"Black pepper, dry red chillies, red chilli powder","Coffee, tea, mate and spices",kali mirch lal mirch mirchi powder chilli pepper
+0906,Cinnamon and cinnamon-tree flowers,Cinnamon (dalchini),"Coffee, tea, mate and spices",dalchini cinnamon
+0907,"Cloves (whole fruit, cloves and stems)",Cloves (laung),"Coffee, tea, mate and spices",laung clove
+0908,"Nutmeg, mace and cardamoms","Cardamom (elaichi), nutmeg (jaiphal), mace (javitri)","Coffee, tea, mate and spices",elaichi jaiphal javitri cardamom
+0909,"Seeds of anise, badian, fennel, coriander, cumin or caraway; juniper berries","Cumin (jeera), coriander seed (dhania), fennel (saunf), star anise","Coffee, tea, mate and spices",jeera dhania saunf zeera cumin coriander fennel
+0910,"Ginger, saffron, turmeric (curcuma), thyme, bay leaves, curry and other spices","Turmeric (haldi), ginger, saffron (kesar), bay leaves, fenugreek seeds (methi), mixed masala","Coffee, tea, mate and spices",haldi adrak sonth kesar tejpatta methi masala spices garam masala
+1001,Wheat and meslin,Wheat grain,Cereals,gehun gehu wheat
+1003,Barley,Barley,Cereals,jau barley
+1005,Maize (corn),"Maize, corn grain",Cereals,makka makai maize corn
+1006,Rice,"Rice: paddy, basmati, non-basmati, broken rice",Cereals,chawal chaawal rice basmati dhaan paddy
+1007,Grain sorghum,Jowar,Cereals,jowar sorghum
+1008,"Buckwheat, millet and canary seed; other cereals","Millets: bajra, ragi, kodo, quinoa",Cereals,bajra ragi millet nachni kuttu
+1101,Wheat or meslin flour,"Atta, maida (wheat flour)",Products of the milling industry; malt; starches,atta aata maida wheat flour
+1102,Cereal flours other than of wheat or meslin,"Rice flour, maize flour, jowar, bajra, ragi flour",Products of the milling industry; malt; starches,chawal ka atta makki atta bajra atta flour
+1103,"Cereal groats, meal and pellets","Suji, rava, semolina, dalia",Products of the milling industry; malt; starches,suji sooji rava semolina dalia
+1104,"Cereal grains otherwise worked (hulled, rolled, flaked, pearled, sliced or kibbled)","Rolled oats, oat flakes, hulled grains",Products of the milling industry; malt; starches,oats
+1105,"Flour, meal, powder, flakes, granules and pellets of potatoes","Potato flour, potato flakes",Products of the milling industry; malt; starches,aloo flour
+1106,"Flour, meal and powder of dried leguminous vegetables, of sago or of roots or tubers, or of fruit","Besan (gram flour), sattu, other dal flours",Products of the milling industry; malt; starches,besan sattu gram flour
+1108,Starches; inulin,"Corn flour (maize starch), potato starch",Products of the milling industry; malt; starches,cornflour corn starch arrowroot
+1201,"Soya beans, whether or not broken",Soybean,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; fodder",soyabean soybean
+1202,"Ground-nuts, not roasted or otherwise cooked, whether or not shelled or broken","Raw groundnuts, peanuts","Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; fodder",moongphali mungfali groundnut peanut
+1203,Copra,"Dried coconut kernel (copra, gola)","Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; fodder",copra gola khopra
+1207,Other oil seeds and oleaginous fruits,"Sesame (til), mustard seed (rai, sarson), cotton seed, sunflower seed","Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; fodder",til rai sarson mustard seeds sesame
+1209,"Seeds, fruit and spores, of a kind used for sowing","Vegetable seeds, flower seeds, field crop seeds for sowing","Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; fodder",beej seeds sowing bij
+1211,"Plants and parts of plants used primarily in perfumery, pharmacy or for insecticidal, fungicidal or similar purposes","Medicinal herbs, dried leaves and roots","Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; fodder",jadi booti herbs
+1214,"Swedes, mangolds, fodder roots, hay, lucerne (alfalfa), clover and similar forage products","Fodder, hay, lucerne","Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; fodder",chara fodder
+1301,"Lac; natural gums, resins, gum-resins and oleoresins","Hing (asafoetida), gum arabic, gond","Lac; gums, resins and other vegetable saps and extracts",hing heeng asafoetida gond lac
+1401,"Vegetable materials of a kind used primarily for plaiting (bamboos, rattans, reeds etc.)","Bamboo, cane, rattan",Vegetable plaiting materials; vegetable products not elsewhere specified,baans bamboo cane
+1507,Soya-bean oil and its fractions,Soyabean oil,"Animal, vegetable or microbial fats and oils; prepared edible fats",soya tel oil
+1508,Ground-nut oil and its fractions,"Groundnut oil, peanut oil","Animal, vegetable or microbial fats and oils; prepared edible fats",moongphali tel groundnut oil
+1509,Olive oil and its fractions,Olive oil,"Animal, vegetable or microbial fats and oils; prepared edible fats",olive oil
+1511,Palm oil and its fractions,"Palm oil, palmolein","Animal, vegetable or microbial fats and oils; prepared edible fats",palm oil
+1512,"Sunflower-seed, safflower or cotton-seed oil and their fractions","Sunflower oil, safflower oil, cottonseed oil","Animal, vegetable or microbial fats and oils; prepared edible fats",sunflower oil refined oil
+1513,"Coconut (copra), palm kernel or babassu oil and their fractions",Coconut oil,"Animal, vegetable or microbial fats and oils; prepared edible fats",nariyal tel coconut oil
+1514,"Rape, colza or mustard oil and their fractions",Mustard oil,"Animal, vegetable or microbial fats and oils; prepared edible fats",sarson ka tel kachi ghani mustard oil
+1515,"Other fixed vegetable or microbial fats and oils (including linseed, sesame, castor and rice bran oil)","Sesame (til) oil, rice bran oil, castor oil, linseed oil","Animal, vegetable or microbial fats and oils; prepared edible fats",til tel gingelly rice bran castor arandi
+1516,"Animal, vegetable or microbial fats and oils, partly or wholly hydrogenated","Vanaspati, hydrogenated vegetable oil","Animal, vegetable or microbial fats and oils; prepared edible fats",vanaspati dalda
+1517,Margarine; edible mixtures or preparations of fats or oils,"Margarine, bakery shortening","Animal, vegetable or microbial fats and oils; prepared edible fats",margarine
+1601,"Sausages and similar products of meat, meat offal or blood","Sausages, salami","Preparations of meat, fish or other aquatic invertebrates",sausage
+1604,Prepared or preserved fish; caviar,"Canned fish, tuna, sardines","Preparations of meat, fish or other aquatic invertebrates",canned fish
+1701,"Cane or beet sugar and chemically pure sucrose, in solid form","Sugar, sugar cubes, khandsari, jaggery (gur)",Sugars and sugar confectionery,chini cheeni shakkar gur jaggery khand sugar
+1702,"Other sugars (including glucose, lactose); sugar syrups; artificial honey; caramel","Glucose powder, liquid glucose, sugar syrup",Sugars and sugar confectionery,glucose
+1704,"Sugar confectionery (including white chocolate), not containing cocoa","Toffees, candies, lollipops, boiled sweets, chewing gum",Sugars and sugar confectionery,toffee candy goli chewing gum
+1805,"Cocoa powder, not containing added sugar or other sweetening matter",Cocoa powder,Cocoa and cocoa preparations,cocoa
+1806,Chocolate and other food preparations containing cocoa,"Chocolates, chocolate bars, drinking chocolate",Cocoa and cocoa preparations,chocolate
+1901,"Malt extract; food preparations of flour, groats, meal, starch or malt extract; food preparations of milk n.e.s.","Malted milk drink powders, infant food preparations, cake mixes","Preparations of cereals, flour, starch or milk; pastrycooks' products",health drink malt baby food instant mix
+1902,"Pasta, whether or not cooked or stuffed; couscous","Noodles, instant noodles, vermicelli (seviyan), macaroni, pasta","Preparations of cereals, flour, starch or milk; pastrycooks' products",noodles maggi seviyan sevai vermicelli pasta macaroni
+1903,"Tapioca and substitutes therefor prepared from starch, in the form of flakes, grains, pearls or similar forms",Sabudana (sago),"Preparations of cereals, flour, starch or milk; pastrycooks' products",sabudana sago
+1904,"Prepared foods obtained by the swelling or roasting of cereals (e.g. corn flakes); cereals in grain form, pre-cooked or otherwise prepared","Corn flakes, muesli, puffed rice (murmura), poha (flattened rice)","Preparations of cereals, flour, starch or milk; pastrycooks' products",murmura poha chura chiwda cornflakes muesli
+1905,"Bread, pastry, cakes, biscuits and other bakers' wares, whether or not containing cocoa","Bread, biscuits, rusk, cakes, pastries, khari, papad","Preparations of cereals, flour, starch or milk; pastrycooks' products",bread biscuit rusk cake pav papad bakery
+2001,"Vegetables, fruit, nuts and other edible parts of plants, prepared or preserved by vinegar or acetic acid","Pickles in vinegar, gherkins","Preparations of vegetables, fruit, nuts or other parts of plants",achar pickle
+2004,"Other vegetables prepared or preserved otherwise than by vinegar or acetic acid, frozen",Frozen french fries,"Preparations of vegetables, fruit, nuts or other parts of plants",french fries frozen
+2005,"Other vegetables prepared or preserved otherwise than by vinegar or acetic acid, not frozen","Potato chips (wafers), canned vegetables","Preparations of vegetables, fruit, nuts or other parts of plants",potato chips wafers
+2006,"Vegetables, fruit, nuts, fruit-peel and other parts of plants, preserved by sugar (drained, glace or crystallised)","Petha, candied fruit, tutti frutti","Preparations of vegetables, fruit, nuts or other parts of plants",petha murabba tutti frutti
+2007,"Jams, fruit jellies, marmalades, fruit or nut puree and pastes, obtained by cooking","Jam, jelly, marmalade","Preparations of vegetables, fruit, nuts or other parts of plants",jam jelly
+2008,"Fruit, nuts and other edible parts of plants, otherwise prepared or preserved","Roasted or salted nuts, roasted peanuts, canned fruit","Preparations of vegetables, fruit, nuts or other parts of plants",roasted peanuts salted cashew
+2009,"Fruit or nut juices and vegetable juices, unfermented and not containing added spirit","Fruit juices, vegetable juices","Preparations of vegetables, fruit, nuts or other parts of plants",juice
+2101,"Extracts, essences and concentrates of coffee, tea or mate; roasted chicory","Instant coffee, coffee-chicory mixes, tea extracts",Miscellaneous edible preparations,instant coffee nescafe chicory
+2102,Yeasts; prepared baking powders,"Yeast, baking powder",Miscellaneous edible preparations,yeast baking powder
+2103,Sauces and preparations therefor; mixed condiments and mixed seasonings; mustard flour and prepared mustard,"Tomato ketchup, sauces, soya sauce, mayonnaise",Miscellaneous edible preparations,ketchup sauce mayonnaise
+2104,Soups and broths and preparations therefor,"Soup, instant soup powder",Miscellaneous edible preparations,soup
+2105,Ice cream and other edible ice,"Ice cream, kulfi, frozen desserts",Miscellaneous edible preparations,ice cream kulfi
+2106,Food preparations not elsewhere specified or included,"Namkeen, bhujia, Indian sweets (mithai), protein powder, pan masala, sharbat concentrates",Miscellaneous edible preparations,namkeen bhujia mixture mithai sweets protein powder pan masala
+2201,"Waters, including natural or artificial mineral waters and aerated waters, not sweetened or flavoured; ice and snow","Packaged drinking water, mineral water, soda, ice","Beverages, spirits and vinegar",pani bottle water bisleri ice soda
+2202,"Waters, including mineral and aerated waters, containing added sugar or flavour, and other non-alcoholic beverages","Soft drinks, cold drinks, energy drinks, flavoured drinks","Beverages, spirits and vinegar",cold drink soft drink cola
+2209,Vinegar and substitutes for vinegar obtained from acetic acid,Vinegar (sirka),"Beverages, spirits and vinegar",sirka vinegar
+2302,"Bran, sharps and other residues from the sifting, milling or other working of cereals or leguminous plants","Wheat bran (chokar), rice bran",Residues and waste from the food industries; prepared animal fodder,chokar bran
+2304,Oil-cake and other solid residues from the extraction of soya-bean oil,"Soya DOC, soya meal",Residues and waste from the food industries; prepared animal fodder,soya doc khali
+2306,Oil-cake and other solid residues from the extraction of other vegetable fats or oils,"Groundnut cake, mustard cake, cotton seed cake (khal)",Residues and waste from the food industries; prepared animal fodder,khal khali oil cake
+2309,Preparations of a kind used in animal feeding,"Cattle feed, poultry feed, fish feed, dog and cat food",Residues and waste from the food industries; prepared animal fodder,pashu aahar cattle feed murgi dana poultry feed pet food
+2401,Unmanufactured tobacco; tobacco refuse,Raw tobacco leaves,Tobacco and manufactured tobacco substitutes,tambaku tobacco
+2402,"Cigars, cheroots, cigarillos and cigarettes, of tobacco or of tobacco substitutes","Cigarettes, cigars",Tobacco and manufactured tobacco substitutes,cigarette
+2403,Other manufactured tobacco; homogenised or reconstituted tobacco; tobacco extracts and essences,"Bidi, chewing tobacco, zarda, khaini, gutkha, hookah tobacco",Tobacco and manufactured tobacco substitutes,bidi beedi zarda khaini gutkha
+2501,Salt (including table salt and denatured salt) and pure sodium chloride,"Table salt, rock salt (sendha namak), black salt","Salt; sulphur; earths and stone; plastering materials, lime and cement",namak salt sendha
+2505,"Natural sands of all kinds, whether or not coloured",Sand for construction,"Salt; sulphur; earths and stone; plastering materials, lime and cement",ret balu reti sand
+2507,Kaolin and other kaolinic clays,China clay,"Salt; sulphur; earths and stone; plastering materials, lime and cement",china clay kaolin
+2515,"Marble, travertine, ecaussine and other calcareous monumental or building stone, crude or roughly trimmed or cut into blocks",Marble blocks,"Salt; sulphur; earths and stone; plastering materials, lime and cement",marble block
+2516,"Granite, porphyry, basalt, sandstone and other monumental or building stone, crude or roughly trimmed or cut into blocks","Granite blocks, sandstone blocks","Salt; sulphur; earths and stone; plastering materials, lime and cement",granite block
+2517,"Pebbles, gravel, broken or crushed stone, of a kind commonly used for concrete aggregates or road metalling","Gitti, aggregate, crushed stone, stone chips","Salt; sulphur; earths and stone; plastering materials, lime and cement",gitti rodi aggregate stone chips
+2520,Gypsum; anhydrite; plasters,"Plaster of Paris (POP), gypsum","Salt; sulphur; earths and stone; plastering materials, lime and cement",pop plaster of paris gypsum
+2522,"Quicklime, slaked lime and hydraulic lime",Lime (chuna),"Salt; sulphur; earths and stone; plastering materials, lime and cement",chuna lime
+2523,"Portland cement, aluminous cement, slag cement, supersulphate cement and similar hydraulic cements","Cement (OPC, PPC), white cement, cement clinker","Salt; sulphur; earths and stone; plastering materials, lime and cement",cement opc ppc
+2701,"Coal; briquettes, ovoids and similar solid fuels manufactured from coal",Coal,"Mineral fuels, mineral oils and products of their distillation; mineral waxes",koyla coal
+2710,"Petroleum oils and oils obtained from bituminous minerals, other than crude; preparations thereof","Engine oil, lubricating oil, gear oil, kerosene","Mineral fuels, mineral oils and products of their distillation; mineral waxes",engine oil mobil lube oil kerosene
+2711,Petroleum gases and other gaseous hydrocarbons,LPG,"Mineral fuels, mineral oils and products of their distillation; mineral waxes",lpg gas cylinder
+2712,Petroleum jelly; paraffin wax and similar waxes,"Petroleum jelly, paraffin wax (candle wax)","Mineral fuels, mineral oils and products of their distillation; mineral waxes",vaseline paraffin wax
+2713,"Petroleum coke, petroleum bitumen and other residues of petroleum oils",Bitumen,"Mineral fuels, mineral oils and products of their distillation; mineral waxes",bitumen tar damar
+3002,"Human blood; animal blood; antisera and other blood fractions; vaccines, toxins and similar products","Vaccines, antisera, blood products",Pharmaceutical products,vaccine
+3003,"Medicaments consisting of two or more constituents, not put up in measured doses or in packings for retail sale",Bulk medicines not in retail packs,Pharmaceutical products,bulk medicine
+3004,"Medicaments consisting of mixed or unmixed products, put up in measured doses or in packings for retail sale","Tablets, capsules, syrups, injections, ointments; Ayurvedic, Unani, Siddha and homoeopathic medicines",Pharmaceutical products,dawai dawa medicine tablet capsule syrup ayurvedic homeopathic
+3005,"Wadding, gauze, bandages and similar articles, impregnated or coated or put up for retail sale for medical purposes","Bandages, gauze, adhesive plasters, cotton wool for medical use",Pharmaceutical products,patti bandage gauze cotton band aid
+3006,Pharmaceutical goods specified in Note 4 to this Chapter,"Sterile surgical sutures, first-aid boxes and kits, blood grouping reagents",Pharmaceutical products,suture first aid kit
+3101,"Animal or vegetable fertilisers, whether or not mixed together or chemically treated","Organic manure, compost, vermicompost",Fertilisers,khaad organic manure compost gobar
+3102,"Mineral or chemical fertilisers, nitrogenous","Urea, ammonium sulphate, CAN",Fertilisers,urea khaad
+3103,"Mineral or chemical fertilisers, phosphatic",Single super phosphate (SSP),Fertilisers,ssp phosphate
+3104,"Mineral or chemical fertilisers, potassic",Muriate of potash (MOP),Fertilisers,potash mop
+3105,"Mineral or chemical fertilisers containing two or three of nitrogen, phosphorus and potassium; other fertilisers","DAP, NPK complex fertilisers",Fertilisers,dap npk khaad
+3208,"Paints and varnishes based on synthetic polymers or chemically modified natural polymers, dispersed or dissolved in a non-aqueous medium","Enamel paint, oil-based paints, varnish, lacquer","Tanning or dyeing extracts; dyes, pigments, paints and varnishes; putty; inks",enamel paint varnish
+3209,"Paints and varnishes based on synthetic polymers or chemically modified natural polymers, dispersed or dissolved in an aqueous medium","Emulsion paint, acrylic wall paint","Tanning or dyeing extracts; dyes, pigments, paints and varnishes; putty; inks",emulsion wall paint
+3210,Other paints and varnishes; prepared water pigments of a kind used for finishing leather,"Distemper, other paints","Tanning or dyeing extracts; dyes, pigments, paints and varnishes; putty; inks",distemper
+3213,"Artists', students' or signboard painters' colours, in tablets, tubes, jars or similar forms","Water colours, poster colours, oil colours for artists","Tanning or dyeing extracts; dyes, pigments, paints and varnishes; putty; inks",water colour poster colour
+3214,"Glaziers' putty, grafting putty, resin cements, caulking compounds and other mastics; painters' fillings","Wall putty, sealants, m-seal type compounds","Tanning or dyeing extracts; dyes, pigments, paints and varnishes; putty; inks",wall putty sealant
+3215,"Printing ink, writing or drawing ink and other inks","Printing ink, writing ink, stamp pad ink","Tanning or dyeing extracts; dyes, pigments, paints and varnishes; putty; inks",ink syahi
+3301,Essential oils; resinoids; extracted oleoresins,"Essential oils, peppermint oil, eucalyptus oil","Essential oils; perfumery, cosmetic or toilet preparations",essential oil
+3303,Perfumes and toilet waters,"Perfumes, attar, eau de toilette","Essential oils; perfumery, cosmetic or toilet preparations",perfume itar attar scent
+3304,Beauty or make-up preparations and preparations for the care of the skin; manicure or pedicure preparations,"Lipstick, kajal, face powder, creams, lotions, sunscreen, nail polish","Essential oils; perfumery, cosmetic or toilet preparations",lipstick kajal cream lotion makeup nail polish face powder sunscreen
+3305,Preparations for use on the hair,"Shampoo, hair oil, hair colour, hair cream, hair gel","Essential oils; perfumery, cosmetic or toilet preparations",shampoo baalon ka tel hair oil hair dye
+3306,"Preparations for oral or dental hygiene, including denture fixative pastes and powders; dental floss","Toothpaste, tooth powder, mouthwash, dental floss","Essential oils; perfumery, cosmetic or toilet preparations",toothpaste manjan
+3307,"Shaving preparations, deodorants, bath preparations, depilatories, room deodorisers and other perfumery or toilet preparations n.e.s.","Shaving cream, deodorants, room fresheners, agarbatti, dhoop","Essential oils; perfumery, cosmetic or toilet preparations",shaving cream deo room freshener agarbatti dhoop
+330741,Agarbatti and other odoriferous preparations which operate by burning,"Agarbatti (incense sticks), dhoop sticks, dhoop cones","Essential oils; perfumery, cosmetic or toilet preparations",agarbatti dhoop incense
+3401,Soap; organic surface-active products in the form of bars or cakes; washing preparations for the skin,"Bathing soap, detergent bars, liquid hand wash","Soap, washing preparations, lubricating preparations, waxes, polishes, candles",sabun soap bar handwash
+3402,Organic surface-active agents; washing preparations and cleaning preparations,"Detergent powder, liquid detergent, dishwash liquid and bar, floor cleaner","Soap, washing preparations, lubricating preparations, waxes, polishes, candles",surf detergent washing powder dishwash
+3403,Lubricating preparations and preparations of a kind used for oil or grease treatment of textiles or leather,Lubricating preparations with less than 70% petroleum oil,"Soap, washing preparations, lubricating preparations, waxes, polishes, candles",lubricant grease
+3405,"Polishes and creams for footwear, furniture, floors, metal; scouring pastes and powders","Shoe polish, metal polish, furniture polish, scouring powder","Soap, washing preparations, lubricating preparations, waxes, polishes, candles",shoe polish
+3406,"Candles, tapers and the like",Candles,"Soap, washing preparations, lubricating preparations, waxes, polishes, candles",mombatti candle
+3407,Modelling pastes; dental wax; other preparations for use in dentistry with a basis of plaster,"Clay for children, modelling dough","Soap, washing preparations, lubricating preparations, waxes, polishes, candles",clay modelling
+3506,Prepared glues and other prepared adhesives n.e.s.; products suitable for use as glues or adhesives put up for retail sale,"Glue, white adhesive, instant adhesive, gum",Albuminoidal substances; modified starches; glues; enzymes,gond glue fevicol adhesive gum
+3604,"Fireworks, signalling flares, rain rockets, fog signals and other pyrotechnic articles","Fireworks, crackers",Explosives; pyrotechnic products; matches,patakhe patake crackers fireworks
+3605,"Matches, other than pyrotechnic articles of heading 3604",Matchboxes,Explosives; pyrotechnic products; matches,machis maachis matchbox
+3808,"Insecticides, rodenticides, fungicides, herbicides, plant-growth regulators, disinfectants and similar products","Pesticides, weedicides, mosquito coils and liquid vaporizers, rat poison, disinfectants, hand sanitiser",Miscellaneous chemical products,pesticide keetnashak mosquito coil machhar disinfectant phenyl sanitizer
+3819,Hydraulic brake fluids and other prepared liquids for hydraulic transmission,Brake fluid,Miscellaneous chemical products,brake oil
+3820,Anti-freezing preparations and prepared de-icing fluids,"Radiator coolant, antifreeze",Miscellaneous chemical products,coolant
+3822,Diagnostic or laboratory reagents; certified reference materials,"Diagnostic test kits, reagents",Miscellaneous chemical products,test kit reagent
+3824,Prepared binders for foundry moulds or cores; chemical products and preparations n.e.s.,"Concrete admixtures, waterproofing additives for cement",Miscellaneous chemical products,admixture waterproofing
+3917,"Tubes, pipes and hoses, and fittings therefor, of plastics","PVC, CPVC, HDPE pipes, garden hose, plastic pipe fittings",Plastics and articles thereof,pvc pipe cpvc pipe hose
+3918,Floor coverings of plastics; wall or ceiling coverings of plastics,"Vinyl flooring, PVC floor mats",Plastics and articles thereof,vinyl flooring
+3919,"Self-adhesive plates, sheets, film, foil, tape, strip and other flat shapes, of plastics","Cello tape, BOPP tape, packing tape, stickers on plastic",Plastics and articles thereof,cello tape packing tape
+3920,"Other plates, sheets, film, foil and strip, of plastics, non-cellular and not reinforced","Plastic sheets and films, polythene film",Plastics and articles thereof,plastic sheet film
+3922,"Baths, shower-baths, sinks, wash-basins, lavatory seats and covers, flushing cisterns and similar sanitary ware, of plastics","Plastic toilet seat covers, PVC flushing cisterns",Plastics and articles thereof,toilet seat cover cistern
+3923,"Articles for the conveyance or packing of goods, of plastics; stoppers, lids, caps and other closures, of plastics","Plastic bottles, jars, containers, boxes, carry bags, caps",Plastics and articles thereof,plastic bottle jar dabba thaili bag packaging
+3924,"Tableware, kitchenware, other household articles and hygienic or toilet articles, of plastics","Plastic buckets, mugs, tiffin boxes, water bottles for home use",Plastics and articles thereof,balti bucket mug tiffin plastic household
+3925,"Builders' ware of plastics, n.e.s.","Plastic water tanks over 300 litres, PVC doors and windows",Plastics and articles thereof,water tank pvc door
+3926,Other articles of plastics,"Plastic stationery, files and folders, raincoats, plastic hangers, plastic bangles",Plastics and articles thereof,plastic file folder raincoat
+4009,"Tubes, pipes and hoses, of vulcanised rubber","Rubber hoses, LPG rubber tube",Rubber and articles thereof,rubber pipe
+4010,"Conveyor or transmission belts or belting, of vulcanised rubber","V-belts, fan belts, conveyor belts",Rubber and articles thereof,v belt fan belt
+4011,"New pneumatic tyres, of rubber","Tyres for cars, two-wheelers, trucks, tractors, bicycles",Rubber and articles thereof,tyre tayar tire
+4012,"Retreaded or used pneumatic tyres of rubber; solid or cushion tyres, tyre treads and tyre flaps","Retreaded tyres, tyre flaps",Rubber and articles thereof,retread
+4013,"Inner tubes, of rubber",Tyre tubes,Rubber and articles thereof,tube
+4014,Hygienic or pharmaceutical articles of vulcanised rubber (including teats),"Condoms, feeding bottle nipples",Rubber and articles thereof,condom nipple
+4015,Articles of apparel and clothing accessories (including gloves) of vulcanised rubber,"Rubber gloves, surgical gloves",Rubber and articles thereof,gloves dastane
+4016,Other articles of vulcanised rubber other than hard rubber,"Erasers, rubber bands, rubber mats, gaskets of rubber",Rubber and articles thereof,rubber eraser rubber band
+4202,"Trunks, suitcases, briefcases, school bags, handbags, wallets, purses and similar containers","School bags, handbags, suitcases, wallets, laptop bags, purses","Articles of leather; travel goods, handbags and similar containers",bag school bag purse wallet suitcase
+4203,"Articles of apparel and clothing accessories, of leather or of composition leather","Leather belts, leather jackets, leather gloves","Articles of leather; travel goods, handbags and similar containers",belt leather jacket
+4401,Fuel wood; wood in chips or particles; sawdust and wood waste,"Firewood, sawdust",Wood and articles of wood; wood charcoal,lakdi jalawan firewood
+4402,Wood charcoal (including shell or nut charcoal),Charcoal,Wood and articles of wood; wood charcoal,koyla charcoal
+4407,"Wood sawn or chipped lengthwise, sliced or peeled, of a thickness exceeding 6 mm","Sawn timber, wooden planks",Wood and articles of wood; wood charcoal,lakdi timber planks
+4408,"Sheets for veneering and for plywood, of a thickness not exceeding 6 mm",Veneer sheets,Wood and articles of wood; wood charcoal,veneer
+4410,"Particle board, oriented strand board (OSB) and similar board of wood",Particle board,Wood and articles of wood; wood charcoal,particle board
+4411,Fibreboard of wood or other ligneous materials,"MDF, HDF boards",Wood and articles of wood; wood charcoal,mdf hdf board
+4412,"Plywood, veneered panels and similar laminated wood","Plywood, block board, flush board",Wood and articles of wood; wood charcoal,plywood ply block board
+4414,"Wooden frames for paintings, photographs, mirrors or similar objects","Wooden photo frames, mirror frames",Wood and articles of wood; wood charcoal,photo frame
+4418,Builders' joinery and carpentry of wood,"Wooden doors, windows, door frames, flush doors",Wood and articles of wood; wood charcoal,darwaza door chaukhat window
+4421,Other articles of wood,"Wooden hangers, wooden spoons, toothpicks",Wood and articles of wood; wood charcoal,wooden hanger
+4601,"Plaits and similar products of plaiting materials; mats, matting and screens of vegetable materials","Chatai, bamboo or palm-leaf mats",Manufactures of straw or other plaiting materials; basketware,chatai mat
+4602,"Basketwork, wickerwork and other articles made of plaiting materials","Baskets, cane and bamboo articles",Manufactures of straw or other plaiting materials; basketware,tokri basket
+4802,"Uncoated paper and paperboard used for writing, printing or other graphic purposes","A4 copier paper, printing paper","Paper and paperboard; articles of paper pulp, paper or paperboard",a4 paper copier paper kagaz
+4817,"Envelopes, letter cards, plain postcards and correspondence cards, of paper or paperboard",Envelopes,"Paper and paperboard; articles of paper pulp, paper or paperboard",lifafa envelope
+4818,"Toilet paper, tissues, towels, napkins, tablecloths and similar household or sanitary articles of paper","Tissue paper, toilet rolls, paper napkins, kitchen towels","Paper and paperboard; articles of paper pulp, paper or paperboard",tissue napkin toilet roll
+4819,"Cartons, boxes, cases, bags and other packing containers, of paper or paperboard","Corrugated boxes, cartons, paper bags","Paper and paperboard; articles of paper pulp, paper or paperboard",carton corrugated box paper bag
+4820,"Registers, account books, notebooks, diaries, letter pads, exercise books, binders and file covers, of paper","Notebooks, registers, diaries, exercise books, file covers","Paper and paperboard; articles of paper pulp, paper or paperboard",copy notebook register diary
+4821,"Paper or paperboard labels of all kinds, whether or not printed","Paper labels, printed tags","Paper and paperboard; articles of paper pulp, paper or paperboard",label tag
+4823,"Other paper, paperboard, cellulose wadding and articles thereof","Paper cups, paper plates","Paper and paperboard; articles of paper pulp, paper or paperboard",paper cup paper plate
+4901,"Printed books, brochures, leaflets and similar printed matter","Books, textbooks, guides","Printed books, newspapers, pictures and other printed products",kitab books
+4902,"Newspapers, journals and periodicals","Newspapers, magazines","Printed books, newspapers, pictures and other printed products",akhbar newspaper magazine
+4903,"Children's picture, drawing or colouring books","Children's picture books, colouring books","Printed books, newspapers, pictures and other printed products",colouring book
+4909,Printed or illustrated postcards; printed cards bearing personal greetings or messages,"Greeting cards, invitation cards","Printed books, newspapers, pictures and other printed products",greeting card
+4910,"Calendars of any kind, printed, including calendar blocks",Calendars,"Printed books, newspapers, pictures and other printed products",calendar
+4911,"Other printed matter, including printed pictures and photographs","Posters, pamphlets, brochures, trade catalogues, printed forms","Printed books, newspapers, pictures and other printed products",poster pamphlet printed
+5007,Woven fabrics of silk or of silk waste,"Silk fabric, silk sarees",Silk,resham silk saree
+5204,"Cotton sewing thread, whether or not put up for retail sale",Cotton sewing thread,Cotton,dhaga thread
+5205,"Cotton yarn (other than sewing thread), containing 85% or more by weight of cotton, not put up for retail sale",Cotton yarn,Cotton,suta yarn
+5208,"Woven fabrics of cotton, containing 85% or more by weight of cotton, weighing not more than 200 g/m2","Cotton cloth, cotton sarees, dhoti, lungi, shirting",Cotton,kapda cotton fabric saree dhoti lungi
+5209,"Woven fabrics of cotton, containing 85% or more by weight of cotton, weighing more than 200 g/m2","Heavier cotton fabric, denim, canvas",Cotton,denim canvas
+5310,Woven fabrics of jute or of other textile bast fibres,"Jute fabric, hessian cloth",Other vegetable textile fibres (jute etc.); woven fabrics of them,jute hessian tat
+5402,"Synthetic filament yarn (other than sewing thread), not put up for retail sale",Polyester and nylon filament yarn,Man-made filaments; strip of man-made textile materials,polyester yarn
+5407,Woven fabrics of synthetic filament yarn,"Polyester and nylon fabric, synthetic sarees",Man-made filaments; strip of man-made textile materials,polyester fabric synthetic saree
+5512,"Woven fabrics of synthetic staple fibres, containing 85% or more by weight of synthetic staple fibres",Synthetic staple fibre fabric,Man-made staple fibres,synthetic fabric
+5601,Wadding of textile materials and articles thereof,Cotton wadding (non-medical),"Wadding, felt and nonwovens; special yarns; twine, cordage, ropes",rui cotton
+5607,"Twine, cordage, ropes and cables, whether or not plaited or braided","Ropes, nylon rope, jute twine","Wadding, felt and nonwovens; special yarns; twine, cordage, ropes",rassi rope sutli
+5608,"Knotted netting of twine, cordage or rope; made up fishing nets and other nets","Fishing nets, safety nets","Wadding, felt and nonwovens; special yarns; twine, cordage, ropes",jaal net
+5702,"Carpets and other textile floor coverings, woven, not tufted or flocked","Durries, woven carpets",Carpets and other textile floor coverings,dari durrie carpet
+5703,"Carpets and other textile floor coverings (including turf), tufted","Tufted carpets, artificial grass",Carpets and other textile floor coverings,carpet
+5804,"Tulles and other net fabrics; lace in the piece, in strips or in motifs","Lace, net fabric",Special woven fabrics; lace; trimmings; embroidery,lace
+5806,Narrow woven fabrics,"Ribbons, tapes, elastic tapes, niwar",Special woven fabrics; lace; trimmings; embroidery,ribbon niwar tape
+5807,"Labels, badges and similar articles of textile materials, not embroidered","Woven labels, cloth labels",Special woven fabrics; lace; trimmings; embroidery,label
+5808,"Braids in the piece; ornamental trimmings in the piece; tassels, pompons","Braids, ornamental trimmings, tassels",Special woven fabrics; lace; trimmings; embroidery,lace border tassel
+6006,Other knitted or crocheted fabrics,Knitted fabric for T-shirts and hosiery,Knitted or crocheted fabrics,hosiery fabric
+6104,"Women's or girls' suits, ensembles, jackets, dresses, skirts, trousers, shorts, knitted or crocheted","Knitted dresses, leggings, women's knitted trousers","Apparel and clothing accessories, knitted or crocheted",leggings ladies dress
+6105,"Men's or boys' shirts, knitted or crocheted","Knitted shirts, polo shirts","Apparel and clothing accessories, knitted or crocheted",polo shirt
+6107,"Men's or boys' underpants, briefs, nightshirts, pyjamas, bathrobes, knitted or crocheted","Briefs, trunks, men's knitted pyjamas","Apparel and clothing accessories, knitted or crocheted",underwear chaddi briefs
+6108,"Women's or girls' slips, petticoats, panties, nightdresses, pyjamas, knitted or crocheted","Panties, nightwear, women's knitted innerwear","Apparel and clothing accessories, knitted or crocheted",ladies innerwear nightwear
+6109,"T-shirts, singlets and other vests, knitted or crocheted","T-shirts, vests (baniyan)","Apparel and clothing accessories, knitted or crocheted",tshirt t-shirt baniyan vest
+6110,"Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or crocheted","Sweaters, cardigans, sweatshirts, hoodies","Apparel and clothing accessories, knitted or crocheted",sweater swetar hoodie
+6111,"Babies' garments and clothing accessories, knitted or crocheted",Knitted baby clothes,"Apparel and clothing accessories, knitted or crocheted",baby clothes
+6112,"Track suits, ski suits and swimwear, knitted or crocheted","Track suits, swimwear","Apparel and clothing accessories, knitted or crocheted",tracksuit swimsuit
+6115,"Pantyhose, tights, stockings, socks and other hosiery, knitted or crocheted","Socks, stockings","Apparel and clothing accessories, knitted or crocheted",moze moje socks
+6117,"Other made up clothing accessories, knitted or crocheted","Knitted shawls, scarves, mufflers and stoles","Apparel and clothing accessories, knitted or crocheted",knitted scarf
+6201,"Men's or boys' overcoats, anoraks, windcheaters and similar articles, not knitted","Jackets, windcheaters, overcoats","Apparel and clothing accessories, not knitted or crocheted",jacket
+6203,"Men's or boys' suits, ensembles, jackets, blazers, trousers, shorts, not knitted","Men's trousers, jeans, suits, blazers, shorts","Apparel and clothing accessories, not knitted or crocheted",pant jeans trouser suit blazer
+6204,"Women's or girls' suits, ensembles, jackets, dresses, skirts, trousers, shorts, not knitted","Women's suits and ensembles, dresses, skirts, women's jeans","Apparel and clothing accessories, not knitted or crocheted",ladies suit dress skirt
+6205,"Men's or boys' shirts, not knitted or crocheted",Men's shirts,"Apparel and clothing accessories, not knitted or crocheted",shirt kameez
+6206,"Women's or girls' blouses, shirts and shirt-blouses, not knitted or crocheted","Blouses, women's shirts and tops","Apparel and clothing accessories, not knitted or crocheted",blouse top
+6209,"Babies' garments and clothing accessories, not knitted or crocheted",Woven baby clothes,"Apparel and clothing accessories, not knitted or crocheted",baby clothes
+6211,"Track suits, ski suits and swimwear; other garments, not knitted or crocheted","Other woven garments, swimwear","Apparel and clothing accessories, not knitted or crocheted",garments
+6212,"Brassieres, girdles, corsets, braces, suspenders and similar articles","Bras, shapewear","Apparel and clothing accessories, not knitted or crocheted",bra
+6213,Handkerchiefs,Handkerchiefs,"Apparel and clothing accessories, not knitted or crocheted",rumal hanky
+6214,"Shawls, scarves, mufflers, mantillas, veils and the like, not knitted","Dupattas, stoles, shawls, scarves, mufflers","Apparel and clothing accessories, not knitted or crocheted",dupatta chunni shawl stole muffler
+6215,"Ties, bow ties and cravats",Neckties,"Apparel and clothing accessories, not knitted or crocheted",tie
+6301,Blankets and travelling rugs,Blankets,Other made up textile articles; sets; worn clothing,kambal blanket
+6302,"Bed linen, table linen, toilet linen and kitchen linen","Bedsheets, pillow covers, towels, table cloths",Other made up textile articles; sets; worn clothing,chadar bedsheet towel tauliya
+6303,Curtains (including drapes) and interior blinds; curtain or bed valances,Curtains,Other made up textile articles; sets; worn clothing,parda curtain
+6304,"Other furnishing articles, excluding those of heading 9404","Bedspreads, cushion covers, sofa covers",Other made up textile articles; sets; worn clothing,cushion cover bedcover
+6305,"Sacks and bags, of a kind used for the packing of goods","Jute bags (gunny), HDPE and PP woven sacks",Other made up textile articles; sets; worn clothing,bori bora gunny bag sack
+6306,"Tarpaulins, awnings and sunblinds; tents; sails; camping goods","Tarpaulins, tents",Other made up textile articles; sets; worn clothing,tirpal tarpaulin tent
+6307,"Other made up articles, including dress patterns","Floor cloths, dusters, face masks, life jackets",Other made up textile articles; sets; worn clothing,pocha duster mask
+6309,Worn clothing and other worn articles,Second-hand clothes,Other made up textile articles; sets; worn clothing,used clothes
+6401,"Waterproof footwear with outer soles and uppers of rubber or of plastics, uppers not fixed by stitching or similar processes","Gumboots, rain boots","Footwear, gaiters and the like; parts of such articles",gumboot
+6402,Other footwear with outer soles and uppers of rubber or plastics,"Plastic or rubber chappals, slippers, sandals, sports shoes","Footwear, gaiters and the like; parts of such articles",chappal slipper sandal joota
+640220,Footwear with upper straps or thongs assembled to the sole by means of plugs,"Hawai chappals, flip-flops","Footwear, gaiters and the like; parts of such articles",hawai chappal flip flop
+6403,"Footwear with outer soles of rubber, plastics or leather and uppers of leather","Leather shoes, leather sandals, Kolhapuri chappals","Footwear, gaiters and the like; parts of such articles",leather shoes juti mojari kolhapuri
+6404,"Footwear with outer soles of rubber, plastics or leather and uppers of textile materials","Canvas shoes, sports shoes with fabric uppers","Footwear, gaiters and the like; parts of such articles",canvas shoes sneakers
+6405,Other footwear,Footwear of other materials,"Footwear, gaiters and the like; parts of such articles",footwear
+6406,"Parts of footwear; removable insoles, heel cushions; gaiters and similar articles","Soles, insoles, shoe uppers","Footwear, gaiters and the like; parts of such articles",sole insole
+6505,"Hats and other headgear, knitted or crocheted, or made up from lace, felt or other textile fabric","Caps, hats, woollen caps",Headgear and parts thereof,topi cap
+6506,"Other headgear, whether or not lined or trimmed","Helmets, safety helmets",Headgear and parts thereof,helmet
+6601,Umbrellas and sun umbrellas,Umbrellas,"Umbrellas, sun umbrellas, walking-sticks and parts thereof",chhata chhatri umbrella
+6702,"Artificial flowers, foliage and fruit and parts thereof",Artificial flowers,Prepared feathers; artificial flowers; articles of human hair,artificial flowers
+6704,"Wigs, false beards, eyebrows and eyelashes, switches and the like, of human or animal hair or textile materials","Wigs, hair extensions",Prepared feathers; artificial flowers; articles of human hair,wig
+6802,Worked monumental or building stone and articles thereof,"Marble slabs, granite slabs, Kota stone, stone tiles","Articles of stone, plaster, cement, asbestos, mica or similar materials",marble granite kota stone slab
+6804,"Millstones, grindstones, grinding wheels and the like","Grinding wheels, cutting wheels","Articles of stone, plaster, cement, asbestos, mica or similar materials",grinding wheel
+6805,"Natural or artificial abrasive powder or grain, on a base of textile material, paper or paperboard","Sandpaper, emery paper","Articles of stone, plaster, cement, asbestos, mica or similar materials",regmal sandpaper
+6809,Articles of plaster or of compositions based on plaster,"Gypsum boards, false ceiling boards and tiles","Articles of stone, plaster, cement, asbestos, mica or similar materials",gypsum board false ceiling
+6810,"Articles of cement, of concrete or of artificial stone","Concrete blocks, paver blocks, precast concrete, cement tiles","Articles of stone, plaster, cement, asbestos, mica or similar materials",paver block concrete block
+6811,"Articles of asbestos-cement, of cellulose fibre-cement or the like",Cement roofing sheets,"Articles of stone, plaster, cement, asbestos, mica or similar materials",ac sheet cement sheet
+6815,"Articles of stone or of other mineral substances, n.e.s.",Fly ash bricks and blocks,"Articles of stone, plaster, cement, asbestos, mica or similar materials",fly ash brick
+6904,"Ceramic building bricks, flooring blocks, support or filler tiles and the like","Clay bricks, red bricks",Ceramic products,eent int brick
+6905,"Roofing tiles, chimney-pots, cowls, chimney liners, architectural ornaments and other ceramic constructional goods","Clay roof tiles, Mangalore tiles",Ceramic products,khaprail roof tile
+6907,"Ceramic flags and paving, hearth or wall tiles; ceramic mosaic cubes","Floor tiles, wall tiles, vitrified tiles",Ceramic products,tiles vitrified floor tiles
+6910,"Ceramic sinks, wash basins, baths, water closet pans, flushing cisterns, urinals and similar sanitary fixtures","Wash basins, western and Indian toilets, urinals",Ceramic products,wash basin toilet commode sanitaryware
+6911,"Tableware, kitchenware, other household articles and toilet articles, of porcelain or china",Bone china and porcelain crockery,Ceramic products,crockery cup plate
+6912,"Ceramic tableware, kitchenware, other household articles and toilet articles, other than of porcelain or china","Stoneware mugs, earthenware, ceramic plates",Ceramic products,ceramic mug
+6913,Statuettes and other ornamental ceramic articles,"Ceramic idols, decorative ceramic items",Ceramic products,showpiece
+7005,"Float glass and surface ground or polished glass, in sheets","Float glass, sheet glass",Glass and glassware,kaanch glass sheet
+7007,"Safety glass, consisting of toughened (tempered) or laminated glass","Toughened glass, laminated glass, vehicle windscreens",Glass and glassware,toughened glass windshield
+7009,"Glass mirrors, whether or not framed, including rear-view mirrors","Mirrors, vehicle rear-view mirrors",Glass and glassware,aaina sheesha mirror
+7010,"Carboys, bottles, flasks, jars, pots, phials and other containers, of glass","Glass bottles, glass jars",Glass and glassware,glass bottle jar
+7013,"Glassware of a kind used for table, kitchen, toilet, office or indoor decoration","Glass tumblers, glass bowls, decorative glassware",Glass and glassware,glass tumbler gilas
+7018,"Glass beads, imitation pearls and similar small glassware; glass bangles","Glass bangles, glass beads",Glass and glassware,kanch ki chudi bangles
+7106,"Silver (including silver plated with gold or platinum), unwrought or in semi-manufactured forms, or in powder form","Silver bars, silver granules","Pearls, precious stones, precious metals; imitation jewellery",chandi silver
+7108,"Gold (including gold plated with platinum), unwrought or in semi-manufactured forms, or in powder form","Gold bars, gold biscuits","Pearls, precious stones, precious metals; imitation jewellery",sona gold
+7113,"Articles of jewellery and parts thereof, of precious metal or of metal clad with precious metal","Gold jewellery, silver jewellery","Pearls, precious stones, precious metals; imitation jewellery",jewellery gahne zevar gold silver
+7114,Articles of goldsmiths' or silversmiths' wares,"Silver utensils, silver articles","Pearls, precious stones, precious metals; imitation jewellery",chandi bartan
+7117,Imitation jewellery,"Artificial jewellery, fashion jewellery","Pearls, precious stones, precious metals; imitation jewellery",imitation jewellery artificial
+7210,"Flat-rolled products of iron or non-alloy steel, of a width of 600 mm or more, clad, plated or coated","GI sheets, GP sheets, colour-coated roofing sheets, tin plate",Iron and steel,gi sheet chadar roofing sheet
+7213,"Bars and rods, hot-rolled, in irregularly wound coils, of iron or non-alloy steel",Wire rods,Iron and steel,wire rod
+7214,"Other bars and rods of iron or non-alloy steel, not further worked than forged, hot-rolled, hot-drawn or hot-extruded","TMT bars, steel rods, saria",Iron and steel,saria sariya tmt
+721420,"Bars and rods containing indentations, ribs, grooves or other deformations produced during the rolling process or twisted after rolling","TMT bars, ribbed bars",Iron and steel,saria sariya tmt rebar
+7216,"Angles, shapes and sections of iron or non-alloy steel","Angles, channels, beams, T-sections",Iron and steel,angle channel girder
+7217,Wire of iron or non-alloy steel,"Binding wire, GI wire",Iron and steel,taar binding wire
+7306,"Other tubes, pipes and hollow profiles of iron or steel","GI pipes, MS pipes, square and rectangular hollow sections",Articles of iron or steel,gi pipe ms pipe
+7307,Tube or pipe fittings of iron or steel,"Elbows, couplings, sockets, flanges",Articles of iron or steel,pipe fittings
+7308,Structures and parts of structures of iron or steel,"Steel structures, shuttering, scaffolding, steel doors and frames",Articles of iron or steel,structure shuttering
+7310,"Tanks, casks, drums, cans, boxes and similar containers, of iron or steel, capacity not exceeding 300 l","Steel drums, tins, cans",Articles of iron or steel,tin dabba drum
+7312,"Stranded wire, ropes, cables, plaited bands, slings and the like, of iron or steel",Wire ropes,Articles of iron or steel,wire rope
+7313,Barbed wire of iron or steel,Barbed wire,Articles of iron or steel,kantedar taar barbed wire
+7314,"Cloth, grill, netting and fencing, of iron or steel wire; expanded metal","Chain-link fencing, wire mesh, welded mesh",Articles of iron or steel,jaali wire mesh fencing
+7315,"Chain and parts thereof, of iron or steel",Chains,Articles of iron or steel,zanjeer chain
+7317,"Nails, tacks, drawing pins, corrugated nails, staples and similar articles, of iron or steel","Nails, wire nails, drawing pins",Articles of iron or steel,keel kil nails
+7318,"Screws, bolts, nuts, coach screws, screw hooks, rivets, cotters, washers and similar articles, of iron or steel","Screws, nuts, bolts, washers, rivets",Articles of iron or steel,pench nut bolt screw
+7320,"Springs and leaves for springs, of iron or steel","Springs, leaf springs",Articles of iron or steel,spring kamani
+7321,"Stoves, ranges, grates, cookers, barbecues, braziers, gas-rings, plate warmers and similar non-electric domestic appliances, of iron or steel","LPG gas stoves, kerosene stoves",Articles of iron or steel,gas chulha stove
+7323,"Table, kitchen or other household articles and parts thereof, of iron or steel","Steel utensils, steel pressure cookers, tiffins, buckets",Articles of iron or steel,bartan steel utensils thali katori
+7324,"Sanitary ware and parts thereof, of iron or steel",Stainless steel kitchen sinks,Articles of iron or steel,kitchen sink
+7326,Other articles of iron or steel,"Hooks, wire articles and other steel articles",Articles of iron or steel,steel articles
+7408,Copper wire,Copper wire,Copper and articles thereof,tamba copper wire
+7411,Copper tubes and pipes,Copper pipes for AC and plumbing,Copper and articles thereof,copper pipe
+7418,"Table, kitchen or other household articles and sanitary ware, of copper","Copper and brass utensils, copper bottles",Copper and articles thereof,tamba peetal brass copper bartan
+7604,"Aluminium bars, rods and profiles",Aluminium sections for windows and partitions,Aluminium and articles thereof,aluminium section
+7606,"Aluminium plates, sheets and strip, of a thickness exceeding 0.2 mm",Aluminium sheets,Aluminium and articles thereof,aluminium sheet
+7607,"Aluminium foil, of a thickness not exceeding 0.2 mm","Aluminium foil, kitchen foil",Aluminium and articles thereof,foil
+7610,Aluminium structures and parts of structures,"Aluminium doors, windows and frames",Aluminium and articles thereof,aluminium window
+7615,"Table, kitchen or other household articles and sanitary ware, of aluminium","Aluminium utensils, aluminium pressure cookers",Aluminium and articles thereof,aluminium bartan cooker
+8201,"Hand tools: spades, shovels, mattocks, picks, hoes, forks, rakes, axes, bill hooks, sickles and similar","Spades, shovels, kudal, sickles, axes, garden tools","Tools, implements, cutlery, spoons and forks, of base metal",phawda kudal darati kulhadi
+8202,Hand saws; blades for saws of all kinds,"Hand saws, hacksaw blades","Tools, implements, cutlery, spoons and forks, of base metal",aari saw blade
+8203,"Files, rasps, pliers (including cutting pliers), pincers, tweezers, metal cutting shears and similar hand tools","Pliers, files, tweezers, cutters","Tools, implements, cutlery, spoons and forks, of base metal",plass pliers file
+8204,Hand-operated spanners and wrenches; interchangeable spanner sockets,"Spanners, wrenches, socket sets","Tools, implements, cutlery, spoons and forks, of base metal",spanner pana wrench
+8205,"Hand tools n.e.s.; blow lamps; vices, clamps; anvils","Hammers, screwdrivers, chisels, trowels","Tools, implements, cutlery, spoons and forks, of base metal",hathoda hammer screwdriver
+8207,Interchangeable tools for hand tools or machine tools,"Drill bits, taps, dies","Tools, implements, cutlery, spoons and forks, of base metal",drill bit
+8211,"Knives with cutting blades, serrated or not",Kitchen knives,"Tools, implements, cutlery, spoons and forks, of base metal",chaku knife
+8212,Razors and razor blades,"Razors, shaving blades","Tools, implements, cutlery, spoons and forks, of base metal",razor blade
+8213,"Scissors, tailors' shears and similar shears, and blades therefor",Scissors,"Tools, implements, cutlery, spoons and forks, of base metal",kainchi scissors
+8214,"Other articles of cutlery (hair clippers, butchers' cleavers, paper knives, pencil sharpeners, nail cutters)","Nail cutters, pencil sharpeners, manual hair clippers","Tools, implements, cutlery, spoons and forks, of base metal",sharpener nail cutter
+8215,"Spoons, forks, ladles, skimmers, cake-servers, fish-knives, butter-knives, sugar tongs and similar kitchen or tableware","Spoons, forks, ladles","Tools, implements, cutlery, spoons and forks, of base metal",chammach spoon karchi
+8301,"Padlocks and locks (key, combination or electrically operated), of base metal; keys","Padlocks, door locks, keys",Miscellaneous articles of base metal,tala lock chabi
+8302,"Base metal mountings, fittings and similar articles for furniture, doors, windows; castors; door closers","Hinges, handles, tower bolts, castor wheels, door closers",Miscellaneous articles of base metal,kabza hinge handle kundi tower bolt
+8305,"Fittings for loose-leaf binders or files, letter clips, paper clips, staples in strips","Stapler pins, paper clips, file clips",Miscellaneous articles of base metal,stapler pin u clip
+8306,"Bells, gongs and the like, non-electric; statuettes and other ornaments; photograph frames; mirrors, of base metal","Brass bells, metal idols and showpieces, metal photo frames",Miscellaneous articles of base metal,ghanti idol murti
+8309,"Stoppers, caps and lids (including crown corks, screw caps and pouring stoppers), of base metal","Bottle caps, metal lids",Miscellaneous articles of base metal,bottle cap
+8311,"Wire, rods, tubes, plates and electrodes, of base metal, for soldering, brazing, welding","Welding electrodes, soldering wire",Miscellaneous articles of base metal,welding rod
+8409,Parts suitable for use solely or principally with the engines of heading 8407 or 8408,"Pistons, cylinder heads, engine parts",Machinery and mechanical appliances; parts thereof,piston engine parts
+8413,Pumps for liquids; liquid elevators,"Water pumps, monoblock and submersible pumps, fuel pumps",Machinery and mechanical appliances; parts thereof,motor pump submersible
+8414,"Air or vacuum pumps, air or other gas compressors and fans; ventilating or recycling hoods","Ceiling fans, table fans, exhaust fans, air compressors, kitchen chimneys",Machinery and mechanical appliances; parts thereof,pankha fan exhaust chimney compressor
+841451,"Table, floor, wall, window, ceiling or roof fans, with a self-contained electric motor of an output not exceeding 125 W","Ceiling fans, table fans, pedestal fans, wall fans",Machinery and mechanical appliances; parts thereof,pankha ceiling fan table fan
+8415,Air conditioning machines,Split and window air conditioners,Machinery and mechanical appliances; parts thereof,ac air conditioner
+8418,"Refrigerators, freezers and other refrigerating or freezing equipment; heat pumps","Refrigerators, deep freezers, water coolers, visi coolers",Machinery and mechanical appliances; parts thereof,fridge refrigerator freezer
+8419,"Machinery, plant or laboratory equipment for heating, cooking, drying and similar; non-electric water heaters","Solar water heaters, industrial dryers",Machinery and mechanical appliances; parts thereof,solar water heater
+8421,Centrifuges; filtering or purifying machinery and apparatus for liquids or gases,"RO water purifiers, oil filters, air filters",Machinery and mechanical appliances; parts thereof,ro purifier filter
+8422,"Dish washing machines; machinery for cleaning, filling, closing, sealing, labelling or packing","Dishwashers, packing machines, sealing machines",Machinery and mechanical appliances; parts thereof,dishwasher sealing machine
+8423,"Weighing machinery (excluding balances of a sensitivity of 5 cg or better), including weight-operated counting or checking machines","Electronic weighing scales, platform scales, kitchen scales",Machinery and mechanical appliances; parts thereof,kanta tarazu weighing scale
+8424,"Mechanical appliances for projecting, dispersing or spraying liquids or powders; fire extinguishers; spray guns","Agricultural sprayers, fire extinguishers, drip and sprinkler irrigation systems",Machinery and mechanical appliances; parts thereof,sprayer fire extinguisher drip sprinkler
+8432,"Agricultural, horticultural or forestry machinery for soil preparation or cultivation","Ploughs, cultivators, rotavators, seed drills",Machinery and mechanical appliances; parts thereof,hal rotavator cultivator
+8433,Harvesting or threshing machinery; grass or hay mowers,"Harvesters, threshers, lawn mowers",Machinery and mechanical appliances; parts thereof,thresher harvester
+8443,"Printing machinery; printers, copying machines and facsimile machines; parts and accessories","Printers, photocopiers, fax machines, printer parts",Machinery and mechanical appliances; parts thereof,printer xerox photocopier
+8450,"Household or laundry-type washing machines, including machines which both wash and dry",Washing machines,Machinery and mechanical appliances; parts thereof,washing machine
+8452,"Sewing machines, other than book-sewing machines",Sewing machines,Machinery and mechanical appliances; parts thereof,silai machine sewing
+8467,"Tools for working in the hand, pneumatic, hydraulic or with self-contained electric or non-electric motor","Electric drills, angle grinders, cutters",Machinery and mechanical appliances; parts thereof,drill machine grinder
+8470,Calculating machines and pocket-size data recording machines; cash registers,"Calculators, cash registers",Machinery and mechanical appliances; parts thereof,calculator
+8471,Automatic data processing machines and units thereof,"Computers, laptops, keyboards, mice, scanners",Machinery and mechanical appliances; parts thereof,computer laptop keyboard mouse cpu
+847130,"Portable automatic data processing machines, weighing not more than 10 kg","Laptops, notebooks, tablets",Machinery and mechanical appliances; parts thereof,laptop
+8472,Other office machines,"Note counting machines, staplers, shredders",Machinery and mechanical appliances; parts thereof,note counting machine stapler
+8473,Parts and accessories of machines of headings 8470 to 8472,"Computer parts, RAM, motherboards",Machinery and mechanical appliances; parts thereof,computer parts
+8479,"Machines and mechanical appliances having individual functions, n.e.s.",Evaporative air coolers,Machinery and mechanical appliances; parts thereof,cooler air cooler
+8481,"Taps, cocks, valves and similar appliances for pipes, boiler shells, tanks, vats or the like","Water taps, valves, bathroom fittings",Machinery and mechanical appliances; parts thereof,nal tap tonti valve
+8482,Ball or roller bearings,"Ball bearings, roller bearings",Machinery and mechanical appliances; parts thereof,bearing
+8483,"Transmission shafts, cranks, bearing housings, gears, ball screws, gear boxes, flywheels, pulleys, clutches","Gears, pulleys, gear boxes",Machinery and mechanical appliances; parts thereof,gear pulley
+8484,Gaskets and similar joints of metal sheeting combined with other material; sets of gaskets,Gasket sets,Machinery and mechanical appliances; parts thereof,gasket
+8501,Electric motors and generators (excluding generating sets),"Electric motors, alternators",Electrical machinery and equipment; sound and TV equipment; parts,motor
+8502,Electric generating sets and rotary converters,"Diesel generator sets, gensets",Electrical machinery and equipment; sound and TV equipment; parts,generator dg set
+8504,"Electrical transformers, static converters (for example, rectifiers) and inductors","Mobile chargers, adapters, inverters, UPS, voltage stabilisers, transformers",Electrical machinery and equipment; sound and TV equipment; parts,charger adapter inverter ups stabilizer
+8506,Primary cells and primary batteries,"AA and AAA cells, button cells",Electrical machinery and equipment; sound and TV equipment; parts,cell battery
+8507,"Electric accumulators, including separators therefor","Car and inverter batteries, lithium-ion batteries",Electrical machinery and equipment; sound and TV equipment; parts,battery inverter battery
+8508,Vacuum cleaners,Vacuum cleaners,Electrical machinery and equipment; sound and TV equipment; parts,vacuum cleaner
+8509,"Electro-mechanical domestic appliances, with self-contained electric motor (other than vacuum cleaners)","Mixer grinders, juicers, food processors",Electrical machinery and equipment; sound and TV equipment; parts,mixer grinder juicer
+850940,Food grinders and mixers; fruit or vegetable juice extractors,"Mixer grinders, juicer mixer grinders",Electrical machinery and equipment; sound and TV equipment; parts,mixie mixer
+8510,"Shavers, hair clippers and hair-removing appliances, with self-contained electric motor","Trimmers, electric shavers",Electrical machinery and equipment; sound and TV equipment; parts,trimmer shaver
+8511,Electrical ignition or starting equipment used for internal combustion engines,"Spark plugs, self starters",Electrical machinery and equipment; sound and TV equipment; parts,spark plug
+8512,"Electrical lighting or signalling equipment, windscreen wipers, defrosters for cycles or motor vehicles","Vehicle horns, headlamps, indicators, wipers",Electrical machinery and equipment; sound and TV equipment; parts,horn headlight wiper
+8513,Portable electric lamps designed to function by their own source of energy,"Torches, rechargeable lamps",Electrical machinery and equipment; sound and TV equipment; parts,torch
+8516,"Electric water heaters, space heaters, hair dryers, irons, microwave ovens, cookers, kettles, toasters","Geysers, immersion rods, room heaters, irons, microwaves, induction cooktops, kettles",Electrical machinery and equipment; sound and TV equipment; parts,geyser iron press microwave induction kettle heater
+851640,Electric smoothing irons,"Electric irons, steam irons",Electrical machinery and equipment; sound and TV equipment; parts,press iron
+8517,"Telephone sets, including smartphones; other apparatus for transmission or reception of voice, images or data","Mobile phones, landline phones, routers, smart watches",Electrical machinery and equipment; sound and TV equipment; parts,mobile phone router smartwatch
+851713,Smartphones,Smartphones,Electrical machinery and equipment; sound and TV equipment; parts,mobile smartphone
+8518,Microphones; loudspeakers; headphones and earphones; audio-frequency electric amplifiers,"Speakers, earphones, headphones, microphones, amplifiers",Electrical machinery and equipment; sound and TV equipment; parts,speaker earphone headphone mic
+8523,"Discs, tapes, solid-state non-volatile storage devices, smart cards and other media for recording","Pen drives, memory cards, SSDs",Electrical machinery and equipment; sound and TV equipment; parts,pen drive memory card
+8525,"Transmission apparatus for radio-broadcasting or television; television cameras, digital cameras and video camera recorders","CCTV cameras, digital cameras, camcorders",Electrical machinery and equipment; sound and TV equipment; parts,cctv camera
+8528,Monitors and projectors; reception apparatus for television,"LED TVs, computer monitors, projectors",Electrical machinery and equipment; sound and TV equipment; parts,tv television monitor projector
+8531,"Electric sound or visual signalling apparatus (bells, sirens, indicator panels, burglar or fire alarms)","Electric doorbells, fire alarms, burglar alarms",Electrical machinery and equipment; sound and TV equipment; parts,doorbell alarm
+8536,"Electrical apparatus for switching or protecting electrical circuits, for a voltage not exceeding 1,000 volts","Switches, sockets, plugs, MCBs, fuses, relays",Electrical machinery and equipment; sound and TV equipment; parts,switch socket plug mcb fuse
+853620,Automatic circuit breakers,"MCBs, RCCBs",Electrical machinery and equipment; sound and TV equipment; parts,mcb rccb
+853650,Other switches,"Modular switches, electric switches",Electrical machinery and equipment; sound and TV equipment; parts,switch
+8537,"Boards, panels, consoles, desks, cabinets equipped with apparatus for electric control or distribution","Distribution boards, control panels",Electrical machinery and equipment; sound and TV equipment; parts,db box panel
+8539,Electric filament or discharge lamps; arc lamps; light-emitting diode (LED) light sources,"LED bulbs, CFLs, tube lights, halogen lamps",Electrical machinery and equipment; sound and TV equipment; parts,bulb led bulb tube light
+853952,LED lamps,LED bulbs,Electrical machinery and equipment; sound and TV equipment; parts,led bulb
+8541,Semiconductor devices; light-emitting diodes (LED); photovoltaic cells and modules,"Solar panels, solar cells, LEDs, diodes, transistors",Electrical machinery and equipment; sound and TV equipment; parts,solar panel diode
+854143,Photovoltaic cells assembled in modules or made up into panels,"Solar panels, solar modules",Electrical machinery and equipment; sound and TV equipment; parts,solar panel
+8542,Electronic integrated circuits,"ICs, microchips",Electrical machinery and equipment; sound and TV equipment; parts,ic chip
+8544,"Insulated wire, cable and other insulated electric conductors; optical fibre cables","House wiring wire, electric cables, data cables, USB cables",Electrical machinery and equipment; sound and TV equipment; parts,wire cable taar
+8701,Tractors (other than tractors of heading 8709),Agricultural tractors,"Vehicles other than railway rolling-stock, and parts and accessories",tractor
+8703,Motor cars and other motor vehicles principally designed for the transport of persons,"Cars, SUVs","Vehicles other than railway rolling-stock, and parts and accessories",car gaadi
+8704,Motor vehicles for the transport of goods,"Trucks, pickups, tempos","Vehicles other than railway rolling-stock, and parts and accessories",truck tempo
+8708,Parts and accessories of the motor vehicles of headings 8701 to 8705,"Brake pads, clutch plates, bumpers, radiators, silencers, shock absorbers","Vehicles other than railway rolling-stock, and parts and accessories",auto parts spare parts car parts
+8711,Motorcycles (including mopeds) and cycles fitted with an auxiliary motor,"Motorcycles, scooters, mopeds","Vehicles other than railway rolling-stock, and parts and accessories",bike motorcycle scooter
+8712,"Bicycles and other cycles (including delivery tricycles), not motorised",Bicycles,"Vehicles other than railway rolling-stock, and parts and accessories",cycle bicycle
+8713,"Carriages for disabled persons, whether or not motorised",Wheelchairs,"Vehicles other than railway rolling-stock, and parts and accessories",wheelchair
+8714,Parts and accessories of vehicles of headings 8711 to 8713,Two-wheeler and bicycle parts,"Vehicles other than railway rolling-stock, and parts and accessories",bike parts cycle parts
+8715,Baby carriages and parts thereof,"Prams, strollers","Vehicles other than railway rolling-stock, and parts and accessories",pram stroller
+8716,"Trailers and semi-trailers; other vehicles, not mechanically propelled","Trailers, hand carts, wheelbarrows","Vehicles other than railway rolling-stock, and parts and accessories",trolley thela hand cart
+9001,"Optical fibres; sheets of polarising material; lenses, prisms, mirrors, unmounted","Contact lenses, spectacle lenses","Optical, measuring, medical or surgical instruments and apparatus",lens contact lens
+9003,"Frames and mountings for spectacles, goggles or the like",Spectacle frames,"Optical, measuring, medical or surgical instruments and apparatus",frame chashma
+9004,"Spectacles, goggles and the like, corrective, protective or other","Spectacles, sunglasses, safety goggles","Optical, measuring, medical or surgical instruments and apparatus",chashma spectacles sunglasses goggles
+9017,"Drawing, marking-out or mathematical calculating instruments; instruments for measuring length, for use in the hand","Geometry boxes, rulers, measuring tapes","Optical, measuring, medical or surgical instruments and apparatus",scale ruler measuring tape geometry box
+9018,"Instruments and appliances used in medical, surgical, dental or veterinary sciences","Syringes, needles, catheters, BP monitors, stethoscopes","Optical, measuring, medical or surgical instruments and apparatus",syringe needle bp machine
+9019,"Mechano-therapy appliances; massage apparatus; oxygen therapy, aerosol therapy and respiration apparatus","Massagers, nebulisers, CPAP machines","Optical, measuring, medical or surgical instruments and apparatus",massager nebulizer
+9021,Orthopaedic appliances; splints; artificial parts of the body; hearing aids,"Orthopaedic belts, crutches, hearing aids, artificial limbs","Optical, measuring, medical or surgical instruments and apparatus",hearing aid crutches
+9025,"Hydrometers, thermometers, pyrometers, barometers, hygrometers and psychrometers","Clinical thermometers, digital thermometers","Optical, measuring, medical or surgical instruments and apparatus",thermometer
+9028,"Gas, liquid or electricity supply or production meters","Electricity meters, water meters","Optical, measuring, medical or surgical instruments and apparatus",meter bijli meter
+9102,"Wrist-watches, pocket-watches and other watches, with case of base metal",Wrist watches,Clocks and watches and parts thereof,ghadi watch
+9105,Other clocks,"Wall clocks, alarm clocks",Clocks and watches and parts thereof,deewar ghadi clock
+9202,"Other string musical instruments (for example, guitars, violins, harps)","Guitars, violins, sitars",Musical instruments,guitar
+9206,"Percussion musical instruments (for example, drums, xylophones, cymbals, castanets, maracas)","Drums, tabla, dholak",Musical instruments,tabla dholak drum
+9207,"Musical instruments, the sound of which is produced, or must be amplified, electrically","Electronic keyboards, electric guitars",Musical instruments,keyboard casio
+9401,"Seats (other than those of heading 9402), whether or not convertible into beds, and parts thereof","Chairs, sofas, office chairs, plastic chairs","Furniture; bedding, mattresses; lighting fittings; prefabricated buildings",kursi chair sofa
+9402,"Medical, surgical, dental or veterinary furniture; barbers' chairs","Hospital beds, dental chairs, salon chairs","Furniture; bedding, mattresses; lighting fittings; prefabricated buildings",hospital bed
+9403,Other furniture and parts thereof,"Tables, beds, almirahs, cupboards, wardrobes, office and kitchen furniture","Furniture; bedding, mattresses; lighting fittings; prefabricated buildings",almari table bed palang furniture
+9404,"Mattress supports; mattresses, quilts, pillows, cushions and similar articles of bedding","Mattresses, pillows, quilts, cushions","Furniture; bedding, mattresses; lighting fittings; prefabricated buildings",gadda takiya razai mattress pillow
+9405,Luminaires and lighting fittings; illuminated signs and nameplates,"LED panel lights, tube light fittings, chandeliers, table lamps, decorative lights","Furniture; bedding, mattresses; lighting fittings; prefabricated buildings",light fitting lamp jhoomar
+9406,Prefabricated buildings,"Portable cabins, prefab structures","Furniture; bedding, mattresses; lighting fittings; prefabricated buildings",porta cabin
+9503,"Tricycles, scooters, pedal cars and similar wheeled toys; dolls; other toys; puzzles","Toys, dolls, puzzles, tricycles for children","Toys, games and sports requisites",khilona toys
+9504,"Video game consoles and machines, table or parlour games, playing cards, carrom and chess boards","Playing cards, carrom boards, chess, board games","Toys, games and sports requisites",taash carrom chess ludo
+9505,"Festive, carnival or other entertainment articles","Festival decorations, Christmas items","Toys, games and sports requisites",decoration
+9506,"Articles and equipment for general physical exercise, gymnastics, athletics, other sports or outdoor games","Cricket bats and balls, badminton rackets, gym equipment","Toys, games and sports requisites",cricket bat ball gym
+9603,"Brooms, brushes (including toothbrushes, paint brushes), mops, squeegees","Toothbrushes, brooms (jhadu), paint brushes, mops",Miscellaneous manufactured articles,jhadu broom toothbrush brush
+9606,"Buttons, press-fasteners, snap-fasteners and press-studs, button moulds",Buttons,Miscellaneous manufactured articles,button
+9607,Slide fasteners and parts thereof,"Zips, zippers",Miscellaneous manufactured articles,zip chain
+9608,Ball point pens; felt tipped and other porous-tipped pens and markers; fountain pens; refills,"Ball pens, gel pens, markers, highlighters, refills",Miscellaneous manufactured articles,pen kalam marker refill
+9609,"Pencils (other than those of heading 9608), crayons, pencil leads, pastels, drawing charcoals, writing or drawing chalks","Pencils, crayons, chalk",Miscellaneous manufactured articles,pencil crayon chalk chaak
+9610,"Slates and boards, with writing or drawing surfaces, whether or not framed","Whiteboards, blackboards, slates",Miscellaneous manufactured articles,whiteboard board slate
+9611,"Date, sealing or numbering stamps, and the like, hand-operated","Rubber stamps, date stamps",Miscellaneous manufactured articles,stamp mohar
+9612,"Typewriter or similar ribbons, inked; ink-pads","Stamp pads, printer ribbons",Miscellaneous manufactured articles,stamp pad
+9613,Cigarette lighters and other lighters,"Lighters, gas lighters",Miscellaneous manufactured articles,lighter
+9615,"Combs, hair-slides and the like; hairpins, curling pins, curling grips, hair-curlers","Combs, hair clips, hair pins",Miscellaneous manufactured articles,kangha comb clip
+9617,"Vacuum flasks and other vacuum vessels, complete","Thermos flasks, vacuum bottles",Miscellaneous manufactured articles,thermos flask
+9619,"Sanitary towels (pads) and tampons, napkins (diapers) and napkin liners for babies and similar articles","Sanitary pads, baby diapers, adult diapers",Miscellaneous manufactured articles,sanitary pad diaper

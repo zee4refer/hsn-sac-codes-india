@@ -1,0 +1,1423 @@
+[
+ {
+  "code": "9954",
+  "description": "Construction services",
+  "common_items": "Building construction, civil works, works contracts, repair and renovation of buildings",
+  "chapter": "Construction services",
+  "search_words": "construction contractor works contract thekedar"
+ },
+ {
+  "code": "995411",
+  "description": "Construction services of single dwelling or multi-dwelling or multi-storied residential buildings",
+  "common_items": "Building houses, flats and apartments",
+  "chapter": "Construction services",
+  "search_words": "house construction flat apartment"
+ },
+ {
+  "code": "995414",
+  "description": "Construction services of commercial buildings such as office buildings, exhibition and marriage halls, malls, hotels, restaurants",
+  "common_items": "Building shops, offices, malls, hotels, halls",
+  "chapter": "Construction services",
+  "search_words": "commercial building"
+ },
+ {
+  "code": "995419",
+  "description": "Repair, alterations, additions, replacements, renovation, maintenance or remodelling of the buildings",
+  "common_items": "House or office renovation, repairs and alterations to buildings",
+  "chapter": "Construction services",
+  "search_words": "renovation repair building"
+ },
+ {
+  "code": "995421",
+  "description": "General construction services of highways, streets, roads, railways, airfield runways, bridges and tunnels",
+  "common_items": "Road, bridge and railway construction",
+  "chapter": "Construction services",
+  "search_words": "road construction"
+ },
+ {
+  "code": "995431",
+  "description": "Demolition services",
+  "common_items": "Demolishing buildings and structures",
+  "chapter": "Construction services",
+  "search_words": "demolition"
+ },
+ {
+  "code": "995433",
+  "description": "Excavating and earthmoving services",
+  "common_items": "Digging, excavation, earth filling with machines",
+  "chapter": "Construction services",
+  "search_words": "jcb excavation khudai"
+ },
+ {
+  "code": "995453",
+  "description": "Roofing and waterproofing services",
+  "common_items": "Roof work, waterproofing of terraces and walls",
+  "chapter": "Construction services",
+  "search_words": "waterproofing roofing"
+ },
+ {
+  "code": "995461",
+  "description": "Electrical installation services including electrical wiring and fitting services, fire alarm and burglar alarm installation",
+  "common_items": "House and office wiring, electrical fitting work",
+  "chapter": "Construction services",
+  "search_words": "electrician wiring"
+ },
+ {
+  "code": "995462",
+  "description": "Water plumbing and drain laying services",
+  "common_items": "Plumbing, pipe fitting, drainage work",
+  "chapter": "Construction services",
+  "search_words": "plumber plumbing"
+ },
+ {
+  "code": "995463",
+  "description": "Heating, ventilation and air conditioning equipment installation services",
+  "common_items": "Central AC and ventilation installation",
+  "chapter": "Construction services",
+  "search_words": "hvac ac installation"
+ },
+ {
+  "code": "995466",
+  "description": "Lift and escalator installation services",
+  "common_items": "Installing lifts and escalators",
+  "chapter": "Construction services",
+  "search_words": "lift elevator installation"
+ },
+ {
+  "code": "995472",
+  "description": "Plastering services",
+  "common_items": "Plaster work",
+  "chapter": "Construction services",
+  "search_words": "plaster"
+ },
+ {
+  "code": "995473",
+  "description": "Painting services",
+  "common_items": "Painting of buildings, wall painting contractors",
+  "chapter": "Construction services",
+  "search_words": "painter painting"
+ },
+ {
+  "code": "995474",
+  "description": "Floor and wall tiling services",
+  "common_items": "Tile laying",
+  "chapter": "Construction services",
+  "search_words": "tiles fitting"
+ },
+ {
+  "code": "995476",
+  "description": "Joinery and carpentry services",
+  "common_items": "Carpentry, fitting doors, windows and woodwork in buildings",
+  "chapter": "Construction services",
+  "search_words": "carpenter badhai woodwork"
+ },
+ {
+  "code": "995477",
+  "description": "Fencing and railing services",
+  "common_items": "Fencing, grills and railings work",
+  "chapter": "Construction services",
+  "search_words": "fencing railing grill"
+ },
+ {
+  "code": "9961",
+  "description": "Services in wholesale trade",
+  "common_items": "Commission agents and brokers in wholesale trade",
+  "chapter": "Services in wholesale trade",
+  "search_words": "wholesale commission agent"
+ },
+ {
+  "code": "996111",
+  "description": "Services provided for a fee or commission or on contract basis on wholesale trade",
+  "common_items": "Wholesale commission agent, dalali on goods",
+  "chapter": "Services in wholesale trade",
+  "search_words": "commission agent dalali broker arhtiya"
+ },
+ {
+  "code": "9962",
+  "description": "Services in retail trade",
+  "common_items": "Commission agents in retail trade",
+  "chapter": "Services in retail trade",
+  "search_words": "retail commission"
+ },
+ {
+  "code": "996211",
+  "description": "Services provided for a fee or commission or on contract basis on retail trade",
+  "common_items": "Retail commission agents",
+  "chapter": "Services in retail trade",
+  "search_words": "retail commission agent"
+ },
+ {
+  "code": "9963",
+  "description": "Accommodation, food and beverage services",
+  "common_items": "Hotels, lodges, PG, restaurants, cafes, catering, canteens",
+  "chapter": "Accommodation, food and beverage services",
+  "search_words": "hotel restaurant food"
+ },
+ {
+  "code": "996311",
+  "description": "Room or unit accommodation services provided by hotels, inns, guest houses, clubs and the like",
+  "common_items": "Hotel rooms, lodges, guest houses",
+  "chapter": "Accommodation, food and beverage services",
+  "search_words": "hotel room lodge guest house"
+ },
+ {
+  "code": "996322",
+  "description": "Room or unit accommodation services provided by hostels, camps, paying guest and the like",
+  "common_items": "Hostels, PG accommodation",
+  "chapter": "Accommodation, food and beverage services",
+  "search_words": "pg paying guest hostel"
+ },
+ {
+  "code": "996331",
+  "description": "Services provided by restaurants, cafes and similar eating facilities including takeaway services, room services and door delivery of food",
+  "common_items": "Restaurants, dhabas, cafes, takeaway and food delivery",
+  "chapter": "Accommodation, food and beverage services",
+  "search_words": "restaurant dhaba cafe food delivery takeaway"
+ },
+ {
+  "code": "996332",
+  "description": "Services provided by hotels, inns, guest houses, clubs etc. including room services, takeaway and door delivery of food",
+  "common_items": "Hotel restaurants and room service",
+  "chapter": "Accommodation, food and beverage services",
+  "search_words": "hotel restaurant"
+ },
+ {
+  "code": "996333",
+  "description": "Services provided in canteens and other similar establishments",
+  "common_items": "Office and factory canteens",
+  "chapter": "Accommodation, food and beverage services",
+  "search_words": "canteen mess"
+ },
+ {
+  "code": "996334",
+  "description": "Catering services in exhibition halls, events, marriage halls and other outdoor or indoor functions",
+  "common_items": "Wedding and event catering",
+  "chapter": "Accommodation, food and beverage services",
+  "search_words": "caterer catering shaadi"
+ },
+ {
+  "code": "9964",
+  "description": "Passenger transport services",
+  "common_items": "Bus, taxi, cab, auto, air and rail travel of passengers",
+  "chapter": "Passenger transport services",
+  "search_words": "passenger transport"
+ },
+ {
+  "code": "996411",
+  "description": "Local land transport services of passengers by railways, metro, bus, tramway, autos, three wheelers and other motor vehicles",
+  "common_items": "Local bus, auto-rickshaw, metro rides",
+  "chapter": "Passenger transport services",
+  "search_words": "auto rickshaw bus"
+ },
+ {
+  "code": "996412",
+  "description": "Taxi services including radio taxi and other similar services",
+  "common_items": "Taxi and cab rides",
+  "chapter": "Passenger transport services",
+  "search_words": "taxi cab"
+ },
+ {
+  "code": "996413",
+  "description": "Non-scheduled local bus and coach charter services",
+  "common_items": "Hired buses for local trips",
+  "chapter": "Passenger transport services",
+  "search_words": "bus hire"
+ },
+ {
+  "code": "996416",
+  "description": "Sightseeing transportation services",
+  "common_items": "Sightseeing tours by bus or boat",
+  "chapter": "Passenger transport services",
+  "search_words": "sightseeing"
+ },
+ {
+  "code": "996422",
+  "description": "Long-distance transport services of passengers through road by bus, car and non-scheduled long-distance bus and coach services",
+  "common_items": "Outstation buses and cars",
+  "chapter": "Passenger transport services",
+  "search_words": "outstation travels"
+ },
+ {
+  "code": "996425",
+  "description": "Domestic or international scheduled air transport services of passengers",
+  "common_items": "Air tickets (airline service)",
+  "chapter": "Passenger transport services",
+  "search_words": "flight airline"
+ },
+ {
+  "code": "9965",
+  "description": "Goods transport services",
+  "common_items": "Transport of goods by road, rail, air, water or pipeline",
+  "chapter": "Goods transport services",
+  "search_words": "goods transport truck freight"
+ },
+ {
+  "code": "996511",
+  "description": "Road transport services of goods including letters, parcels, live animals, household and office furniture, containers etc. by trucks, trailers and other vehicles",
+  "common_items": "Truck transport, tempo transport, packers and movers (transport)",
+  "chapter": "Goods transport services",
+  "search_words": "truck transport tempo bhada freight packers movers"
+ },
+ {
+  "code": "996512",
+  "description": "Rail transport services of goods",
+  "common_items": "Goods sent by rail",
+  "chapter": "Goods transport services",
+  "search_words": "rail freight"
+ },
+ {
+  "code": "996521",
+  "description": "Coastal and transoceanic (overseas) water transport services of goods",
+  "common_items": "Sea freight",
+  "chapter": "Goods transport services",
+  "search_words": "sea freight shipping"
+ },
+ {
+  "code": "996531",
+  "description": "Air transport services of letters and parcels and other goods",
+  "common_items": "Air cargo",
+  "chapter": "Goods transport services",
+  "search_words": "air cargo"
+ },
+ {
+  "code": "9966",
+  "description": "Rental services of transport vehicles with or without operators",
+  "common_items": "Hiring cars, buses, trucks with or without driver",
+  "chapter": "Rental services of transport vehicles",
+  "search_words": "vehicle rental car rental"
+ },
+ {
+  "code": "996601",
+  "description": "Rental services of road vehicles including buses, coaches, cars, trucks and other motor vehicles, with or without operator",
+  "common_items": "Car hire, bus hire, truck on rent, rent-a-cab",
+  "chapter": "Rental services of transport vehicles",
+  "search_words": "car on rent bus hire rent a cab"
+ },
+ {
+  "code": "9967",
+  "description": "Supporting services in transport",
+  "common_items": "Cargo handling, warehousing, cold storage, customs clearing, parking, GTA",
+  "chapter": "Supporting services in transport",
+  "search_words": "warehouse storage logistics"
+ },
+ {
+  "code": "996711",
+  "description": "Container handling services",
+  "common_items": "Container loading and unloading",
+  "chapter": "Supporting services in transport",
+  "search_words": "container handling"
+ },
+ {
+  "code": "996712",
+  "description": "Customs house agency services",
+  "common_items": "Customs clearing (CHA)",
+  "chapter": "Supporting services in transport",
+  "search_words": "cha customs broker"
+ },
+ {
+  "code": "996713",
+  "description": "Clearing and forwarding services",
+  "common_items": "C&F agents",
+  "chapter": "Supporting services in transport",
+  "search_words": "c&f clearing forwarding"
+ },
+ {
+  "code": "996719",
+  "description": "Other cargo handling services",
+  "common_items": "Loading and unloading of goods, labour for cargo handling",
+  "chapter": "Supporting services in transport",
+  "search_words": "loading unloading hamali"
+ },
+ {
+  "code": "996721",
+  "description": "Refrigerated storage services",
+  "common_items": "Cold storage",
+  "chapter": "Supporting services in transport",
+  "search_words": "cold storage"
+ },
+ {
+  "code": "996729",
+  "description": "Other storage and warehousing services",
+  "common_items": "Godown and warehouse storage",
+  "chapter": "Supporting services in transport",
+  "search_words": "godown warehouse"
+ },
+ {
+  "code": "996743",
+  "description": "Parking lot services",
+  "common_items": "Paid parking",
+  "chapter": "Supporting services in transport",
+  "search_words": "parking"
+ },
+ {
+  "code": "996791",
+  "description": "Goods transport agency services for road transport",
+  "common_items": "GTA (transport company issuing consignment note / bilty)",
+  "chapter": "Supporting services in transport",
+  "search_words": "gta bilty lorry receipt transport company"
+ },
+ {
+  "code": "996793",
+  "description": "Other goods transport services",
+  "common_items": "Other goods transport support",
+  "chapter": "Supporting services in transport",
+  "search_words": "transport"
+ },
+ {
+  "code": "9968",
+  "description": "Postal and courier services",
+  "common_items": "Post office, courier, local delivery",
+  "chapter": "Postal and courier services",
+  "search_words": "courier"
+ },
+ {
+  "code": "996812",
+  "description": "Courier services",
+  "common_items": "Courier and express parcel delivery",
+  "chapter": "Postal and courier services",
+  "search_words": "courier parcel"
+ },
+ {
+  "code": "996813",
+  "description": "Local delivery services",
+  "common_items": "Local delivery of parcels, last-mile delivery",
+  "chapter": "Postal and courier services",
+  "search_words": "delivery"
+ },
+ {
+  "code": "9969",
+  "description": "Electricity, gas, water and other distribution services",
+  "common_items": "Electricity, gas and water distribution",
+  "chapter": "Electricity, gas, water and other distribution services",
+  "search_words": "electricity water"
+ },
+ {
+  "code": "996912",
+  "description": "Electricity distribution services",
+  "common_items": "Electricity distribution",
+  "chapter": "Electricity, gas, water and other distribution services",
+  "search_words": "bijli electricity"
+ },
+ {
+  "code": "996921",
+  "description": "Water distribution services",
+  "common_items": "Water supply",
+  "chapter": "Electricity, gas, water and other distribution services",
+  "search_words": "water supply"
+ },
+ {
+  "code": "9971",
+  "description": "Financial and related services",
+  "common_items": "Banking, loans, insurance, broking, financial advice",
+  "chapter": "Financial and related services",
+  "search_words": "bank finance insurance"
+ },
+ {
+  "code": "997112",
+  "description": "Deposit services",
+  "common_items": "Bank account and deposit services",
+  "chapter": "Financial and related services",
+  "search_words": "bank deposit"
+ },
+ {
+  "code": "997113",
+  "description": "Credit-granting services including stand-by commitment, guarantees and securities",
+  "common_items": "Loans and credit services, processing fees",
+  "chapter": "Financial and related services",
+  "search_words": "loan processing fee"
+ },
+ {
+  "code": "997114",
+  "description": "Financial leasing services",
+  "common_items": "Financial leasing",
+  "chapter": "Financial and related services",
+  "search_words": "leasing"
+ },
+ {
+  "code": "997119",
+  "description": "Other financial services (except investment banking, insurance services and pension services)",
+  "common_items": "Other bank and NBFC service charges",
+  "chapter": "Financial and related services",
+  "search_words": "bank charges"
+ },
+ {
+  "code": "997131",
+  "description": "Life insurance services (excluding reinsurance services)",
+  "common_items": "Life insurance",
+  "chapter": "Financial and related services",
+  "search_words": "life insurance"
+ },
+ {
+  "code": "997132",
+  "description": "Accident and health insurance services",
+  "common_items": "Health and accident insurance",
+  "chapter": "Financial and related services",
+  "search_words": "health insurance mediclaim"
+ },
+ {
+  "code": "997133",
+  "description": "Motor vehicle insurance services",
+  "common_items": "Vehicle insurance",
+  "chapter": "Financial and related services",
+  "search_words": "vehicle insurance car insurance"
+ },
+ {
+  "code": "997152",
+  "description": "Brokerage and related securities and commodities services including commodity futures brokerage services",
+  "common_items": "Stock broking, commodity broking",
+  "chapter": "Financial and related services",
+  "search_words": "share broker stock broking"
+ },
+ {
+  "code": "997153",
+  "description": "Portfolio management services except pension funds",
+  "common_items": "PMS",
+  "chapter": "Financial and related services",
+  "search_words": "pms portfolio"
+ },
+ {
+  "code": "997156",
+  "description": "Financial consultancy services",
+  "common_items": "Financial advisory",
+  "chapter": "Financial and related services",
+  "search_words": "financial advisor"
+ },
+ {
+  "code": "997157",
+  "description": "Foreign exchange services",
+  "common_items": "Currency exchange, forex",
+  "chapter": "Financial and related services",
+  "search_words": "forex money changer"
+ },
+ {
+  "code": "997161",
+  "description": "Insurance brokerage and agency services",
+  "common_items": "Insurance agents and brokers",
+  "chapter": "Financial and related services",
+  "search_words": "insurance agent"
+ },
+ {
+  "code": "9972",
+  "description": "Real estate services",
+  "common_items": "Renting property, property management, real estate brokers",
+  "chapter": "Real estate services",
+  "search_words": "rent property real estate"
+ },
+ {
+  "code": "997211",
+  "description": "Rental or leasing services involving own or leased residential property",
+  "common_items": "Renting a house or flat",
+  "chapter": "Real estate services",
+  "search_words": "house rent residential rent"
+ },
+ {
+  "code": "997212",
+  "description": "Rental or leasing services involving own or leased non-residential property",
+  "common_items": "Renting a shop, office, godown or commercial space",
+  "chapter": "Real estate services",
+  "search_words": "shop rent office rent commercial rent"
+ },
+ {
+  "code": "997221",
+  "description": "Property management services on a fee or commission basis or contract basis",
+  "common_items": "Property management, society maintenance on contract",
+  "chapter": "Real estate services",
+  "search_words": "property management"
+ },
+ {
+  "code": "997222",
+  "description": "Building sales on a fee or commission basis or contract basis",
+  "common_items": "Real estate broker commission on sale of buildings",
+  "chapter": "Real estate services",
+  "search_words": "property dealer broker"
+ },
+ {
+  "code": "997223",
+  "description": "Land sales on a fee or commission basis or contract basis",
+  "common_items": "Broker commission on land sale",
+  "chapter": "Real estate services",
+  "search_words": "land broker"
+ },
+ {
+  "code": "9973",
+  "description": "Leasing or rental services without operator",
+  "common_items": "Renting machinery, equipment, furniture, goods; licensing of software, trademarks and franchises",
+  "chapter": "Leasing or rental services without operator",
+  "search_words": "rental hire equipment"
+ },
+ {
+  "code": "997311",
+  "description": "Leasing or rental services concerning transport equipment including containers, with or without operator",
+  "common_items": "Leasing vehicles and containers",
+  "chapter": "Leasing or rental services without operator",
+  "search_words": "vehicle leasing"
+ },
+ {
+  "code": "997312",
+  "description": "Leasing or rental services concerning agricultural machinery and equipment with or without operator",
+  "common_items": "Renting tractors and farm machines",
+  "chapter": "Leasing or rental services without operator",
+  "search_words": "tractor rent"
+ },
+ {
+  "code": "997313",
+  "description": "Leasing or rental services concerning construction machinery and equipment with or without operator",
+  "common_items": "Renting JCB, cranes, scaffolding, construction equipment",
+  "chapter": "Leasing or rental services without operator",
+  "search_words": "jcb hire crane rent shuttering rent"
+ },
+ {
+  "code": "997314",
+  "description": "Leasing or rental services concerning office machinery and equipment (except computers) with or without operator",
+  "common_items": "Renting photocopiers and office machines",
+  "chapter": "Leasing or rental services without operator",
+  "search_words": "photocopier rent"
+ },
+ {
+  "code": "997315",
+  "description": "Leasing or rental services concerning computers with or without operators",
+  "common_items": "Renting laptops and computers",
+  "chapter": "Leasing or rental services without operator",
+  "search_words": "laptop rent computer rent"
+ },
+ {
+  "code": "997319",
+  "description": "Leasing or rental services concerning other machinery and equipment with or without operator",
+  "common_items": "Renting generators and other machines",
+  "chapter": "Leasing or rental services without operator",
+  "search_words": "generator rent"
+ },
+ {
+  "code": "997321",
+  "description": "Leasing or rental services concerning televisions, radios, projectors, audio systems and related equipment",
+  "common_items": "Renting sound systems, projectors, TVs",
+  "chapter": "Leasing or rental services without operator",
+  "search_words": "sound system rent dj"
+ },
+ {
+  "code": "997323",
+  "description": "Leasing or rental services concerning furniture and other household appliances",
+  "common_items": "Renting furniture, appliances, tent house goods",
+  "chapter": "Leasing or rental services without operator",
+  "search_words": "furniture rent tent house"
+ },
+ {
+  "code": "997326",
+  "description": "Leasing or rental services concerning textiles, clothing and footwear",
+  "common_items": "Renting costumes, sherwanis, lehengas",
+  "chapter": "Leasing or rental services without operator",
+  "search_words": "dress on rent"
+ },
+ {
+  "code": "997331",
+  "description": "Licensing services for the right to use computer software and databases",
+  "common_items": "Software licences, subscriptions to use software",
+  "chapter": "Leasing or rental services without operator",
+  "search_words": "software licence"
+ },
+ {
+  "code": "997334",
+  "description": "Licensing services for the right to use trademarks and franchises",
+  "common_items": "Franchise fees, brand royalty",
+  "chapter": "Leasing or rental services without operator",
+  "search_words": "franchise royalty"
+ },
+ {
+  "code": "9981",
+  "description": "Research and development services",
+  "common_items": "Research and development, product testing for R&D",
+  "chapter": "Research and development services",
+  "search_words": "research"
+ },
+ {
+  "code": "9982",
+  "description": "Legal and accounting services",
+  "common_items": "Lawyers, chartered accountants, bookkeeping, tax filing",
+  "chapter": "Legal and accounting services",
+  "search_words": "ca lawyer accountant"
+ },
+ {
+  "code": "998212",
+  "description": "Legal advisory and representation services concerning other fields of law",
+  "common_items": "Advocate services in civil, corporate and other matters",
+  "chapter": "Legal and accounting services",
+  "search_words": "lawyer advocate vakil"
+ },
+ {
+  "code": "998213",
+  "description": "Legal documentation and certification services concerning patents, copyrights and other intellectual property rights",
+  "common_items": "Trademark and patent filing",
+  "chapter": "Legal and accounting services",
+  "search_words": "trademark registration patent"
+ },
+ {
+  "code": "998214",
+  "description": "Legal documentation and certification services concerning other documents",
+  "common_items": "Drafting agreements and deeds",
+  "chapter": "Legal and accounting services",
+  "search_words": "agreement drafting"
+ },
+ {
+  "code": "998215",
+  "description": "Arbitration and mediation services",
+  "common_items": "Arbitration, mediation",
+  "chapter": "Legal and accounting services",
+  "search_words": "arbitration"
+ },
+ {
+  "code": "998221",
+  "description": "Financial auditing services",
+  "common_items": "Statutory audit, audit by CA",
+  "chapter": "Legal and accounting services",
+  "search_words": "audit ca"
+ },
+ {
+  "code": "998222",
+  "description": "Accounting and bookkeeping services",
+  "common_items": "Accounting, bookkeeping, writing books of accounts",
+  "chapter": "Legal and accounting services",
+  "search_words": "accountant bookkeeping munim"
+ },
+ {
+  "code": "998223",
+  "description": "Payroll services",
+  "common_items": "Payroll processing",
+  "chapter": "Legal and accounting services",
+  "search_words": "payroll salary processing"
+ },
+ {
+  "code": "998231",
+  "description": "Corporate tax consulting and preparation services",
+  "common_items": "Business tax filing and tax advice",
+  "chapter": "Legal and accounting services",
+  "search_words": "tax consultant gst filing"
+ },
+ {
+  "code": "998232",
+  "description": "Individual tax preparation and planning services",
+  "common_items": "Income tax return filing for individuals",
+  "chapter": "Legal and accounting services",
+  "search_words": "itr filing income tax"
+ },
+ {
+  "code": "9983",
+  "description": "Other professional, technical and business services",
+  "common_items": "Consulting, IT, architects, engineers, advertising, photography, design",
+  "chapter": "Other professional, technical and business services",
+  "search_words": "professional services"
+ },
+ {
+  "code": "998311",
+  "description": "Management consulting and management services including financial, strategic, HR, marketing and operations management",
+  "common_items": "Management consulting",
+  "chapter": "Other professional, technical and business services",
+  "search_words": "management consultant"
+ },
+ {
+  "code": "998312",
+  "description": "Business consulting services including public relations services",
+  "common_items": "Business consulting, PR",
+  "chapter": "Other professional, technical and business services",
+  "search_words": "business consultant pr"
+ },
+ {
+  "code": "998313",
+  "description": "Information technology (IT) consulting and support services",
+  "common_items": "IT consulting, IT support, AMC for software",
+  "chapter": "Other professional, technical and business services",
+  "search_words": "it support it consulting"
+ },
+ {
+  "code": "998314",
+  "description": "Information technology (IT) design and development services",
+  "common_items": "Software development, website design and development, app development",
+  "chapter": "Other professional, technical and business services",
+  "search_words": "software development website design app"
+ },
+ {
+  "code": "998315",
+  "description": "Hosting and information technology (IT) infrastructure provisioning services",
+  "common_items": "Web hosting, cloud hosting, SaaS hosting",
+  "chapter": "Other professional, technical and business services",
+  "search_words": "hosting cloud server"
+ },
+ {
+  "code": "998316",
+  "description": "IT infrastructure and network management services",
+  "common_items": "Network management, managed IT services",
+  "chapter": "Other professional, technical and business services",
+  "search_words": "network management"
+ },
+ {
+  "code": "998319",
+  "description": "Other information technology services n.e.c.",
+  "common_items": "Other IT services",
+  "chapter": "Other professional, technical and business services",
+  "search_words": "it services"
+ },
+ {
+  "code": "998322",
+  "description": "Architectural services for residential building projects",
+  "common_items": "Architects for houses and flats",
+  "chapter": "Other professional, technical and business services",
+  "search_words": "architect"
+ },
+ {
+  "code": "998323",
+  "description": "Architectural services for non-residential building projects",
+  "common_items": "Architects for shops, offices, factories",
+  "chapter": "Other professional, technical and business services",
+  "search_words": "architect commercial"
+ },
+ {
+  "code": "998331",
+  "description": "Engineering advisory services",
+  "common_items": "Engineering consultancy",
+  "chapter": "Other professional, technical and business services",
+  "search_words": "engineering consultant"
+ },
+ {
+  "code": "998332",
+  "description": "Engineering services for building projects",
+  "common_items": "Structural engineering for buildings",
+  "chapter": "Other professional, technical and business services",
+  "search_words": "structural engineer"
+ },
+ {
+  "code": "998341",
+  "description": "Project management services for construction projects",
+  "common_items": "Construction project management",
+  "chapter": "Other professional, technical and business services",
+  "search_words": "project management"
+ },
+ {
+  "code": "998361",
+  "description": "Advertising services",
+  "common_items": "Advertising agencies, ad design and campaigns",
+  "chapter": "Other professional, technical and business services",
+  "search_words": "advertising agency"
+ },
+ {
+  "code": "998365",
+  "description": "Sale of Internet advertising space",
+  "common_items": "Online ad space, website ads",
+  "chapter": "Other professional, technical and business services",
+  "search_words": "online ads digital ads"
+ },
+ {
+  "code": "998371",
+  "description": "Market research services",
+  "common_items": "Market research and surveys",
+  "chapter": "Other professional, technical and business services",
+  "search_words": "market research survey"
+ },
+ {
+  "code": "998381",
+  "description": "Portrait photography services",
+  "common_items": "Studio and portrait photography",
+  "chapter": "Other professional, technical and business services",
+  "search_words": "photographer photo studio"
+ },
+ {
+  "code": "998382",
+  "description": "Advertising and related photography services",
+  "common_items": "Product and advertising photography",
+  "chapter": "Other professional, technical and business services",
+  "search_words": "product photography"
+ },
+ {
+  "code": "998383",
+  "description": "Event photography and event videography services",
+  "common_items": "Wedding and event photography and videography",
+  "chapter": "Other professional, technical and business services",
+  "search_words": "wedding photographer videography"
+ },
+ {
+  "code": "998391",
+  "description": "Specialty design services including interior design, fashion design, industrial design",
+  "common_items": "Interior designers, fashion designers, graphic design",
+  "chapter": "Other professional, technical and business services",
+  "search_words": "interior designer fashion designer graphic design"
+ },
+ {
+  "code": "998395",
+  "description": "Translation and interpretation services",
+  "common_items": "Translation and interpreters",
+  "chapter": "Other professional, technical and business services",
+  "search_words": "translation"
+ },
+ {
+  "code": "998397",
+  "description": "Sponsorship services and brand promotion services",
+  "common_items": "Sponsorship, brand promotion",
+  "chapter": "Other professional, technical and business services",
+  "search_words": "sponsorship"
+ },
+ {
+  "code": "9984",
+  "description": "Telecommunications, broadcasting and information supply services",
+  "common_items": "Mobile, internet, DTH, online content",
+  "chapter": "Telecommunications, broadcasting and information supply services",
+  "search_words": "telecom internet"
+ },
+ {
+  "code": "998413",
+  "description": "Mobile telecommunications services",
+  "common_items": "Mobile phone services, recharges",
+  "chapter": "Telecommunications, broadcasting and information supply services",
+  "search_words": "mobile recharge"
+ },
+ {
+  "code": "998422",
+  "description": "Internet access services in wired and wireless mode",
+  "common_items": "Broadband, Wi-Fi internet",
+  "chapter": "Telecommunications, broadcasting and information supply services",
+  "search_words": "broadband wifi internet"
+ },
+ {
+  "code": "998431",
+  "description": "On-line text based information such as online books, newspapers, periodicals, directories",
+  "common_items": "E-books, online newspapers and directories",
+  "chapter": "Telecommunications, broadcasting and information supply services",
+  "search_words": "online subscription"
+ },
+ {
+  "code": "998433",
+  "description": "On-line video content",
+  "common_items": "Video streaming",
+  "chapter": "Telecommunications, broadcasting and information supply services",
+  "search_words": "streaming"
+ },
+ {
+  "code": "998434",
+  "description": "Software downloads",
+  "common_items": "Downloadable software",
+  "chapter": "Telecommunications, broadcasting and information supply services",
+  "search_words": "software download"
+ },
+ {
+  "code": "9985",
+  "description": "Support services",
+  "common_items": "Manpower, security, cleaning, packaging, travel agency, event management, office support",
+  "chapter": "Support services",
+  "search_words": "support services"
+ },
+ {
+  "code": "998511",
+  "description": "Executive or retained personnel search services",
+  "common_items": "Executive search",
+  "chapter": "Support services",
+  "search_words": "headhunting"
+ },
+ {
+  "code": "998512",
+  "description": "Permanent placement services, other than executive search services",
+  "common_items": "Placement agencies",
+  "chapter": "Support services",
+  "search_words": "placement agency recruitment"
+ },
+ {
+  "code": "998513",
+  "description": "Contract staffing services",
+  "common_items": "Supply of contract staff",
+  "chapter": "Support services",
+  "search_words": "manpower contract staff"
+ },
+ {
+  "code": "998514",
+  "description": "Temporary staffing services",
+  "common_items": "Temporary manpower supply",
+  "chapter": "Support services",
+  "search_words": "manpower supply"
+ },
+ {
+  "code": "998521",
+  "description": "Investigation services",
+  "common_items": "Detective and investigation services",
+  "chapter": "Support services",
+  "search_words": "detective"
+ },
+ {
+  "code": "998525",
+  "description": "Guard services",
+  "common_items": "Security guards",
+  "chapter": "Support services",
+  "search_words": "security guard chowkidar"
+ },
+ {
+  "code": "998531",
+  "description": "Disinfecting and exterminating services",
+  "common_items": "Pest control, fumigation, sanitisation",
+  "chapter": "Support services",
+  "search_words": "pest control fumigation"
+ },
+ {
+  "code": "998533",
+  "description": "General cleaning services",
+  "common_items": "Housekeeping, office and building cleaning",
+  "chapter": "Support services",
+  "search_words": "housekeeping cleaning"
+ },
+ {
+  "code": "998538",
+  "description": "Cleaning of transportation equipment",
+  "common_items": "Car washing and cleaning",
+  "chapter": "Support services",
+  "search_words": "car wash"
+ },
+ {
+  "code": "998540",
+  "description": "Packaging services of goods for others",
+  "common_items": "Packing services, packing of goods for others",
+  "chapter": "Support services",
+  "search_words": "packing services"
+ },
+ {
+  "code": "998551",
+  "description": "Reservation services for transportation",
+  "common_items": "Ticket booking for air, rail and bus",
+  "chapter": "Support services",
+  "search_words": "ticket booking travel agent"
+ },
+ {
+  "code": "998552",
+  "description": "Reservation services for accommodation, cruises and package tours",
+  "common_items": "Hotel booking, tour package booking",
+  "chapter": "Support services",
+  "search_words": "hotel booking"
+ },
+ {
+  "code": "998555",
+  "description": "Tour operator services",
+  "common_items": "Tour operators, holiday packages",
+  "chapter": "Support services",
+  "search_words": "tour operator"
+ },
+ {
+  "code": "998592",
+  "description": "Collection agency services",
+  "common_items": "Debt recovery and collection agencies",
+  "chapter": "Support services",
+  "search_words": "recovery agent"
+ },
+ {
+  "code": "998593",
+  "description": "Telephone-based support services",
+  "common_items": "Call centres, telecalling",
+  "chapter": "Support services",
+  "search_words": "call centre bpo"
+ },
+ {
+  "code": "998595",
+  "description": "Specialized office support services such as duplicating services, mailing services, document preparation",
+  "common_items": "Photocopying, document typing and preparation",
+  "chapter": "Support services",
+  "search_words": "xerox photocopy typing"
+ },
+ {
+  "code": "998596",
+  "description": "Events, exhibitions, conventions and trade shows organisation and assistance services",
+  "common_items": "Event management, exhibition organisers, wedding planners",
+  "chapter": "Support services",
+  "search_words": "event management wedding planner"
+ },
+ {
+  "code": "998597",
+  "description": "Landscape care and maintenance services",
+  "common_items": "Gardening and lawn maintenance",
+  "chapter": "Support services",
+  "search_words": "gardener mali"
+ },
+ {
+  "code": "9986",
+  "description": "Support services to agriculture, hunting, forestry, fishing, mining and utilities",
+  "common_items": "Farm support services, mining support",
+  "chapter": "Support services to agriculture, forestry, fishing, mining and utilities",
+  "search_words": "agriculture support"
+ },
+ {
+  "code": "998611",
+  "description": "Support services to crop production",
+  "common_items": "Ploughing, harvesting, spraying on hire for farmers",
+  "chapter": "Support services to agriculture, forestry, fishing, mining and utilities",
+  "search_words": "tractor ploughing harvesting kheti"
+ },
+ {
+  "code": "998612",
+  "description": "Animal husbandry services",
+  "common_items": "Animal breeding and care services",
+  "chapter": "Support services to agriculture, forestry, fishing, mining and utilities",
+  "search_words": "animal husbandry"
+ },
+ {
+  "code": "9987",
+  "description": "Maintenance, repair and installation (except construction) services",
+  "common_items": "Repair and servicing of machines, vehicles, appliances, computers, mobiles; installation of equipment",
+  "chapter": "Maintenance, repair and installation (except construction) services",
+  "search_words": "repair service maintenance"
+ },
+ {
+  "code": "998711",
+  "description": "Maintenance and repair services of fabricated metal products, except machinery and equipment",
+  "common_items": "Repair of metal structures, tanks",
+  "chapter": "Maintenance, repair and installation (except construction) services",
+  "search_words": "metal repair"
+ },
+ {
+  "code": "998712",
+  "description": "Maintenance and repair services of office and accounting machinery",
+  "common_items": "Repair of photocopiers, printers and office machines",
+  "chapter": "Maintenance, repair and installation (except construction) services",
+  "search_words": "printer repair"
+ },
+ {
+  "code": "998713",
+  "description": "Maintenance and repair services of computers and peripheral equipment",
+  "common_items": "Computer and laptop repair, AMC",
+  "chapter": "Maintenance, repair and installation (except construction) services",
+  "search_words": "computer repair laptop repair"
+ },
+ {
+  "code": "998714",
+  "description": "Maintenance and repair services of transport machinery and equipment",
+  "common_items": "Car and bike servicing and repair, garage work",
+  "chapter": "Maintenance, repair and installation (except construction) services",
+  "search_words": "garage car service bike service mechanic"
+ },
+ {
+  "code": "998715",
+  "description": "Maintenance and repair services of electrical household appliances",
+  "common_items": "Repair of fridge, washing machine, AC, mixer",
+  "chapter": "Maintenance, repair and installation (except construction) services",
+  "search_words": "appliance repair ac service fridge repair"
+ },
+ {
+  "code": "998716",
+  "description": "Maintenance and repair services of telecommunication equipments and apparatus",
+  "common_items": "Mobile phone repair",
+  "chapter": "Maintenance, repair and installation (except construction) services",
+  "search_words": "mobile repair"
+ },
+ {
+  "code": "998717",
+  "description": "Maintenance and repair services of commercial and industrial machinery",
+  "common_items": "Machine repair and servicing",
+  "chapter": "Maintenance, repair and installation (except construction) services",
+  "search_words": "machine repair"
+ },
+ {
+  "code": "998718",
+  "description": "Maintenance and repair services of elevators and escalators",
+  "common_items": "Lift AMC and repair",
+  "chapter": "Maintenance, repair and installation (except construction) services",
+  "search_words": "lift amc"
+ },
+ {
+  "code": "998719",
+  "description": "Maintenance and repair services of other machinery and equipments",
+  "common_items": "Repair of other machines and equipment",
+  "chapter": "Maintenance, repair and installation (except construction) services",
+  "search_words": "repair"
+ },
+ {
+  "code": "998721",
+  "description": "Repair services of footwear and leather goods",
+  "common_items": "Cobbler, shoe and bag repair",
+  "chapter": "Maintenance, repair and installation (except construction) services",
+  "search_words": "mochi cobbler"
+ },
+ {
+  "code": "998722",
+  "description": "Repair services of watches, clocks and jewellery",
+  "common_items": "Watch repair, jewellery repair",
+  "chapter": "Maintenance, repair and installation (except construction) services",
+  "search_words": "watch repair"
+ },
+ {
+  "code": "998723",
+  "description": "Repair services of garments and household textiles",
+  "common_items": "Alteration of clothes, darning",
+  "chapter": "Maintenance, repair and installation (except construction) services",
+  "search_words": "alteration tailor"
+ },
+ {
+  "code": "998724",
+  "description": "Repair services of furniture",
+  "common_items": "Furniture repair",
+  "chapter": "Maintenance, repair and installation (except construction) services",
+  "search_words": "furniture repair"
+ },
+ {
+  "code": "998732",
+  "description": "Installation services of industrial, manufacturing and service industry machinery and equipment",
+  "common_items": "Installing industrial machines",
+  "chapter": "Maintenance, repair and installation (except construction) services",
+  "search_words": "machine installation"
+ },
+ {
+  "code": "998733",
+  "description": "Installation services of office and accounting machinery and computers",
+  "common_items": "Installing computers and office machines",
+  "chapter": "Maintenance, repair and installation (except construction) services",
+  "search_words": "computer installation"
+ },
+ {
+  "code": "998736",
+  "description": "Installation services of electrical machinery and apparatus n.e.c.",
+  "common_items": "Installing electrical equipment",
+  "chapter": "Maintenance, repair and installation (except construction) services",
+  "search_words": "electrical installation"
+ },
+ {
+  "code": "9988",
+  "description": "Manufacturing services on physical inputs (goods) owned by others",
+  "common_items": "Job work: processing goods that belong to someone else, e.g. dyeing, stitching, polishing, printing on customer material",
+  "chapter": "Manufacturing services on physical inputs owned by others (job work)",
+  "search_words": "job work jobwork processing tailoring"
+ },
+ {
+  "code": "998821",
+  "description": "Textile manufacturing services",
+  "common_items": "Job work on fabric and yarn: dyeing, printing, weaving, embroidery",
+  "chapter": "Manufacturing services on physical inputs owned by others (job work)",
+  "search_words": "dyeing printing embroidery job work"
+ },
+ {
+  "code": "998822",
+  "description": "Wearing apparel manufacturing services",
+  "common_items": "Stitching garments from customer fabric, tailoring job work",
+  "chapter": "Manufacturing services on physical inputs owned by others (job work)",
+  "search_words": "tailoring stitching darzi silai"
+ },
+ {
+  "code": "998823",
+  "description": "Leather and leather products manufacturing services",
+  "common_items": "Job work on leather goods",
+  "chapter": "Manufacturing services on physical inputs owned by others (job work)",
+  "search_words": "leather job work"
+ },
+ {
+  "code": "9989",
+  "description": "Other manufacturing services; publishing, printing and reproduction services; materials recovery services",
+  "common_items": "Printing on paper supplied by the customer, publishing on fee basis, recycling services",
+  "chapter": "Other manufacturing services; publishing, printing and reproduction services",
+  "search_words": "printing press publishing"
+ },
+ {
+  "code": "9991",
+  "description": "Public administration and other services provided to the community as a whole; compulsory social security services",
+  "common_items": "Services of government departments",
+  "chapter": "Public administration and other services to the community",
+  "search_words": "government"
+ },
+ {
+  "code": "9992",
+  "description": "Education services",
+  "common_items": "Schools, colleges, coaching classes, training institutes",
+  "chapter": "Education services",
+  "search_words": "education school coaching"
+ },
+ {
+  "code": "999293",
+  "description": "Commercial training and coaching services",
+  "common_items": "Coaching classes, tuition centres, skill training institutes",
+  "chapter": "Education services",
+  "search_words": "coaching tuition classes training institute"
+ },
+ {
+  "code": "9993",
+  "description": "Human health and social care services",
+  "common_items": "Hospitals, clinics, doctors, diagnostic labs, nursing",
+  "chapter": "Human health and social care services",
+  "search_words": "hospital clinic doctor"
+ },
+ {
+  "code": "999311",
+  "description": "Inpatient services",
+  "common_items": "Hospital admission and treatment",
+  "chapter": "Human health and social care services",
+  "search_words": "hospital inpatient"
+ },
+ {
+  "code": "999312",
+  "description": "Medical and dental services",
+  "common_items": "Doctor consultation, dental treatment",
+  "chapter": "Human health and social care services",
+  "search_words": "doctor dentist clinic"
+ },
+ {
+  "code": "999314",
+  "description": "Nursing and physiotherapeutic services",
+  "common_items": "Nursing, physiotherapy",
+  "chapter": "Human health and social care services",
+  "search_words": "nurse physiotherapy"
+ },
+ {
+  "code": "999315",
+  "description": "Ambulance services",
+  "common_items": "Ambulance",
+  "chapter": "Human health and social care services",
+  "search_words": "ambulance"
+ },
+ {
+  "code": "999316",
+  "description": "Medical laboratory and diagnostic-imaging services",
+  "common_items": "Pathology labs, X-ray, scans",
+  "chapter": "Human health and social care services",
+  "search_words": "lab test pathology xray"
+ },
+ {
+  "code": "9994",
+  "description": "Sewage and waste collection, treatment and disposal and other environmental protection services",
+  "common_items": "Garbage collection, sewage treatment, waste disposal",
+  "chapter": "Sewage and waste collection, treatment and disposal services",
+  "search_words": "waste garbage sewage kachra"
+ },
+ {
+  "code": "9995",
+  "description": "Services of membership organisations",
+  "common_items": "Clubs, trade associations, professional bodies, religious organisations",
+  "chapter": "Services of membership organisations",
+  "search_words": "association membership club"
+ },
+ {
+  "code": "9996",
+  "description": "Recreational, cultural and sporting services",
+  "common_items": "Films, events, artists, sports, amusement parks",
+  "chapter": "Recreational, cultural and sporting services",
+  "search_words": "entertainment"
+ },
+ {
+  "code": "999612",
+  "description": "Motion picture, videotape, television and radio programme production services",
+  "common_items": "Video and film production, ad films",
+  "chapter": "Recreational, cultural and sporting services",
+  "search_words": "video production"
+ },
+ {
+  "code": "999631",
+  "description": "Services of performing artists including actors, readers, musicians, singers, dancers, TV personalities and models",
+  "common_items": "Singers, musicians, DJs, anchors, models",
+  "chapter": "Recreational, cultural and sporting services",
+  "search_words": "singer artist anchor model"
+ },
+ {
+  "code": "9997",
+  "description": "Other services",
+  "common_items": "Laundry, dry cleaning, salons, beauty parlours, gyms, funeral services, religious ceremonies",
+  "chapter": "Other services",
+  "search_words": "laundry salon beauty"
+ },
+ {
+  "code": "999711",
+  "description": "Coin-operated laundry services",
+  "common_items": "Self-service laundromats",
+  "chapter": "Other services",
+  "search_words": "laundromat"
+ },
+ {
+  "code": "999712",
+  "description": "Dry-cleaning services",
+  "common_items": "Dry cleaning",
+  "chapter": "Other services",
+  "search_words": "dry clean"
+ },
+ {
+  "code": "999713",
+  "description": "Other textile cleaning services",
+  "common_items": "Laundry and washing of clothes",
+  "chapter": "Other services",
+  "search_words": "laundry dhobi"
+ },
+ {
+  "code": "999714",
+  "description": "Pressing services",
+  "common_items": "Ironing of clothes (press wala)",
+  "chapter": "Other services",
+  "search_words": "press istri ironing"
+ },
+ {
+  "code": "999715",
+  "description": "Dyeing and colouring services",
+  "common_items": "Dyeing of clothes for customers",
+  "chapter": "Other services",
+  "search_words": "rangai dyeing"
+ },
+ {
+  "code": "999721",
+  "description": "Hairdressing and barbers services",
+  "common_items": "Salons, barber shops, hair cutting",
+  "chapter": "Other services",
+  "search_words": "salon barber nai haircut"
+ },
+ {
+  "code": "999722",
+  "description": "Cosmetic treatment (including cosmetic/plastic surgery), manicuring and pedicuring services",
+  "common_items": "Beauty parlour treatments, manicure, pedicure, facials",
+  "chapter": "Other services",
+  "search_words": "beauty parlour facial manicure"
+ },
+ {
+  "code": "999723",
+  "description": "Physical well-being services including health club and fitness centre",
+  "common_items": "Gyms, fitness centres, spas, yoga studios",
+  "chapter": "Other services",
+  "search_words": "gym fitness yoga spa"
+ },
+ {
+  "code": "999729",
+  "description": "Other beauty treatment services n.e.c.",
+  "common_items": "Other beauty services, mehndi artists",
+  "chapter": "Other services",
+  "search_words": "beauty"
+ },
+ {
+  "code": "999731",
+  "description": "Cemeteries and cremation services",
+  "common_items": "Cremation and burial services",
+  "chapter": "Other services",
+  "search_words": "cremation"
+ },
+ {
+  "code": "999732",
+  "description": "Undertaking services",
+  "common_items": "Funeral services",
+  "chapter": "Other services",
+  "search_words": "funeral"
+ },
+ {
+  "code": "999795",
+  "description": "Conduct of religious ceremonies",
+  "common_items": "Pooja, religious ceremonies",
+  "chapter": "Other services",
+  "search_words": "pooja pandit"
+ },
+ {
+  "code": "999799",
+  "description": "Other services n.e.c.",
+  "common_items": "Other services not covered elsewhere",
+  "chapter": "Other services",
+  "search_words": "other services"
+ },
+ {
+  "code": "9998",
+  "description": "Domestic services",
+  "common_items": "Household help",
+  "chapter": "Domestic services",
+  "search_words": "domestic help"
+ },
+ {
+  "code": "999800",
+  "description": "Domestic services both part time and full time",
+  "common_items": "Maids, cooks, drivers employed in homes",
+  "chapter": "Domestic services",
+  "search_words": "maid cook bai"
+ },
+ {
+  "code": "9999",
+  "description": "Services provided by extraterritorial organisations and bodies",
+  "common_items": "Services by UN bodies and foreign embassies",
+  "chapter": "Services provided by extraterritorial organisations and bodies",
+  "search_words": "embassy"
+ }
+]

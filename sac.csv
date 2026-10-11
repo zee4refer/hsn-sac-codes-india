@@ -1,0 +1,204 @@
+code,description,common_items,chapter,search_words
+9954,Construction services,"Building construction, civil works, works contracts, repair and renovation of buildings",Construction services,construction contractor works contract thekedar
+995411,Construction services of single dwelling or multi-dwelling or multi-storied residential buildings,"Building houses, flats and apartments",Construction services,house construction flat apartment
+995414,"Construction services of commercial buildings such as office buildings, exhibition and marriage halls, malls, hotels, restaurants","Building shops, offices, malls, hotels, halls",Construction services,commercial building
+995419,"Repair, alterations, additions, replacements, renovation, maintenance or remodelling of the buildings","House or office renovation, repairs and alterations to buildings",Construction services,renovation repair building
+995421,"General construction services of highways, streets, roads, railways, airfield runways, bridges and tunnels","Road, bridge and railway construction",Construction services,road construction
+995431,Demolition services,Demolishing buildings and structures,Construction services,demolition
+995433,Excavating and earthmoving services,"Digging, excavation, earth filling with machines",Construction services,jcb excavation khudai
+995453,Roofing and waterproofing services,"Roof work, waterproofing of terraces and walls",Construction services,waterproofing roofing
+995461,"Electrical installation services including electrical wiring and fitting services, fire alarm and burglar alarm installation","House and office wiring, electrical fitting work",Construction services,electrician wiring
+995462,Water plumbing and drain laying services,"Plumbing, pipe fitting, drainage work",Construction services,plumber plumbing
+995463,"Heating, ventilation and air conditioning equipment installation services",Central AC and ventilation installation,Construction services,hvac ac installation
+995466,Lift and escalator installation services,Installing lifts and escalators,Construction services,lift elevator installation
+995472,Plastering services,Plaster work,Construction services,plaster
+995473,Painting services,"Painting of buildings, wall painting contractors",Construction services,painter painting
+995474,Floor and wall tiling services,Tile laying,Construction services,tiles fitting
+995476,Joinery and carpentry services,"Carpentry, fitting doors, windows and woodwork in buildings",Construction services,carpenter badhai woodwork
+995477,Fencing and railing services,"Fencing, grills and railings work",Construction services,fencing railing grill
+9961,Services in wholesale trade,Commission agents and brokers in wholesale trade,Services in wholesale trade,wholesale commission agent
+996111,Services provided for a fee or commission or on contract basis on wholesale trade,"Wholesale commission agent, dalali on goods",Services in wholesale trade,commission agent dalali broker arhtiya
+9962,Services in retail trade,Commission agents in retail trade,Services in retail trade,retail commission
+996211,Services provided for a fee or commission or on contract basis on retail trade,Retail commission agents,Services in retail trade,retail commission agent
+9963,"Accommodation, food and beverage services","Hotels, lodges, PG, restaurants, cafes, catering, canteens","Accommodation, food and beverage services",hotel restaurant food
+996311,"Room or unit accommodation services provided by hotels, inns, guest houses, clubs and the like","Hotel rooms, lodges, guest houses","Accommodation, food and beverage services",hotel room lodge guest house
+996322,"Room or unit accommodation services provided by hostels, camps, paying guest and the like","Hostels, PG accommodation","Accommodation, food and beverage services",pg paying guest hostel
+996331,"Services provided by restaurants, cafes and similar eating facilities including takeaway services, room services and door delivery of food","Restaurants, dhabas, cafes, takeaway and food delivery","Accommodation, food and beverage services",restaurant dhaba cafe food delivery takeaway
+996332,"Services provided by hotels, inns, guest houses, clubs etc. including room services, takeaway and door delivery of food",Hotel restaurants and room service,"Accommodation, food and beverage services",hotel restaurant
+996333,Services provided in canteens and other similar establishments,Office and factory canteens,"Accommodation, food and beverage services",canteen mess
+996334,"Catering services in exhibition halls, events, marriage halls and other outdoor or indoor functions",Wedding and event catering,"Accommodation, food and beverage services",caterer catering shaadi
+9964,Passenger transport services,"Bus, taxi, cab, auto, air and rail travel of passengers",Passenger transport services,passenger transport
+996411,"Local land transport services of passengers by railways, metro, bus, tramway, autos, three wheelers and other motor vehicles","Local bus, auto-rickshaw, metro rides",Passenger transport services,auto rickshaw bus
+996412,Taxi services including radio taxi and other similar services,Taxi and cab rides,Passenger transport services,taxi cab
+996413,Non-scheduled local bus and coach charter services,Hired buses for local trips,Passenger transport services,bus hire
+996416,Sightseeing transportation services,Sightseeing tours by bus or boat,Passenger transport services,sightseeing
+996422,"Long-distance transport services of passengers through road by bus, car and non-scheduled long-distance bus and coach services",Outstation buses and cars,Passenger transport services,outstation travels
+996425,Domestic or international scheduled air transport services of passengers,Air tickets (airline service),Passenger transport services,flight airline
+9965,Goods transport services,"Transport of goods by road, rail, air, water or pipeline",Goods transport services,goods transport truck freight
+996511,"Road transport services of goods including letters, parcels, live animals, household and office furniture, containers etc. by trucks, trailers and other vehicles","Truck transport, tempo transport, packers and movers (transport)",Goods transport services,truck transport tempo bhada freight packers movers
+996512,Rail transport services of goods,Goods sent by rail,Goods transport services,rail freight
+996521,Coastal and transoceanic (overseas) water transport services of goods,Sea freight,Goods transport services,sea freight shipping
+996531,Air transport services of letters and parcels and other goods,Air cargo,Goods transport services,air cargo
+9966,Rental services of transport vehicles with or without operators,"Hiring cars, buses, trucks with or without driver",Rental services of transport vehicles,vehicle rental car rental
+996601,"Rental services of road vehicles including buses, coaches, cars, trucks and other motor vehicles, with or without operator","Car hire, bus hire, truck on rent, rent-a-cab",Rental services of transport vehicles,car on rent bus hire rent a cab
+9967,Supporting services in transport,"Cargo handling, warehousing, cold storage, customs clearing, parking, GTA",Supporting services in transport,warehouse storage logistics
+996711,Container handling services,Container loading and unloading,Supporting services in transport,container handling
+996712,Customs house agency services,Customs clearing (CHA),Supporting services in transport,cha customs broker
+996713,Clearing and forwarding services,C&F agents,Supporting services in transport,c&f clearing forwarding
+996719,Other cargo handling services,"Loading and unloading of goods, labour for cargo handling",Supporting services in transport,loading unloading hamali
+996721,Refrigerated storage services,Cold storage,Supporting services in transport,cold storage
+996729,Other storage and warehousing services,Godown and warehouse storage,Supporting services in transport,godown warehouse
+996743,Parking lot services,Paid parking,Supporting services in transport,parking
+996791,Goods transport agency services for road transport,GTA (transport company issuing consignment note / bilty),Supporting services in transport,gta bilty lorry receipt transport company
+996793,Other goods transport services,Other goods transport support,Supporting services in transport,transport
+9968,Postal and courier services,"Post office, courier, local delivery",Postal and courier services,courier
+996812,Courier services,Courier and express parcel delivery,Postal and courier services,courier parcel
+996813,Local delivery services,"Local delivery of parcels, last-mile delivery",Postal and courier services,delivery
+9969,"Electricity, gas, water and other distribution services","Electricity, gas and water distribution","Electricity, gas, water and other distribution services",electricity water
+996912,Electricity distribution services,Electricity distribution,"Electricity, gas, water and other distribution services",bijli electricity
+996921,Water distribution services,Water supply,"Electricity, gas, water and other distribution services",water supply
+9971,Financial and related services,"Banking, loans, insurance, broking, financial advice",Financial and related services,bank finance insurance
+997112,Deposit services,Bank account and deposit services,Financial and related services,bank deposit
+997113,"Credit-granting services including stand-by commitment, guarantees and securities","Loans and credit services, processing fees",Financial and related services,loan processing fee
+997114,Financial leasing services,Financial leasing,Financial and related services,leasing
+997119,"Other financial services (except investment banking, insurance services and pension services)",Other bank and NBFC service charges,Financial and related services,bank charges
+997131,Life insurance services (excluding reinsurance services),Life insurance,Financial and related services,life insurance
+997132,Accident and health insurance services,Health and accident insurance,Financial and related services,health insurance mediclaim
+997133,Motor vehicle insurance services,Vehicle insurance,Financial and related services,vehicle insurance car insurance
+997152,Brokerage and related securities and commodities services including commodity futures brokerage services,"Stock broking, commodity broking",Financial and related services,share broker stock broking
+997153,Portfolio management services except pension funds,PMS,Financial and related services,pms portfolio
+997156,Financial consultancy services,Financial advisory,Financial and related services,financial advisor
+997157,Foreign exchange services,"Currency exchange, forex",Financial and related services,forex money changer
+997161,Insurance brokerage and agency services,Insurance agents and brokers,Financial and related services,insurance agent
+9972,Real estate services,"Renting property, property management, real estate brokers",Real estate services,rent property real estate
+997211,Rental or leasing services involving own or leased residential property,Renting a house or flat,Real estate services,house rent residential rent
+997212,Rental or leasing services involving own or leased non-residential property,"Renting a shop, office, godown or commercial space",Real estate services,shop rent office rent commercial rent
+997221,Property management services on a fee or commission basis or contract basis,"Property management, society maintenance on contract",Real estate services,property management
+997222,Building sales on a fee or commission basis or contract basis,Real estate broker commission on sale of buildings,Real estate services,property dealer broker
+997223,Land sales on a fee or commission basis or contract basis,Broker commission on land sale,Real estate services,land broker
+9973,Leasing or rental services without operator,"Renting machinery, equipment, furniture, goods; licensing of software, trademarks and franchises",Leasing or rental services without operator,rental hire equipment
+997311,"Leasing or rental services concerning transport equipment including containers, with or without operator",Leasing vehicles and containers,Leasing or rental services without operator,vehicle leasing
+997312,Leasing or rental services concerning agricultural machinery and equipment with or without operator,Renting tractors and farm machines,Leasing or rental services without operator,tractor rent
+997313,Leasing or rental services concerning construction machinery and equipment with or without operator,"Renting JCB, cranes, scaffolding, construction equipment",Leasing or rental services without operator,jcb hire crane rent shuttering rent
+997314,Leasing or rental services concerning office machinery and equipment (except computers) with or without operator,Renting photocopiers and office machines,Leasing or rental services without operator,photocopier rent
+997315,Leasing or rental services concerning computers with or without operators,Renting laptops and computers,Leasing or rental services without operator,laptop rent computer rent
+997319,Leasing or rental services concerning other machinery and equipment with or without operator,Renting generators and other machines,Leasing or rental services without operator,generator rent
+997321,"Leasing or rental services concerning televisions, radios, projectors, audio systems and related equipment","Renting sound systems, projectors, TVs",Leasing or rental services without operator,sound system rent dj
+997323,Leasing or rental services concerning furniture and other household appliances,"Renting furniture, appliances, tent house goods",Leasing or rental services without operator,furniture rent tent house
+997326,"Leasing or rental services concerning textiles, clothing and footwear","Renting costumes, sherwanis, lehengas",Leasing or rental services without operator,dress on rent
+997331,Licensing services for the right to use computer software and databases,"Software licences, subscriptions to use software",Leasing or rental services without operator,software licence
+997334,Licensing services for the right to use trademarks and franchises,"Franchise fees, brand royalty",Leasing or rental services without operator,franchise royalty
+9981,Research and development services,"Research and development, product testing for R&D",Research and development services,research
+9982,Legal and accounting services,"Lawyers, chartered accountants, bookkeeping, tax filing",Legal and accounting services,ca lawyer accountant
+998212,Legal advisory and representation services concerning other fields of law,"Advocate services in civil, corporate and other matters",Legal and accounting services,lawyer advocate vakil
+998213,"Legal documentation and certification services concerning patents, copyrights and other intellectual property rights",Trademark and patent filing,Legal and accounting services,trademark registration patent
+998214,Legal documentation and certification services concerning other documents,Drafting agreements and deeds,Legal and accounting services,agreement drafting
+998215,Arbitration and mediation services,"Arbitration, mediation",Legal and accounting services,arbitration
+998221,Financial auditing services,"Statutory audit, audit by CA",Legal and accounting services,audit ca
+998222,Accounting and bookkeeping services,"Accounting, bookkeeping, writing books of accounts",Legal and accounting services,accountant bookkeeping munim
+998223,Payroll services,Payroll processing,Legal and accounting services,payroll salary processing
+998231,Corporate tax consulting and preparation services,Business tax filing and tax advice,Legal and accounting services,tax consultant gst filing
+998232,Individual tax preparation and planning services,Income tax return filing for individuals,Legal and accounting services,itr filing income tax
+9983,"Other professional, technical and business services","Consulting, IT, architects, engineers, advertising, photography, design","Other professional, technical and business services",professional services
+998311,"Management consulting and management services including financial, strategic, HR, marketing and operations management",Management consulting,"Other professional, technical and business services",management consultant
+998312,Business consulting services including public relations services,"Business consulting, PR","Other professional, technical and business services",business consultant pr
+998313,Information technology (IT) consulting and support services,"IT consulting, IT support, AMC for software","Other professional, technical and business services",it support it consulting
+998314,Information technology (IT) design and development services,"Software development, website design and development, app development","Other professional, technical and business services",software development website design app
+998315,Hosting and information technology (IT) infrastructure provisioning services,"Web hosting, cloud hosting, SaaS hosting","Other professional, technical and business services",hosting cloud server
+998316,IT infrastructure and network management services,"Network management, managed IT services","Other professional, technical and business services",network management
+998319,Other information technology services n.e.c.,Other IT services,"Other professional, technical and business services",it services
+998322,Architectural services for residential building projects,Architects for houses and flats,"Other professional, technical and business services",architect
+998323,Architectural services for non-residential building projects,"Architects for shops, offices, factories","Other professional, technical and business services",architect commercial
+998331,Engineering advisory services,Engineering consultancy,"Other professional, technical and business services",engineering consultant
+998332,Engineering services for building projects,Structural engineering for buildings,"Other professional, technical and business services",structural engineer
+998341,Project management services for construction projects,Construction project management,"Other professional, technical and business services",project management
+998361,Advertising services,"Advertising agencies, ad design and campaigns","Other professional, technical and business services",advertising agency
+998365,Sale of Internet advertising space,"Online ad space, website ads","Other professional, technical and business services",online ads digital ads
+998371,Market research services,Market research and surveys,"Other professional, technical and business services",market research survey
+998381,Portrait photography services,Studio and portrait photography,"Other professional, technical and business services",photographer photo studio
+998382,Advertising and related photography services,Product and advertising photography,"Other professional, technical and business services",product photography
+998383,Event photography and event videography services,Wedding and event photography and videography,"Other professional, technical and business services",wedding photographer videography
+998391,"Specialty design services including interior design, fashion design, industrial design","Interior designers, fashion designers, graphic design","Other professional, technical and business services",interior designer fashion designer graphic design
+998395,Translation and interpretation services,Translation and interpreters,"Other professional, technical and business services",translation
+998397,Sponsorship services and brand promotion services,"Sponsorship, brand promotion","Other professional, technical and business services",sponsorship
+9984,"Telecommunications, broadcasting and information supply services","Mobile, internet, DTH, online content","Telecommunications, broadcasting and information supply services",telecom internet
+998413,Mobile telecommunications services,"Mobile phone services, recharges","Telecommunications, broadcasting and information supply services",mobile recharge
+998422,Internet access services in wired and wireless mode,"Broadband, Wi-Fi internet","Telecommunications, broadcasting and information supply services",broadband wifi internet
+998431,"On-line text based information such as online books, newspapers, periodicals, directories","E-books, online newspapers and directories","Telecommunications, broadcasting and information supply services",online subscription
+998433,On-line video content,Video streaming,"Telecommunications, broadcasting and information supply services",streaming
+998434,Software downloads,Downloadable software,"Telecommunications, broadcasting and information supply services",software download
+9985,Support services,"Manpower, security, cleaning, packaging, travel agency, event management, office support",Support services,support services
+998511,Executive or retained personnel search services,Executive search,Support services,headhunting
+998512,"Permanent placement services, other than executive search services",Placement agencies,Support services,placement agency recruitment
+998513,Contract staffing services,Supply of contract staff,Support services,manpower contract staff
+998514,Temporary staffing services,Temporary manpower supply,Support services,manpower supply
+998521,Investigation services,Detective and investigation services,Support services,detective
+998525,Guard services,Security guards,Support services,security guard chowkidar
+998531,Disinfecting and exterminating services,"Pest control, fumigation, sanitisation",Support services,pest control fumigation
+998533,General cleaning services,"Housekeeping, office and building cleaning",Support services,housekeeping cleaning
+998538,Cleaning of transportation equipment,Car washing and cleaning,Support services,car wash
+998540,Packaging services of goods for others,"Packing services, packing of goods for others",Support services,packing services
+998551,Reservation services for transportation,"Ticket booking for air, rail and bus",Support services,ticket booking travel agent
+998552,"Reservation services for accommodation, cruises and package tours","Hotel booking, tour package booking",Support services,hotel booking
+998555,Tour operator services,"Tour operators, holiday packages",Support services,tour operator
+998592,Collection agency services,Debt recovery and collection agencies,Support services,recovery agent
+998593,Telephone-based support services,"Call centres, telecalling",Support services,call centre bpo
+998595,"Specialized office support services such as duplicating services, mailing services, document preparation","Photocopying, document typing and preparation",Support services,xerox photocopy typing
+998596,"Events, exhibitions, conventions and trade shows organisation and assistance services","Event management, exhibition organisers, wedding planners",Support services,event management wedding planner
+998597,Landscape care and maintenance services,Gardening and lawn maintenance,Support services,gardener mali
+9986,"Support services to agriculture, hunting, forestry, fishing, mining and utilities","Farm support services, mining support","Support services to agriculture, forestry, fishing, mining and utilities",agriculture support
+998611,Support services to crop production,"Ploughing, harvesting, spraying on hire for farmers","Support services to agriculture, forestry, fishing, mining and utilities",tractor ploughing harvesting kheti
+998612,Animal husbandry services,Animal breeding and care services,"Support services to agriculture, forestry, fishing, mining and utilities",animal husbandry
+9987,"Maintenance, repair and installation (except construction) services","Repair and servicing of machines, vehicles, appliances, computers, mobiles; installation of equipment","Maintenance, repair and installation (except construction) services",repair service maintenance
+998711,"Maintenance and repair services of fabricated metal products, except machinery and equipment","Repair of metal structures, tanks","Maintenance, repair and installation (except construction) services",metal repair
+998712,Maintenance and repair services of office and accounting machinery,"Repair of photocopiers, printers and office machines","Maintenance, repair and installation (except construction) services",printer repair
+998713,Maintenance and repair services of computers and peripheral equipment,"Computer and laptop repair, AMC","Maintenance, repair and installation (except construction) services",computer repair laptop repair
+998714,Maintenance and repair services of transport machinery and equipment,"Car and bike servicing and repair, garage work","Maintenance, repair and installation (except construction) services",garage car service bike service mechanic
+998715,Maintenance and repair services of electrical household appliances,"Repair of fridge, washing machine, AC, mixer","Maintenance, repair and installation (except construction) services",appliance repair ac service fridge repair
+998716,Maintenance and repair services of telecommunication equipments and apparatus,Mobile phone repair,"Maintenance, repair and installation (except construction) services",mobile repair
+998717,Maintenance and repair services of commercial and industrial machinery,Machine repair and servicing,"Maintenance, repair and installation (except construction) services",machine repair
+998718,Maintenance and repair services of elevators and escalators,Lift AMC and repair,"Maintenance, repair and installation (except construction) services",lift amc
+998719,Maintenance and repair services of other machinery and equipments,Repair of other machines and equipment,"Maintenance, repair and installation (except construction) services",repair
+998721,Repair services of footwear and leather goods,"Cobbler, shoe and bag repair","Maintenance, repair and installation (except construction) services",mochi cobbler
+998722,"Repair services of watches, clocks and jewellery","Watch repair, jewellery repair","Maintenance, repair and installation (except construction) services",watch repair
+998723,Repair services of garments and household textiles,"Alteration of clothes, darning","Maintenance, repair and installation (except construction) services",alteration tailor
+998724,Repair services of furniture,Furniture repair,"Maintenance, repair and installation (except construction) services",furniture repair
+998732,"Installation services of industrial, manufacturing and service industry machinery and equipment",Installing industrial machines,"Maintenance, repair and installation (except construction) services",machine installation
+998733,Installation services of office and accounting machinery and computers,Installing computers and office machines,"Maintenance, repair and installation (except construction) services",computer installation
+998736,Installation services of electrical machinery and apparatus n.e.c.,Installing electrical equipment,"Maintenance, repair and installation (except construction) services",electrical installation
+9988,Manufacturing services on physical inputs (goods) owned by others,"Job work: processing goods that belong to someone else, e.g. dyeing, stitching, polishing, printing on customer material",Manufacturing services on physical inputs owned by others (job work),job work jobwork processing tailoring
+998821,Textile manufacturing services,"Job work on fabric and yarn: dyeing, printing, weaving, embroidery",Manufacturing services on physical inputs owned by others (job work),dyeing printing embroidery job work
+998822,Wearing apparel manufacturing services,"Stitching garments from customer fabric, tailoring job work",Manufacturing services on physical inputs owned by others (job work),tailoring stitching darzi silai
+998823,Leather and leather products manufacturing services,Job work on leather goods,Manufacturing services on physical inputs owned by others (job work),leather job work
+9989,"Other manufacturing services; publishing, printing and reproduction services; materials recovery services","Printing on paper supplied by the customer, publishing on fee basis, recycling services","Other manufacturing services; publishing, printing and reproduction services",printing press publishing
+9991,Public administration and other services provided to the community as a whole; compulsory social security services,Services of government departments,Public administration and other services to the community,government
+9992,Education services,"Schools, colleges, coaching classes, training institutes",Education services,education school coaching
+999293,Commercial training and coaching services,"Coaching classes, tuition centres, skill training institutes",Education services,coaching tuition classes training institute
+9993,Human health and social care services,"Hospitals, clinics, doctors, diagnostic labs, nursing",Human health and social care services,hospital clinic doctor
+999311,Inpatient services,Hospital admission and treatment,Human health and social care services,hospital inpatient
+999312,Medical and dental services,"Doctor consultation, dental treatment",Human health and social care services,doctor dentist clinic
+999314,Nursing and physiotherapeutic services,"Nursing, physiotherapy",Human health and social care services,nurse physiotherapy
+999315,Ambulance services,Ambulance,Human health and social care services,ambulance
+999316,Medical laboratory and diagnostic-imaging services,"Pathology labs, X-ray, scans",Human health and social care services,lab test pathology xray
+9994,"Sewage and waste collection, treatment and disposal and other environmental protection services","Garbage collection, sewage treatment, waste disposal","Sewage and waste collection, treatment and disposal services",waste garbage sewage kachra
+9995,Services of membership organisations,"Clubs, trade associations, professional bodies, religious organisations",Services of membership organisations,association membership club
+9996,"Recreational, cultural and sporting services","Films, events, artists, sports, amusement parks","Recreational, cultural and sporting services",entertainment
+999612,"Motion picture, videotape, television and radio programme production services","Video and film production, ad films","Recreational, cultural and sporting services",video production
+999631,"Services of performing artists including actors, readers, musicians, singers, dancers, TV personalities and models","Singers, musicians, DJs, anchors, models","Recreational, cultural and sporting services",singer artist anchor model
+9997,Other services,"Laundry, dry cleaning, salons, beauty parlours, gyms, funeral services, religious ceremonies",Other services,laundry salon beauty
+999711,Coin-operated laundry services,Self-service laundromats,Other services,laundromat
+999712,Dry-cleaning services,Dry cleaning,Other services,dry clean
+999713,Other textile cleaning services,Laundry and washing of clothes,Other services,laundry dhobi
+999714,Pressing services,Ironing of clothes (press wala),Other services,press istri ironing
+999715,Dyeing and colouring services,Dyeing of clothes for customers,Other services,rangai dyeing
+999721,Hairdressing and barbers services,"Salons, barber shops, hair cutting",Other services,salon barber nai haircut
+999722,"Cosmetic treatment (including cosmetic/plastic surgery), manicuring and pedicuring services","Beauty parlour treatments, manicure, pedicure, facials",Other services,beauty parlour facial manicure
+999723,Physical well-being services including health club and fitness centre,"Gyms, fitness centres, spas, yoga studios",Other services,gym fitness yoga spa
+999729,Other beauty treatment services n.e.c.,"Other beauty services, mehndi artists",Other services,beauty
+999731,Cemeteries and cremation services,Cremation and burial services,Other services,cremation
+999732,Undertaking services,Funeral services,Other services,funeral
+999795,Conduct of religious ceremonies,"Pooja, religious ceremonies",Other services,pooja pandit
+999799,Other services n.e.c.,Other services not covered elsewhere,Other services,other services
+9998,Domestic services,Household help,Domestic services,domestic help
+999800,Domestic services both part time and full time,"Maids, cooks, drivers employed in homes",Domestic services,maid cook bai
+9999,Services provided by extraterritorial organisations and bodies,Services by UN bodies and foreign embassies,Services provided by extraterritorial organisations and bodies,embassy

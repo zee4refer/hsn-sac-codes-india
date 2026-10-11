@@ -1,0 +1,3124 @@
+[
+ {
+  "code": "0105",
+  "description": "Live poultry (fowls, ducks, geese, turkeys and guinea fowls)",
+  "common_items": "Live chickens, ducks, day-old chicks",
+  "chapter": "Live animals",
+  "search_words": "murgi chicken live bird poultry"
+ },
+ {
+  "code": "0201",
+  "description": "Meat of bovine animals, fresh or chilled",
+  "common_items": "Fresh buffalo or beef meat",
+  "chapter": "Meat and edible meat offal",
+  "search_words": "carabeef buffalo meat"
+ },
+ {
+  "code": "0204",
+  "description": "Meat of sheep or goats, fresh, chilled or frozen",
+  "common_items": "Mutton, goat meat, lamb",
+  "chapter": "Meat and edible meat offal",
+  "search_words": "mutton bakra gosht"
+ },
+ {
+  "code": "0207",
+  "description": "Meat and edible offal of poultry, fresh, chilled or frozen",
+  "common_items": "Chicken meat, dressed chicken, chicken legs and breast",
+  "chapter": "Meat and edible meat offal",
+  "search_words": "chicken murga broiler"
+ },
+ {
+  "code": "0302",
+  "description": "Fish, fresh or chilled (excluding fish fillets and other fish meat)",
+  "common_items": "Fresh fish such as rohu, pomfret, hilsa, surmai",
+  "chapter": "Fish and crustaceans, molluscs and other aquatic invertebrates",
+  "search_words": "machhli fish fresh"
+ },
+ {
+  "code": "0303",
+  "description": "Fish, frozen (excluding fish fillets and other fish meat)",
+  "common_items": "Frozen whole fish",
+  "chapter": "Fish and crustaceans, molluscs and other aquatic invertebrates",
+  "search_words": "machhli frozen fish"
+ },
+ {
+  "code": "0305",
+  "description": "Fish, dried, salted or in brine; smoked fish",
+  "common_items": "Dry fish, salted fish",
+  "chapter": "Fish and crustaceans, molluscs and other aquatic invertebrates",
+  "search_words": "sukhi machhli dry fish"
+ },
+ {
+  "code": "0306",
+  "description": "Crustaceans, whether in shell or not, live, fresh, chilled, frozen, dried or salted",
+  "common_items": "Prawns, shrimps, crabs, lobsters",
+  "chapter": "Fish and crustaceans, molluscs and other aquatic invertebrates",
+  "search_words": "jhinga prawn shrimp"
+ },
+ {
+  "code": "0401",
+  "description": "Milk and cream, not concentrated nor containing added sugar or other sweetening matter",
+  "common_items": "Fresh milk, toned milk, full cream milk, fresh cream",
+  "chapter": "Dairy produce; birds' eggs; natural honey; edible products of animal origin",
+  "search_words": "doodh milk dudh malai"
+ },
+ {
+  "code": "0402",
+  "description": "Milk and cream, concentrated or containing added sugar or other sweetening matter",
+  "common_items": "Milk powder, skimmed milk powder, condensed milk",
+  "chapter": "Dairy produce; birds' eggs; natural honey; edible products of animal origin",
+  "search_words": "milk powder dairy whitener condensed"
+ },
+ {
+  "code": "0403",
+  "description": "Yogurt, buttermilk, curdled milk and cream, kephir and other fermented or acidified milk and cream",
+  "common_items": "Curd, dahi, lassi, chhach, yogurt",
+  "chapter": "Dairy produce; birds' eggs; natural honey; edible products of animal origin",
+  "search_words": "dahi curd lassi chaas chhachh buttermilk"
+ },
+ {
+  "code": "0404",
+  "description": "Whey; products consisting of natural milk constituents, n.e.s.",
+  "common_items": "Whey, whey powder",
+  "chapter": "Dairy produce; birds' eggs; natural honey; edible products of animal origin",
+  "search_words": "whey"
+ },
+ {
+  "code": "0405",
+  "description": "Butter and other fats and oils derived from milk; dairy spreads",
+  "common_items": "Butter, ghee, butter oil",
+  "chapter": "Dairy produce; birds' eggs; natural honey; edible products of animal origin",
+  "search_words": "ghee makhan butter desi ghee"
+ },
+ {
+  "code": "0406",
+  "description": "Cheese and curd",
+  "common_items": "Paneer, cheese, cheese slices, processed cheese",
+  "chapter": "Dairy produce; birds' eggs; natural honey; edible products of animal origin",
+  "search_words": "paneer cheese chena"
+ },
+ {
+  "code": "0407",
+  "description": "Birds' eggs, in shell, fresh, preserved or cooked",
+  "common_items": "Hen eggs, duck eggs",
+  "chapter": "Dairy produce; birds' eggs; natural honey; edible products of animal origin",
+  "search_words": "anda eggs ande"
+ },
+ {
+  "code": "0409",
+  "description": "Natural honey",
+  "common_items": "Honey",
+  "chapter": "Dairy produce; birds' eggs; natural honey; edible products of animal origin",
+  "search_words": "shahad honey madhu"
+ },
+ {
+  "code": "0602",
+  "description": "Other live plants (including their roots), cuttings and slips; mushroom spawn",
+  "common_items": "Nursery plants, saplings, potted plants",
+  "chapter": "Live trees and other plants; cut flowers and ornamental foliage",
+  "search_words": "paudha plants nursery sapling"
+ },
+ {
+  "code": "0603",
+  "description": "Cut flowers and flower buds of a kind suitable for bouquets or for ornamental purposes, fresh, dried, dyed or bleached",
+  "common_items": "Fresh cut flowers, roses, marigold, bouquets",
+  "chapter": "Live trees and other plants; cut flowers and ornamental foliage",
+  "search_words": "phool flowers gende"
+ },
+ {
+  "code": "0701",
+  "description": "Potatoes, fresh or chilled",
+  "common_items": "Potatoes",
+  "chapter": "Edible vegetables and certain roots and tubers",
+  "search_words": "aloo aaloo potato"
+ },
+ {
+  "code": "0702",
+  "description": "Tomatoes, fresh or chilled",
+  "common_items": "Tomatoes",
+  "chapter": "Edible vegetables and certain roots and tubers",
+  "search_words": "tamatar tomato"
+ },
+ {
+  "code": "0703",
+  "description": "Onions, shallots, garlic, leeks and other alliaceous vegetables, fresh or chilled",
+  "common_items": "Onions, garlic, spring onions",
+  "chapter": "Edible vegetables and certain roots and tubers",
+  "search_words": "pyaz pyaaz kanda lehsun lahsun onion garlic"
+ },
+ {
+  "code": "0704",
+  "description": "Cabbages, cauliflowers, kohlrabi, kale and similar edible brassicas, fresh or chilled",
+  "common_items": "Cabbage, cauliflower, broccoli",
+  "chapter": "Edible vegetables and certain roots and tubers",
+  "search_words": "gobhi patta gobhi phool gobhi cabbage cauliflower"
+ },
+ {
+  "code": "0706",
+  "description": "Carrots, turnips, salad beetroot, radishes and similar edible roots, fresh or chilled",
+  "common_items": "Carrots, radish, beetroot, turnip",
+  "chapter": "Edible vegetables and certain roots and tubers",
+  "search_words": "gajar mooli chukandar shalgam"
+ },
+ {
+  "code": "0707",
+  "description": "Cucumbers and gherkins, fresh or chilled",
+  "common_items": "Cucumber, gherkins",
+  "chapter": "Edible vegetables and certain roots and tubers",
+  "search_words": "kheera kakdi cucumber"
+ },
+ {
+  "code": "0708",
+  "description": "Leguminous vegetables, shelled or unshelled, fresh or chilled",
+  "common_items": "Green peas, beans",
+  "chapter": "Edible vegetables and certain roots and tubers",
+  "search_words": "matar beans sem"
+ },
+ {
+  "code": "0709",
+  "description": "Other vegetables, fresh or chilled",
+  "common_items": "Brinjal, okra, spinach, green chillies, capsicum, mushrooms, sweet corn",
+  "chapter": "Edible vegetables and certain roots and tubers",
+  "search_words": "baingan bhindi palak hari mirch shimla mirch sabzi vegetables"
+ },
+ {
+  "code": "0710",
+  "description": "Vegetables (uncooked or cooked by steaming or boiling in water), frozen",
+  "common_items": "Frozen peas, frozen sweet corn, frozen mixed vegetables",
+  "chapter": "Edible vegetables and certain roots and tubers",
+  "search_words": "frozen matar frozen vegetables"
+ },
+ {
+  "code": "0712",
+  "description": "Dried vegetables, whole, cut, sliced, broken or in powder, but not further prepared",
+  "common_items": "Dehydrated onion, dried vegetables",
+  "chapter": "Edible vegetables and certain roots and tubers",
+  "search_words": "dry vegetables dehydrated"
+ },
+ {
+  "code": "0713",
+  "description": "Dried leguminous vegetables, shelled, whether or not skinned or split",
+  "common_items": "Pulses and dals: chana, moong, masoor, urad, toor/arhar, rajma, dried peas",
+  "chapter": "Edible vegetables and certain roots and tubers",
+  "search_words": "dal daal pulses chana moong masoor urad toor arhar rajma lobia kabuli chole"
+ },
+ {
+  "code": "0714",
+  "description": "Manioc (cassava), sweet potatoes and similar roots and tubers with high starch content",
+  "common_items": "Tapioca root, sweet potato",
+  "chapter": "Edible vegetables and certain roots and tubers",
+  "search_words": "shakarkandi tapioca cassava"
+ },
+ {
+  "code": "0801",
+  "description": "Coconuts, Brazil nuts and cashew nuts, fresh or dried",
+  "common_items": "Coconut, cashew nuts (kaju)",
+  "chapter": "Edible fruit and nuts; peel of citrus fruit or melons",
+  "search_words": "nariyal kaju cashew coconut"
+ },
+ {
+  "code": "0802",
+  "description": "Other nuts, fresh or dried (almonds, walnuts, pistachios, areca nuts etc.)",
+  "common_items": "Almonds, walnuts, pistachios, supari (areca nut)",
+  "chapter": "Edible fruit and nuts; peel of citrus fruit or melons",
+  "search_words": "badam akhrot pista supari dry fruits"
+ },
+ {
+  "code": "0803",
+  "description": "Bananas, including plantains, fresh or dried",
+  "common_items": "Bananas, raw banana",
+  "chapter": "Edible fruit and nuts; peel of citrus fruit or melons",
+  "search_words": "kela banana"
+ },
+ {
+  "code": "0804",
+  "description": "Dates, figs, pineapples, avocados, guavas, mangoes and mangosteens, fresh or dried",
+  "common_items": "Dates (khajoor), dried figs (anjeer), mangoes, guava, pineapple",
+  "chapter": "Edible fruit and nuts; peel of citrus fruit or melons",
+  "search_words": "khajoor anjeer aam amrood ananas mango"
+ },
+ {
+  "code": "0805",
+  "description": "Citrus fruit, fresh or dried",
+  "common_items": "Oranges, mosambi, lemons, limes",
+  "chapter": "Edible fruit and nuts; peel of citrus fruit or melons",
+  "search_words": "santra mosambi nimbu orange lemon"
+ },
+ {
+  "code": "0806",
+  "description": "Grapes, fresh or dried",
+  "common_items": "Grapes, raisins (kishmish, munakka)",
+  "chapter": "Edible fruit and nuts; peel of citrus fruit or melons",
+  "search_words": "angoor kishmish munakka raisins"
+ },
+ {
+  "code": "0807",
+  "description": "Melons (including watermelons) and papaws (papayas), fresh",
+  "common_items": "Watermelon, muskmelon, papaya",
+  "chapter": "Edible fruit and nuts; peel of citrus fruit or melons",
+  "search_words": "tarbooz kharbooja papita"
+ },
+ {
+  "code": "0808",
+  "description": "Apples, pears and quinces, fresh",
+  "common_items": "Apples, pears",
+  "chapter": "Edible fruit and nuts; peel of citrus fruit or melons",
+  "search_words": "seb apple nashpati"
+ },
+ {
+  "code": "0810",
+  "description": "Other fruit, fresh",
+  "common_items": "Pomegranate, strawberries, litchi, chikoo, kiwi",
+  "chapter": "Edible fruit and nuts; peel of citrus fruit or melons",
+  "search_words": "anar chikoo litchi strawberry fruits"
+ },
+ {
+  "code": "0811",
+  "description": "Fruit and nuts, frozen",
+  "common_items": "Frozen fruit, frozen berries",
+  "chapter": "Edible fruit and nuts; peel of citrus fruit or melons",
+  "search_words": "frozen fruit"
+ },
+ {
+  "code": "0813",
+  "description": "Fruit, dried, other than that of headings 0801 to 0806; mixtures of nuts or dried fruits",
+  "common_items": "Dried apricots, prunes, tamarind, mixed dry fruits",
+  "chapter": "Edible fruit and nuts; peel of citrus fruit or melons",
+  "search_words": "imli tamarind khubani dry fruit mix"
+ },
+ {
+  "code": "0901",
+  "description": "Coffee, whether or not roasted or decaffeinated; coffee husks and skins",
+  "common_items": "Coffee beans, roasted coffee, ground coffee powder",
+  "chapter": "Coffee, tea, mate and spices",
+  "search_words": "coffee filter coffee"
+ },
+ {
+  "code": "0902",
+  "description": "Tea, whether or not flavoured",
+  "common_items": "Tea leaves, CTC tea, green tea",
+  "chapter": "Coffee, tea, mate and spices",
+  "search_words": "chai patti chai tea"
+ },
+ {
+  "code": "0904",
+  "description": "Pepper of the genus Piper; dried or crushed or ground fruits of the genus Capsicum or Pimenta",
+  "common_items": "Black pepper, dry red chillies, red chilli powder",
+  "chapter": "Coffee, tea, mate and spices",
+  "search_words": "kali mirch lal mirch mirchi powder chilli pepper"
+ },
+ {
+  "code": "0906",
+  "description": "Cinnamon and cinnamon-tree flowers",
+  "common_items": "Cinnamon (dalchini)",
+  "chapter": "Coffee, tea, mate and spices",
+  "search_words": "dalchini cinnamon"
+ },
+ {
+  "code": "0907",
+  "description": "Cloves (whole fruit, cloves and stems)",
+  "common_items": "Cloves (laung)",
+  "chapter": "Coffee, tea, mate and spices",
+  "search_words": "laung clove"
+ },
+ {
+  "code": "0908",
+  "description": "Nutmeg, mace and cardamoms",
+  "common_items": "Cardamom (elaichi), nutmeg (jaiphal), mace (javitri)",
+  "chapter": "Coffee, tea, mate and spices",
+  "search_words": "elaichi jaiphal javitri cardamom"
+ },
+ {
+  "code": "0909",
+  "description": "Seeds of anise, badian, fennel, coriander, cumin or caraway; juniper berries",
+  "common_items": "Cumin (jeera), coriander seed (dhania), fennel (saunf), star anise",
+  "chapter": "Coffee, tea, mate and spices",
+  "search_words": "jeera dhania saunf zeera cumin coriander fennel"
+ },
+ {
+  "code": "0910",
+  "description": "Ginger, saffron, turmeric (curcuma), thyme, bay leaves, curry and other spices",
+  "common_items": "Turmeric (haldi), ginger, saffron (kesar), bay leaves, fenugreek seeds (methi), mixed masala",
+  "chapter": "Coffee, tea, mate and spices",
+  "search_words": "haldi adrak sonth kesar tejpatta methi masala spices garam masala"
+ },
+ {
+  "code": "1001",
+  "description": "Wheat and meslin",
+  "common_items": "Wheat grain",
+  "chapter": "Cereals",
+  "search_words": "gehun gehu wheat"
+ },
+ {
+  "code": "1003",
+  "description": "Barley",
+  "common_items": "Barley",
+  "chapter": "Cereals",
+  "search_words": "jau barley"
+ },
+ {
+  "code": "1005",
+  "description": "Maize (corn)",
+  "common_items": "Maize, corn grain",
+  "chapter": "Cereals",
+  "search_words": "makka makai maize corn"
+ },
+ {
+  "code": "1006",
+  "description": "Rice",
+  "common_items": "Rice: paddy, basmati, non-basmati, broken rice",
+  "chapter": "Cereals",
+  "search_words": "chawal chaawal rice basmati dhaan paddy"
+ },
+ {
+  "code": "1007",
+  "description": "Grain sorghum",
+  "common_items": "Jowar",
+  "chapter": "Cereals",
+  "search_words": "jowar sorghum"
+ },
+ {
+  "code": "1008",
+  "description": "Buckwheat, millet and canary seed; other cereals",
+  "common_items": "Millets: bajra, ragi, kodo, quinoa",
+  "chapter": "Cereals",
+  "search_words": "bajra ragi millet nachni kuttu"
+ },
+ {
+  "code": "1101",
+  "description": "Wheat or meslin flour",
+  "common_items": "Atta, maida (wheat flour)",
+  "chapter": "Products of the milling industry; malt; starches",
+  "search_words": "atta aata maida wheat flour"
+ },
+ {
+  "code": "1102",
+  "description": "Cereal flours other than of wheat or meslin",
+  "common_items": "Rice flour, maize flour, jowar, bajra, ragi flour",
+  "chapter": "Products of the milling industry; malt; starches",
+  "search_words": "chawal ka atta makki atta bajra atta flour"
+ },
+ {
+  "code": "1103",
+  "description": "Cereal groats, meal and pellets",
+  "common_items": "Suji, rava, semolina, dalia",
+  "chapter": "Products of the milling industry; malt; starches",
+  "search_words": "suji sooji rava semolina dalia"
+ },
+ {
+  "code": "1104",
+  "description": "Cereal grains otherwise worked (hulled, rolled, flaked, pearled, sliced or kibbled)",
+  "common_items": "Rolled oats, oat flakes, hulled grains",
+  "chapter": "Products of the milling industry; malt; starches",
+  "search_words": "oats"
+ },
+ {
+  "code": "1105",
+  "description": "Flour, meal, powder, flakes, granules and pellets of potatoes",
+  "common_items": "Potato flour, potato flakes",
+  "chapter": "Products of the milling industry; malt; starches",
+  "search_words": "aloo flour"
+ },
+ {
+  "code": "1106",
+  "description": "Flour, meal and powder of dried leguminous vegetables, of sago or of roots or tubers, or of fruit",
+  "common_items": "Besan (gram flour), sattu, other dal flours",
+  "chapter": "Products of the milling industry; malt; starches",
+  "search_words": "besan sattu gram flour"
+ },
+ {
+  "code": "1108",
+  "description": "Starches; inulin",
+  "common_items": "Corn flour (maize starch), potato starch",
+  "chapter": "Products of the milling industry; malt; starches",
+  "search_words": "cornflour corn starch arrowroot"
+ },
+ {
+  "code": "1201",
+  "description": "Soya beans, whether or not broken",
+  "common_items": "Soybean",
+  "chapter": "Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; fodder",
+  "search_words": "soyabean soybean"
+ },
+ {
+  "code": "1202",
+  "description": "Ground-nuts, not roasted or otherwise cooked, whether or not shelled or broken",
+  "common_items": "Raw groundnuts, peanuts",
+  "chapter": "Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; fodder",
+  "search_words": "moongphali mungfali groundnut peanut"
+ },
+ {
+  "code": "1203",
+  "description": "Copra",
+  "common_items": "Dried coconut kernel (copra, gola)",
+  "chapter": "Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; fodder",
+  "search_words": "copra gola khopra"
+ },
+ {
+  "code": "1207",
+  "description": "Other oil seeds and oleaginous fruits",
+  "common_items": "Sesame (til), mustard seed (rai, sarson), cotton seed, sunflower seed",
+  "chapter": "Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; fodder",
+  "search_words": "til rai sarson mustard seeds sesame"
+ },
+ {
+  "code": "1209",
+  "description": "Seeds, fruit and spores, of a kind used for sowing",
+  "common_items": "Vegetable seeds, flower seeds, field crop seeds for sowing",
+  "chapter": "Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; fodder",
+  "search_words": "beej seeds sowing bij"
+ },
+ {
+  "code": "1211",
+  "description": "Plants and parts of plants used primarily in perfumery, pharmacy or for insecticidal, fungicidal or similar purposes",
+  "common_items": "Medicinal herbs, dried leaves and roots",
+  "chapter": "Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; fodder",
+  "search_words": "jadi booti herbs"
+ },
+ {
+  "code": "1214",
+  "description": "Swedes, mangolds, fodder roots, hay, lucerne (alfalfa), clover and similar forage products",
+  "common_items": "Fodder, hay, lucerne",
+  "chapter": "Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; fodder",
+  "search_words": "chara fodder"
+ },
+ {
+  "code": "1301",
+  "description": "Lac; natural gums, resins, gum-resins and oleoresins",
+  "common_items": "Hing (asafoetida), gum arabic, gond",
+  "chapter": "Lac; gums, resins and other vegetable saps and extracts",
+  "search_words": "hing heeng asafoetida gond lac"
+ },
+ {
+  "code": "1401",
+  "description": "Vegetable materials of a kind used primarily for plaiting (bamboos, rattans, reeds etc.)",
+  "common_items": "Bamboo, cane, rattan",
+  "chapter": "Vegetable plaiting materials; vegetable products not elsewhere specified",
+  "search_words": "baans bamboo cane"
+ },
+ {
+  "code": "1507",
+  "description": "Soya-bean oil and its fractions",
+  "common_items": "Soyabean oil",
+  "chapter": "Animal, vegetable or microbial fats and oils; prepared edible fats",
+  "search_words": "soya tel oil"
+ },
+ {
+  "code": "1508",
+  "description": "Ground-nut oil and its fractions",
+  "common_items": "Groundnut oil, peanut oil",
+  "chapter": "Animal, vegetable or microbial fats and oils; prepared edible fats",
+  "search_words": "moongphali tel groundnut oil"
+ },
+ {
+  "code": "1509",
+  "description": "Olive oil and its fractions",
+  "common_items": "Olive oil",
+  "chapter": "Animal, vegetable or microbial fats and oils; prepared edible fats",
+  "search_words": "olive oil"
+ },
+ {
+  "code": "1511",
+  "description": "Palm oil and its fractions",
+  "common_items": "Palm oil, palmolein",
+  "chapter": "Animal, vegetable or microbial fats and oils; prepared edible fats",
+  "search_words": "palm oil"
+ },
+ {
+  "code": "1512",
+  "description": "Sunflower-seed, safflower or cotton-seed oil and their fractions",
+  "common_items": "Sunflower oil, safflower oil, cottonseed oil",
+  "chapter": "Animal, vegetable or microbial fats and oils; prepared edible fats",
+  "search_words": "sunflower oil refined oil"
+ },
+ {
+  "code": "1513",
+  "description": "Coconut (copra), palm kernel or babassu oil and their fractions",
+  "common_items": "Coconut oil",
+  "chapter": "Animal, vegetable or microbial fats and oils; prepared edible fats",
+  "search_words": "nariyal tel coconut oil"
+ },
+ {
+  "code": "1514",
+  "description": "Rape, colza or mustard oil and their fractions",
+  "common_items": "Mustard oil",
+  "chapter": "Animal, vegetable or microbial fats and oils; prepared edible fats",
+  "search_words": "sarson ka tel kachi ghani mustard oil"
+ },
+ {
+  "code": "1515",
+  "description": "Other fixed vegetable or microbial fats and oils (including linseed, sesame, castor and rice bran oil)",
+  "common_items": "Sesame (til) oil, rice bran oil, castor oil, linseed oil",
+  "chapter": "Animal, vegetable or microbial fats and oils; prepared edible fats",
+  "search_words": "til tel gingelly rice bran castor arandi"
+ },
+ {
+  "code": "1516",
+  "description": "Animal, vegetable or microbial fats and oils, partly or wholly hydrogenated",
+  "common_items": "Vanaspati, hydrogenated vegetable oil",
+  "chapter": "Animal, vegetable or microbial fats and oils; prepared edible fats",
+  "search_words": "vanaspati dalda"
+ },
+ {
+  "code": "1517",
+  "description": "Margarine; edible mixtures or preparations of fats or oils",
+  "common_items": "Margarine, bakery shortening",
+  "chapter": "Animal, vegetable or microbial fats and oils; prepared edible fats",
+  "search_words": "margarine"
+ },
+ {
+  "code": "1601",
+  "description": "Sausages and similar products of meat, meat offal or blood",
+  "common_items": "Sausages, salami",
+  "chapter": "Preparations of meat, fish or other aquatic invertebrates",
+  "search_words": "sausage"
+ },
+ {
+  "code": "1604",
+  "description": "Prepared or preserved fish; caviar",
+  "common_items": "Canned fish, tuna, sardines",
+  "chapter": "Preparations of meat, fish or other aquatic invertebrates",
+  "search_words": "canned fish"
+ },
+ {
+  "code": "1701",
+  "description": "Cane or beet sugar and chemically pure sucrose, in solid form",
+  "common_items": "Sugar, sugar cubes, khandsari, jaggery (gur)",
+  "chapter": "Sugars and sugar confectionery",
+  "search_words": "chini cheeni shakkar gur jaggery khand sugar"
+ },
+ {
+  "code": "1702",
+  "description": "Other sugars (including glucose, lactose); sugar syrups; artificial honey; caramel",
+  "common_items": "Glucose powder, liquid glucose, sugar syrup",
+  "chapter": "Sugars and sugar confectionery",
+  "search_words": "glucose"
+ },
+ {
+  "code": "1704",
+  "description": "Sugar confectionery (including white chocolate), not containing cocoa",
+  "common_items": "Toffees, candies, lollipops, boiled sweets, chewing gum",
+  "chapter": "Sugars and sugar confectionery",
+  "search_words": "toffee candy goli chewing gum"
+ },
+ {
+  "code": "1805",
+  "description": "Cocoa powder, not containing added sugar or other sweetening matter",
+  "common_items": "Cocoa powder",
+  "chapter": "Cocoa and cocoa preparations",
+  "search_words": "cocoa"
+ },
+ {
+  "code": "1806",
+  "description": "Chocolate and other food preparations containing cocoa",
+  "common_items": "Chocolates, chocolate bars, drinking chocolate",
+  "chapter": "Cocoa and cocoa preparations",
+  "search_words": "chocolate"
+ },
+ {
+  "code": "1901",
+  "description": "Malt extract; food preparations of flour, groats, meal, starch or malt extract; food preparations of milk n.e.s.",
+  "common_items": "Malted milk drink powders, infant food preparations, cake mixes",
+  "chapter": "Preparations of cereals, flour, starch or milk; pastrycooks' products",
+  "search_words": "health drink malt baby food instant mix"
+ },
+ {
+  "code": "1902",
+  "description": "Pasta, whether or not cooked or stuffed; couscous",
+  "common_items": "Noodles, instant noodles, vermicelli (seviyan), macaroni, pasta",
+  "chapter": "Preparations of cereals, flour, starch or milk; pastrycooks' products",
+  "search_words": "noodles maggi seviyan sevai vermicelli pasta macaroni"
+ },
+ {
+  "code": "1903",
+  "description": "Tapioca and substitutes therefor prepared from starch, in the form of flakes, grains, pearls or similar forms",
+  "common_items": "Sabudana (sago)",
+  "chapter": "Preparations of cereals, flour, starch or milk; pastrycooks' products",
+  "search_words": "sabudana sago"
+ },
+ {
+  "code": "1904",
+  "description": "Prepared foods obtained by the swelling or roasting of cereals (e.g. corn flakes); cereals in grain form, pre-cooked or otherwise prepared",
+  "common_items": "Corn flakes, muesli, puffed rice (murmura), poha (flattened rice)",
+  "chapter": "Preparations of cereals, flour, starch or milk; pastrycooks' products",
+  "search_words": "murmura poha chura chiwda cornflakes muesli"
+ },
+ {
+  "code": "1905",
+  "description": "Bread, pastry, cakes, biscuits and other bakers' wares, whether or not containing cocoa",
+  "common_items": "Bread, biscuits, rusk, cakes, pastries, khari, papad",
+  "chapter": "Preparations of cereals, flour, starch or milk; pastrycooks' products",
+  "search_words": "bread biscuit rusk cake pav papad bakery"
+ },
+ {
+  "code": "2001",
+  "description": "Vegetables, fruit, nuts and other edible parts of plants, prepared or preserved by vinegar or acetic acid",
+  "common_items": "Pickles in vinegar, gherkins",
+  "chapter": "Preparations of vegetables, fruit, nuts or other parts of plants",
+  "search_words": "achar pickle"
+ },
+ {
+  "code": "2004",
+  "description": "Other vegetables prepared or preserved otherwise than by vinegar or acetic acid, frozen",
+  "common_items": "Frozen french fries",
+  "chapter": "Preparations of vegetables, fruit, nuts or other parts of plants",
+  "search_words": "french fries frozen"
+ },
+ {
+  "code": "2005",
+  "description": "Other vegetables prepared or preserved otherwise than by vinegar or acetic acid, not frozen",
+  "common_items": "Potato chips (wafers), canned vegetables",
+  "chapter": "Preparations of vegetables, fruit, nuts or other parts of plants",
+  "search_words": "potato chips wafers"
+ },
+ {
+  "code": "2006",
+  "description": "Vegetables, fruit, nuts, fruit-peel and other parts of plants, preserved by sugar (drained, glace or crystallised)",
+  "common_items": "Petha, candied fruit, tutti frutti",
+  "chapter": "Preparations of vegetables, fruit, nuts or other parts of plants",
+  "search_words": "petha murabba tutti frutti"
+ },
+ {
+  "code": "2007",
+  "description": "Jams, fruit jellies, marmalades, fruit or nut puree and pastes, obtained by cooking",
+  "common_items": "Jam, jelly, marmalade",
+  "chapter": "Preparations of vegetables, fruit, nuts or other parts of plants",
+  "search_words": "jam jelly"
+ },
+ {
+  "code": "2008",
+  "description": "Fruit, nuts and other edible parts of plants, otherwise prepared or preserved",
+  "common_items": "Roasted or salted nuts, roasted peanuts, canned fruit",
+  "chapter": "Preparations of vegetables, fruit, nuts or other parts of plants",
+  "search_words": "roasted peanuts salted cashew"
+ },
+ {
+  "code": "2009",
+  "description": "Fruit or nut juices and vegetable juices, unfermented and not containing added spirit",
+  "common_items": "Fruit juices, vegetable juices",
+  "chapter": "Preparations of vegetables, fruit, nuts or other parts of plants",
+  "search_words": "juice"
+ },
+ {
+  "code": "2101",
+  "description": "Extracts, essences and concentrates of coffee, tea or mate; roasted chicory",
+  "common_items": "Instant coffee, coffee-chicory mixes, tea extracts",
+  "chapter": "Miscellaneous edible preparations",
+  "search_words": "instant coffee nescafe chicory"
+ },
+ {
+  "code": "2102",
+  "description": "Yeasts; prepared baking powders",
+  "common_items": "Yeast, baking powder",
+  "chapter": "Miscellaneous edible preparations",
+  "search_words": "yeast baking powder"
+ },
+ {
+  "code": "2103",
+  "description": "Sauces and preparations therefor; mixed condiments and mixed seasonings; mustard flour and prepared mustard",
+  "common_items": "Tomato ketchup, sauces, soya sauce, mayonnaise",
+  "chapter": "Miscellaneous edible preparations",
+  "search_words": "ketchup sauce mayonnaise"
+ },
+ {
+  "code": "2104",
+  "description": "Soups and broths and preparations therefor",
+  "common_items": "Soup, instant soup powder",
+  "chapter": "Miscellaneous edible preparations",
+  "search_words": "soup"
+ },
+ {
+  "code": "2105",
+  "description": "Ice cream and other edible ice",
+  "common_items": "Ice cream, kulfi, frozen desserts",
+  "chapter": "Miscellaneous edible preparations",
+  "search_words": "ice cream kulfi"
+ },
+ {
+  "code": "2106",
+  "description": "Food preparations not elsewhere specified or included",
+  "common_items": "Namkeen, bhujia, Indian sweets (mithai), protein powder, pan masala, sharbat concentrates",
+  "chapter": "Miscellaneous edible preparations",
+  "search_words": "namkeen bhujia mixture mithai sweets protein powder pan masala"
+ },
+ {
+  "code": "2201",
+  "description": "Waters, including natural or artificial mineral waters and aerated waters, not sweetened or flavoured; ice and snow",
+  "common_items": "Packaged drinking water, mineral water, soda, ice",
+  "chapter": "Beverages, spirits and vinegar",
+  "search_words": "pani bottle water bisleri ice soda"
+ },
+ {
+  "code": "2202",
+  "description": "Waters, including mineral and aerated waters, containing added sugar or flavour, and other non-alcoholic beverages",
+  "common_items": "Soft drinks, cold drinks, energy drinks, flavoured drinks",
+  "chapter": "Beverages, spirits and vinegar",
+  "search_words": "cold drink soft drink cola"
+ },
+ {
+  "code": "2209",
+  "description": "Vinegar and substitutes for vinegar obtained from acetic acid",
+  "common_items": "Vinegar (sirka)",
+  "chapter": "Beverages, spirits and vinegar",
+  "search_words": "sirka vinegar"
+ },
+ {
+  "code": "2302",
+  "description": "Bran, sharps and other residues from the sifting, milling or other working of cereals or leguminous plants",
+  "common_items": "Wheat bran (chokar), rice bran",
+  "chapter": "Residues and waste from the food industries; prepared animal fodder",
+  "search_words": "chokar bran"
+ },
+ {
+  "code": "2304",
+  "description": "Oil-cake and other solid residues from the extraction of soya-bean oil",
+  "common_items": "Soya DOC, soya meal",
+  "chapter": "Residues and waste from the food industries; prepared animal fodder",
+  "search_words": "soya doc khali"
+ },
+ {
+  "code": "2306",
+  "description": "Oil-cake and other solid residues from the extraction of other vegetable fats or oils",
+  "common_items": "Groundnut cake, mustard cake, cotton seed cake (khal)",
+  "chapter": "Residues and waste from the food industries; prepared animal fodder",
+  "search_words": "khal khali oil cake"
+ },
+ {
+  "code": "2309",
+  "description": "Preparations of a kind used in animal feeding",
+  "common_items": "Cattle feed, poultry feed, fish feed, dog and cat food",
+  "chapter": "Residues and waste from the food industries; prepared animal fodder",
+  "search_words": "pashu aahar cattle feed murgi dana poultry feed pet food"
+ },
+ {
+  "code": "2401",
+  "description": "Unmanufactured tobacco; tobacco refuse",
+  "common_items": "Raw tobacco leaves",
+  "chapter": "Tobacco and manufactured tobacco substitutes",
+  "search_words": "tambaku tobacco"
+ },
+ {
+  "code": "2402",
+  "description": "Cigars, cheroots, cigarillos and cigarettes, of tobacco or of tobacco substitutes",
+  "common_items": "Cigarettes, cigars",
+  "chapter": "Tobacco and manufactured tobacco substitutes",
+  "search_words": "cigarette"
+ },
+ {
+  "code": "2403",
+  "description": "Other manufactured tobacco; homogenised or reconstituted tobacco; tobacco extracts and essences",
+  "common_items": "Bidi, chewing tobacco, zarda, khaini, gutkha, hookah tobacco",
+  "chapter": "Tobacco and manufactured tobacco substitutes",
+  "search_words": "bidi beedi zarda khaini gutkha"
+ },
+ {
+  "code": "2501",
+  "description": "Salt (including table salt and denatured salt) and pure sodium chloride",
+  "common_items": "Table salt, rock salt (sendha namak), black salt",
+  "chapter": "Salt; sulphur; earths and stone; plastering materials, lime and cement",
+  "search_words": "namak salt sendha"
+ },
+ {
+  "code": "2505",
+  "description": "Natural sands of all kinds, whether or not coloured",
+  "common_items": "Sand for construction",
+  "chapter": "Salt; sulphur; earths and stone; plastering materials, lime and cement",
+  "search_words": "ret balu reti sand"
+ },
+ {
+  "code": "2507",
+  "description": "Kaolin and other kaolinic clays",
+  "common_items": "China clay",
+  "chapter": "Salt; sulphur; earths and stone; plastering materials, lime and cement",
+  "search_words": "china clay kaolin"
+ },
+ {
+  "code": "2515",
+  "description": "Marble, travertine, ecaussine and other calcareous monumental or building stone, crude or roughly trimmed or cut into blocks",
+  "common_items": "Marble blocks",
+  "chapter": "Salt; sulphur; earths and stone; plastering materials, lime and cement",
+  "search_words": "marble block"
+ },
+ {
+  "code": "2516",
+  "description": "Granite, porphyry, basalt, sandstone and other monumental or building stone, crude or roughly trimmed or cut into blocks",
+  "common_items": "Granite blocks, sandstone blocks",
+  "chapter": "Salt; sulphur; earths and stone; plastering materials, lime and cement",
+  "search_words": "granite block"
+ },
+ {
+  "code": "2517",
+  "description": "Pebbles, gravel, broken or crushed stone, of a kind commonly used for concrete aggregates or road metalling",
+  "common_items": "Gitti, aggregate, crushed stone, stone chips",
+  "chapter": "Salt; sulphur; earths and stone; plastering materials, lime and cement",
+  "search_words": "gitti rodi aggregate stone chips"
+ },
+ {
+  "code": "2520",
+  "description": "Gypsum; anhydrite; plasters",
+  "common_items": "Plaster of Paris (POP), gypsum",
+  "chapter": "Salt; sulphur; earths and stone; plastering materials, lime and cement",
+  "search_words": "pop plaster of paris gypsum"
+ },
+ {
+  "code": "2522",
+  "description": "Quicklime, slaked lime and hydraulic lime",
+  "common_items": "Lime (chuna)",
+  "chapter": "Salt; sulphur; earths and stone; plastering materials, lime and cement",
+  "search_words": "chuna lime"
+ },
+ {
+  "code": "2523",
+  "description": "Portland cement, aluminous cement, slag cement, supersulphate cement and similar hydraulic cements",
+  "common_items": "Cement (OPC, PPC), white cement, cement clinker",
+  "chapter": "Salt; sulphur; earths and stone; plastering materials, lime and cement",
+  "search_words": "cement opc ppc"
+ },
+ {
+  "code": "2701",
+  "description": "Coal; briquettes, ovoids and similar solid fuels manufactured from coal",
+  "common_items": "Coal",
+  "chapter": "Mineral fuels, mineral oils and products of their distillation; mineral waxes",
+  "search_words": "koyla coal"
+ },
+ {
+  "code": "2710",
+  "description": "Petroleum oils and oils obtained from bituminous minerals, other than crude; preparations thereof",
+  "common_items": "Engine oil, lubricating oil, gear oil, kerosene",
+  "chapter": "Mineral fuels, mineral oils and products of their distillation; mineral waxes",
+  "search_words": "engine oil mobil lube oil kerosene"
+ },
+ {
+  "code": "2711",
+  "description": "Petroleum gases and other gaseous hydrocarbons",
+  "common_items": "LPG",
+  "chapter": "Mineral fuels, mineral oils and products of their distillation; mineral waxes",
+  "search_words": "lpg gas cylinder"
+ },
+ {
+  "code": "2712",
+  "description": "Petroleum jelly; paraffin wax and similar waxes",
+  "common_items": "Petroleum jelly, paraffin wax (candle wax)",
+  "chapter": "Mineral fuels, mineral oils and products of their distillation; mineral waxes",
+  "search_words": "vaseline paraffin wax"
+ },
+ {
+  "code": "2713",
+  "description": "Petroleum coke, petroleum bitumen and other residues of petroleum oils",
+  "common_items": "Bitumen",
+  "chapter": "Mineral fuels, mineral oils and products of their distillation; mineral waxes",
+  "search_words": "bitumen tar damar"
+ },
+ {
+  "code": "3002",
+  "description": "Human blood; animal blood; antisera and other blood fractions; vaccines, toxins and similar products",
+  "common_items": "Vaccines, antisera, blood products",
+  "chapter": "Pharmaceutical products",
+  "search_words": "vaccine"
+ },
+ {
+  "code": "3003",
+  "description": "Medicaments consisting of two or more constituents, not put up in measured doses or in packings for retail sale",
+  "common_items": "Bulk medicines not in retail packs",
+  "chapter": "Pharmaceutical products",
+  "search_words": "bulk medicine"
+ },
+ {
+  "code": "3004",
+  "description": "Medicaments consisting of mixed or unmixed products, put up in measured doses or in packings for retail sale",
+  "common_items": "Tablets, capsules, syrups, injections, ointments; Ayurvedic, Unani, Siddha and homoeopathic medicines",
+  "chapter": "Pharmaceutical products",
+  "search_words": "dawai dawa medicine tablet capsule syrup ayurvedic homeopathic"
+ },
+ {
+  "code": "3005",
+  "description": "Wadding, gauze, bandages and similar articles, impregnated or coated or put up for retail sale for medical purposes",
+  "common_items": "Bandages, gauze, adhesive plasters, cotton wool for medical use",
+  "chapter": "Pharmaceutical products",
+  "search_words": "patti bandage gauze cotton band aid"
+ },
+ {
+  "code": "3006",
+  "description": "Pharmaceutical goods specified in Note 4 to this Chapter",
+  "common_items": "Sterile surgical sutures, first-aid boxes and kits, blood grouping reagents",
+  "chapter": "Pharmaceutical products",
+  "search_words": "suture first aid kit"
+ },
+ {
+  "code": "3101",
+  "description": "Animal or vegetable fertilisers, whether or not mixed together or chemically treated",
+  "common_items": "Organic manure, compost, vermicompost",
+  "chapter": "Fertilisers",
+  "search_words": "khaad organic manure compost gobar"
+ },
+ {
+  "code": "3102",
+  "description": "Mineral or chemical fertilisers, nitrogenous",
+  "common_items": "Urea, ammonium sulphate, CAN",
+  "chapter": "Fertilisers",
+  "search_words": "urea khaad"
+ },
+ {
+  "code": "3103",
+  "description": "Mineral or chemical fertilisers, phosphatic",
+  "common_items": "Single super phosphate (SSP)",
+  "chapter": "Fertilisers",
+  "search_words": "ssp phosphate"
+ },
+ {
+  "code": "3104",
+  "description": "Mineral or chemical fertilisers, potassic",
+  "common_items": "Muriate of potash (MOP)",
+  "chapter": "Fertilisers",
+  "search_words": "potash mop"
+ },
+ {
+  "code": "3105",
+  "description": "Mineral or chemical fertilisers containing two or three of nitrogen, phosphorus and potassium; other fertilisers",
+  "common_items": "DAP, NPK complex fertilisers",
+  "chapter": "Fertilisers",
+  "search_words": "dap npk khaad"
+ },
+ {
+  "code": "3208",
+  "description": "Paints and varnishes based on synthetic polymers or chemically modified natural polymers, dispersed or dissolved in a non-aqueous medium",
+  "common_items": "Enamel paint, oil-based paints, varnish, lacquer",
+  "chapter": "Tanning or dyeing extracts; dyes, pigments, paints and varnishes; putty; inks",
+  "search_words": "enamel paint varnish"
+ },
+ {
+  "code": "3209",
+  "description": "Paints and varnishes based on synthetic polymers or chemically modified natural polymers, dispersed or dissolved in an aqueous medium",
+  "common_items": "Emulsion paint, acrylic wall paint",
+  "chapter": "Tanning or dyeing extracts; dyes, pigments, paints and varnishes; putty; inks",
+  "search_words": "emulsion wall paint"
+ },
+ {
+  "code": "3210",
+  "description": "Other paints and varnishes; prepared water pigments of a kind used for finishing leather",
+  "common_items": "Distemper, other paints",
+  "chapter": "Tanning or dyeing extracts; dyes, pigments, paints and varnishes; putty; inks",
+  "search_words": "distemper"
+ },
+ {
+  "code": "3213",
+  "description": "Artists', students' or signboard painters' colours, in tablets, tubes, jars or similar forms",
+  "common_items": "Water colours, poster colours, oil colours for artists",
+  "chapter": "Tanning or dyeing extracts; dyes, pigments, paints and varnishes; putty; inks",
+  "search_words": "water colour poster colour"
+ },
+ {
+  "code": "3214",
+  "description": "Glaziers' putty, grafting putty, resin cements, caulking compounds and other mastics; painters' fillings",
+  "common_items": "Wall putty, sealants, m-seal type compounds",
+  "chapter": "Tanning or dyeing extracts; dyes, pigments, paints and varnishes; putty; inks",
+  "search_words": "wall putty sealant"
+ },
+ {
+  "code": "3215",
+  "description": "Printing ink, writing or drawing ink and other inks",
+  "common_items": "Printing ink, writing ink, stamp pad ink",
+  "chapter": "Tanning or dyeing extracts; dyes, pigments, paints and varnishes; putty; inks",
+  "search_words": "ink syahi"
+ },
+ {
+  "code": "3301",
+  "description": "Essential oils; resinoids; extracted oleoresins",
+  "common_items": "Essential oils, peppermint oil, eucalyptus oil",
+  "chapter": "Essential oils; perfumery, cosmetic or toilet preparations",
+  "search_words": "essential oil"
+ },
+ {
+  "code": "3303",
+  "description": "Perfumes and toilet waters",
+  "common_items": "Perfumes, attar, eau de toilette",
+  "chapter": "Essential oils; perfumery, cosmetic or toilet preparations",
+  "search_words": "perfume itar attar scent"
+ },
+ {
+  "code": "3304",
+  "description": "Beauty or make-up preparations and preparations for the care of the skin; manicure or pedicure preparations",
+  "common_items": "Lipstick, kajal, face powder, creams, lotions, sunscreen, nail polish",
+  "chapter": "Essential oils; perfumery, cosmetic or toilet preparations",
+  "search_words": "lipstick kajal cream lotion makeup nail polish face powder sunscreen"
+ },
+ {
+  "code": "3305",
+  "description": "Preparations for use on the hair",
+  "common_items": "Shampoo, hair oil, hair colour, hair cream, hair gel",
+  "chapter": "Essential oils; perfumery, cosmetic or toilet preparations",
+  "search_words": "shampoo baalon ka tel hair oil hair dye"
+ },
+ {
+  "code": "3306",
+  "description": "Preparations for oral or dental hygiene, including denture fixative pastes and powders; dental floss",
+  "common_items": "Toothpaste, tooth powder, mouthwash, dental floss",
+  "chapter": "Essential oils; perfumery, cosmetic or toilet preparations",
+  "search_words": "toothpaste manjan"
+ },
+ {
+  "code": "3307",
+  "description": "Shaving preparations, deodorants, bath preparations, depilatories, room deodorisers and other perfumery or toilet preparations n.e.s.",
+  "common_items": "Shaving cream, deodorants, room fresheners, agarbatti, dhoop",
+  "chapter": "Essential oils; perfumery, cosmetic or toilet preparations",
+  "search_words": "shaving cream deo room freshener agarbatti dhoop"
+ },
+ {
+  "code": "330741",
+  "description": "Agarbatti and other odoriferous preparations which operate by burning",
+  "common_items": "Agarbatti (incense sticks), dhoop sticks, dhoop cones",
+  "chapter": "Essential oils; perfumery, cosmetic or toilet preparations",
+  "search_words": "agarbatti dhoop incense"
+ },
+ {
+  "code": "3401",
+  "description": "Soap; organic surface-active products in the form of bars or cakes; washing preparations for the skin",
+  "common_items": "Bathing soap, detergent bars, liquid hand wash",
+  "chapter": "Soap, washing preparations, lubricating preparations, waxes, polishes, candles",
+  "search_words": "sabun soap bar handwash"
+ },
+ {
+  "code": "3402",
+  "description": "Organic surface-active agents; washing preparations and cleaning preparations",
+  "common_items": "Detergent powder, liquid detergent, dishwash liquid and bar, floor cleaner",
+  "chapter": "Soap, washing preparations, lubricating preparations, waxes, polishes, candles",
+  "search_words": "surf detergent washing powder dishwash"
+ },
+ {
+  "code": "3403",
+  "description": "Lubricating preparations and preparations of a kind used for oil or grease treatment of textiles or leather",
+  "common_items": "Lubricating preparations with less than 70% petroleum oil",
+  "chapter": "Soap, washing preparations, lubricating preparations, waxes, polishes, candles",
+  "search_words": "lubricant grease"
+ },
+ {
+  "code": "3405",
+  "description": "Polishes and creams for footwear, furniture, floors, metal; scouring pastes and powders",
+  "common_items": "Shoe polish, metal polish, furniture polish, scouring powder",
+  "chapter": "Soap, washing preparations, lubricating preparations, waxes, polishes, candles",
+  "search_words": "shoe polish"
+ },
+ {
+  "code": "3406",
+  "description": "Candles, tapers and the like",
+  "common_items": "Candles",
+  "chapter": "Soap, washing preparations, lubricating preparations, waxes, polishes, candles",
+  "search_words": "mombatti candle"
+ },
+ {
+  "code": "3407",
+  "description": "Modelling pastes; dental wax; other preparations for use in dentistry with a basis of plaster",
+  "common_items": "Clay for children, modelling dough",
+  "chapter": "Soap, washing preparations, lubricating preparations, waxes, polishes, candles",
+  "search_words": "clay modelling"
+ },
+ {
+  "code": "3506",
+  "description": "Prepared glues and other prepared adhesives n.e.s.; products suitable for use as glues or adhesives put up for retail sale",
+  "common_items": "Glue, white adhesive, instant adhesive, gum",
+  "chapter": "Albuminoidal substances; modified starches; glues; enzymes",
+  "search_words": "gond glue fevicol adhesive gum"
+ },
+ {
+  "code": "3604",
+  "description": "Fireworks, signalling flares, rain rockets, fog signals and other pyrotechnic articles",
+  "common_items": "Fireworks, crackers",
+  "chapter": "Explosives; pyrotechnic products; matches",
+  "search_words": "patakhe patake crackers fireworks"
+ },
+ {
+  "code": "3605",
+  "description": "Matches, other than pyrotechnic articles of heading 3604",
+  "common_items": "Matchboxes",
+  "chapter": "Explosives; pyrotechnic products; matches",
+  "search_words": "machis maachis matchbox"
+ },
+ {
+  "code": "3808",
+  "description": "Insecticides, rodenticides, fungicides, herbicides, plant-growth regulators, disinfectants and similar products",
+  "common_items": "Pesticides, weedicides, mosquito coils and liquid vaporizers, rat poison, disinfectants, hand sanitiser",
+  "chapter": "Miscellaneous chemical products",
+  "search_words": "pesticide keetnashak mosquito coil machhar disinfectant phenyl sanitizer"
+ },
+ {
+  "code": "3819",
+  "description": "Hydraulic brake fluids and other prepared liquids for hydraulic transmission",
+  "common_items": "Brake fluid",
+  "chapter": "Miscellaneous chemical products",
+  "search_words": "brake oil"
+ },
+ {
+  "code": "3820",
+  "description": "Anti-freezing preparations and prepared de-icing fluids",
+  "common_items": "Radiator coolant, antifreeze",
+  "chapter": "Miscellaneous chemical products",
+  "search_words": "coolant"
+ },
+ {
+  "code": "3822",
+  "description": "Diagnostic or laboratory reagents; certified reference materials",
+  "common_items": "Diagnostic test kits, reagents",
+  "chapter": "Miscellaneous chemical products",
+  "search_words": "test kit reagent"
+ },
+ {
+  "code": "3824",
+  "description": "Prepared binders for foundry moulds or cores; chemical products and preparations n.e.s.",
+  "common_items": "Concrete admixtures, waterproofing additives for cement",
+  "chapter": "Miscellaneous chemical products",
+  "search_words": "admixture waterproofing"
+ },
+ {
+  "code": "3917",
+  "description": "Tubes, pipes and hoses, and fittings therefor, of plastics",
+  "common_items": "PVC, CPVC, HDPE pipes, garden hose, plastic pipe fittings",
+  "chapter": "Plastics and articles thereof",
+  "search_words": "pvc pipe cpvc pipe hose"
+ },
+ {
+  "code": "3918",
+  "description": "Floor coverings of plastics; wall or ceiling coverings of plastics",
+  "common_items": "Vinyl flooring, PVC floor mats",
+  "chapter": "Plastics and articles thereof",
+  "search_words": "vinyl flooring"
+ },
+ {
+  "code": "3919",
+  "description": "Self-adhesive plates, sheets, film, foil, tape, strip and other flat shapes, of plastics",
+  "common_items": "Cello tape, BOPP tape, packing tape, stickers on plastic",
+  "chapter": "Plastics and articles thereof",
+  "search_words": "cello tape packing tape"
+ },
+ {
+  "code": "3920",
+  "description": "Other plates, sheets, film, foil and strip, of plastics, non-cellular and not reinforced",
+  "common_items": "Plastic sheets and films, polythene film",
+  "chapter": "Plastics and articles thereof",
+  "search_words": "plastic sheet film"
+ },
+ {
+  "code": "3922",
+  "description": "Baths, shower-baths, sinks, wash-basins, lavatory seats and covers, flushing cisterns and similar sanitary ware, of plastics",
+  "common_items": "Plastic toilet seat covers, PVC flushing cisterns",
+  "chapter": "Plastics and articles thereof",
+  "search_words": "toilet seat cover cistern"
+ },
+ {
+  "code": "3923",
+  "description": "Articles for the conveyance or packing of goods, of plastics; stoppers, lids, caps and other closures, of plastics",
+  "common_items": "Plastic bottles, jars, containers, boxes, carry bags, caps",
+  "chapter": "Plastics and articles thereof",
+  "search_words": "plastic bottle jar dabba thaili bag packaging"
+ },
+ {
+  "code": "3924",
+  "description": "Tableware, kitchenware, other household articles and hygienic or toilet articles, of plastics",
+  "common_items": "Plastic buckets, mugs, tiffin boxes, water bottles for home use",
+  "chapter": "Plastics and articles thereof",
+  "search_words": "balti bucket mug tiffin plastic household"
+ },
+ {
+  "code": "3925",
+  "description": "Builders' ware of plastics, n.e.s.",
+  "common_items": "Plastic water tanks over 300 litres, PVC doors and windows",
+  "chapter": "Plastics and articles thereof",
+  "search_words": "water tank pvc door"
+ },
+ {
+  "code": "3926",
+  "description": "Other articles of plastics",
+  "common_items": "Plastic stationery, files and folders, raincoats, plastic hangers, plastic bangles",
+  "chapter": "Plastics and articles thereof",
+  "search_words": "plastic file folder raincoat"
+ },
+ {
+  "code": "4009",
+  "description": "Tubes, pipes and hoses, of vulcanised rubber",
+  "common_items": "Rubber hoses, LPG rubber tube",
+  "chapter": "Rubber and articles thereof",
+  "search_words": "rubber pipe"
+ },
+ {
+  "code": "4010",
+  "description": "Conveyor or transmission belts or belting, of vulcanised rubber",
+  "common_items": "V-belts, fan belts, conveyor belts",
+  "chapter": "Rubber and articles thereof",
+  "search_words": "v belt fan belt"
+ },
+ {
+  "code": "4011",
+  "description": "New pneumatic tyres, of rubber",
+  "common_items": "Tyres for cars, two-wheelers, trucks, tractors, bicycles",
+  "chapter": "Rubber and articles thereof",
+  "search_words": "tyre tayar tire"
+ },
+ {
+  "code": "4012",
+  "description": "Retreaded or used pneumatic tyres of rubber; solid or cushion tyres, tyre treads and tyre flaps",
+  "common_items": "Retreaded tyres, tyre flaps",
+  "chapter": "Rubber and articles thereof",
+  "search_words": "retread"
+ },
+ {
+  "code": "4013",
+  "description": "Inner tubes, of rubber",
+  "common_items": "Tyre tubes",
+  "chapter": "Rubber and articles thereof",
+  "search_words": "tube"
+ },
+ {
+  "code": "4014",
+  "description": "Hygienic or pharmaceutical articles of vulcanised rubber (including teats)",
+  "common_items": "Condoms, feeding bottle nipples",
+  "chapter": "Rubber and articles thereof",
+  "search_words": "condom nipple"
+ },
+ {
+  "code": "4015",
+  "description": "Articles of apparel and clothing accessories (including gloves) of vulcanised rubber",
+  "common_items": "Rubber gloves, surgical gloves",
+  "chapter": "Rubber and articles thereof",
+  "search_words": "gloves dastane"
+ },
+ {
+  "code": "4016",
+  "description": "Other articles of vulcanised rubber other than hard rubber",
+  "common_items": "Erasers, rubber bands, rubber mats, gaskets of rubber",
+  "chapter": "Rubber and articles thereof",
+  "search_words": "rubber eraser rubber band"
+ },
+ {
+  "code": "4202",
+  "description": "Trunks, suitcases, briefcases, school bags, handbags, wallets, purses and similar containers",
+  "common_items": "School bags, handbags, suitcases, wallets, laptop bags, purses",
+  "chapter": "Articles of leather; travel goods, handbags and similar containers",
+  "search_words": "bag school bag purse wallet suitcase"
+ },
+ {
+  "code": "4203",
+  "description": "Articles of apparel and clothing accessories, of leather or of composition leather",
+  "common_items": "Leather belts, leather jackets, leather gloves",
+  "chapter": "Articles of leather; travel goods, handbags and similar containers",
+  "search_words": "belt leather jacket"
+ },
+ {
+  "code": "4401",
+  "description": "Fuel wood; wood in chips or particles; sawdust and wood waste",
+  "common_items": "Firewood, sawdust",
+  "chapter": "Wood and articles of wood; wood charcoal",
+  "search_words": "lakdi jalawan firewood"
+ },
+ {
+  "code": "4402",
+  "description": "Wood charcoal (including shell or nut charcoal)",
+  "common_items": "Charcoal",
+  "chapter": "Wood and articles of wood; wood charcoal",
+  "search_words": "koyla charcoal"
+ },
+ {
+  "code": "4407",
+  "description": "Wood sawn or chipped lengthwise, sliced or peeled, of a thickness exceeding 6 mm",
+  "common_items": "Sawn timber, wooden planks",
+  "chapter": "Wood and articles of wood; wood charcoal",
+  "search_words": "lakdi timber planks"
+ },
+ {
+  "code": "4408",
+  "description": "Sheets for veneering and for plywood, of a thickness not exceeding 6 mm",
+  "common_items": "Veneer sheets",
+  "chapter": "Wood and articles of wood; wood charcoal",
+  "search_words": "veneer"
+ },
+ {
+  "code": "4410",
+  "description": "Particle board, oriented strand board (OSB) and similar board of wood",
+  "common_items": "Particle board",
+  "chapter": "Wood and articles of wood; wood charcoal",
+  "search_words": "particle board"
+ },
+ {
+  "code": "4411",
+  "description": "Fibreboard of wood or other ligneous materials",
+  "common_items": "MDF, HDF boards",
+  "chapter": "Wood and articles of wood; wood charcoal",
+  "search_words": "mdf hdf board"
+ },
+ {
+  "code": "4412",
+  "description": "Plywood, veneered panels and similar laminated wood",
+  "common_items": "Plywood, block board, flush board",
+  "chapter": "Wood and articles of wood; wood charcoal",
+  "search_words": "plywood ply block board"
+ },
+ {
+  "code": "4414",
+  "description": "Wooden frames for paintings, photographs, mirrors or similar objects",
+  "common_items": "Wooden photo frames, mirror frames",
+  "chapter": "Wood and articles of wood; wood charcoal",
+  "search_words": "photo frame"
+ },
+ {
+  "code": "4418",
+  "description": "Builders' joinery and carpentry of wood",
+  "common_items": "Wooden doors, windows, door frames, flush doors",
+  "chapter": "Wood and articles of wood; wood charcoal",
+  "search_words": "darwaza door chaukhat window"
+ },
+ {
+  "code": "4421",
+  "description": "Other articles of wood",
+  "common_items": "Wooden hangers, wooden spoons, toothpicks",
+  "chapter": "Wood and articles of wood; wood charcoal",
+  "search_words": "wooden hanger"
+ },
+ {
+  "code": "4601",
+  "description": "Plaits and similar products of plaiting materials; mats, matting and screens of vegetable materials",
+  "common_items": "Chatai, bamboo or palm-leaf mats",
+  "chapter": "Manufactures of straw or other plaiting materials; basketware",
+  "search_words": "chatai mat"
+ },
+ {
+  "code": "4602",
+  "description": "Basketwork, wickerwork and other articles made of plaiting materials",
+  "common_items": "Baskets, cane and bamboo articles",
+  "chapter": "Manufactures of straw or other plaiting materials; basketware",
+  "search_words": "tokri basket"
+ },
+ {
+  "code": "4802",
+  "description": "Uncoated paper and paperboard used for writing, printing or other graphic purposes",
+  "common_items": "A4 copier paper, printing paper",
+  "chapter": "Paper and paperboard; articles of paper pulp, paper or paperboard",
+  "search_words": "a4 paper copier paper kagaz"
+ },
+ {
+  "code": "4817",
+  "description": "Envelopes, letter cards, plain postcards and correspondence cards, of paper or paperboard",
+  "common_items": "Envelopes",
+  "chapter": "Paper and paperboard; articles of paper pulp, paper or paperboard",
+  "search_words": "lifafa envelope"
+ },
+ {
+  "code": "4818",
+  "description": "Toilet paper, tissues, towels, napkins, tablecloths and similar household or sanitary articles of paper",
+  "common_items": "Tissue paper, toilet rolls, paper napkins, kitchen towels",
+  "chapter": "Paper and paperboard; articles of paper pulp, paper or paperboard",
+  "search_words": "tissue napkin toilet roll"
+ },
+ {
+  "code": "4819",
+  "description": "Cartons, boxes, cases, bags and other packing containers, of paper or paperboard",
+  "common_items": "Corrugated boxes, cartons, paper bags",
+  "chapter": "Paper and paperboard; articles of paper pulp, paper or paperboard",
+  "search_words": "carton corrugated box paper bag"
+ },
+ {
+  "code": "4820",
+  "description": "Registers, account books, notebooks, diaries, letter pads, exercise books, binders and file covers, of paper",
+  "common_items": "Notebooks, registers, diaries, exercise books, file covers",
+  "chapter": "Paper and paperboard; articles of paper pulp, paper or paperboard",
+  "search_words": "copy notebook register diary"
+ },
+ {
+  "code": "4821",
+  "description": "Paper or paperboard labels of all kinds, whether or not printed",
+  "common_items": "Paper labels, printed tags",
+  "chapter": "Paper and paperboard; articles of paper pulp, paper or paperboard",
+  "search_words": "label tag"
+ },
+ {
+  "code": "4823",
+  "description": "Other paper, paperboard, cellulose wadding and articles thereof",
+  "common_items": "Paper cups, paper plates",
+  "chapter": "Paper and paperboard; articles of paper pulp, paper or paperboard",
+  "search_words": "paper cup paper plate"
+ },
+ {
+  "code": "4901",
+  "description": "Printed books, brochures, leaflets and similar printed matter",
+  "common_items": "Books, textbooks, guides",
+  "chapter": "Printed books, newspapers, pictures and other printed products",
+  "search_words": "kitab books"
+ },
+ {
+  "code": "4902",
+  "description": "Newspapers, journals and periodicals",
+  "common_items": "Newspapers, magazines",
+  "chapter": "Printed books, newspapers, pictures and other printed products",
+  "search_words": "akhbar newspaper magazine"
+ },
+ {
+  "code": "4903",
+  "description": "Children's picture, drawing or colouring books",
+  "common_items": "Children's picture books, colouring books",
+  "chapter": "Printed books, newspapers, pictures and other printed products",
+  "search_words": "colouring book"
+ },
+ {
+  "code": "4909",
+  "description": "Printed or illustrated postcards; printed cards bearing personal greetings or messages",
+  "common_items": "Greeting cards, invitation cards",
+  "chapter": "Printed books, newspapers, pictures and other printed products",
+  "search_words": "greeting card"
+ },
+ {
+  "code": "4910",
+  "description": "Calendars of any kind, printed, including calendar blocks",
+  "common_items": "Calendars",
+  "chapter": "Printed books, newspapers, pictures and other printed products",
+  "search_words": "calendar"
+ },
+ {
+  "code": "4911",
+  "description": "Other printed matter, including printed pictures and photographs",
+  "common_items": "Posters, pamphlets, brochures, trade catalogues, printed forms",
+  "chapter": "Printed books, newspapers, pictures and other printed products",
+  "search_words": "poster pamphlet printed"
+ },
+ {
+  "code": "5007",
+  "description": "Woven fabrics of silk or of silk waste",
+  "common_items": "Silk fabric, silk sarees",
+  "chapter": "Silk",
+  "search_words": "resham silk saree"
+ },
+ {
+  "code": "5204",
+  "description": "Cotton sewing thread, whether or not put up for retail sale",
+  "common_items": "Cotton sewing thread",
+  "chapter": "Cotton",
+  "search_words": "dhaga thread"
+ },
+ {
+  "code": "5205",
+  "description": "Cotton yarn (other than sewing thread), containing 85% or more by weight of cotton, not put up for retail sale",
+  "common_items": "Cotton yarn",
+  "chapter": "Cotton",
+  "search_words": "suta yarn"
+ },
+ {
+  "code": "5208",
+  "description": "Woven fabrics of cotton, containing 85% or more by weight of cotton, weighing not more than 200 g/m2",
+  "common_items": "Cotton cloth, cotton sarees, dhoti, lungi, shirting",
+  "chapter": "Cotton",
+  "search_words": "kapda cotton fabric saree dhoti lungi"
+ },
+ {
+  "code": "5209",
+  "description": "Woven fabrics of cotton, containing 85% or more by weight of cotton, weighing more than 200 g/m2",
+  "common_items": "Heavier cotton fabric, denim, canvas",
+  "chapter": "Cotton",
+  "search_words": "denim canvas"
+ },
+ {
+  "code": "5310",
+  "description": "Woven fabrics of jute or of other textile bast fibres",
+  "common_items": "Jute fabric, hessian cloth",
+  "chapter": "Other vegetable textile fibres (jute etc.); woven fabrics of them",
+  "search_words": "jute hessian tat"
+ },
+ {
+  "code": "5402",
+  "description": "Synthetic filament yarn (other than sewing thread), not put up for retail sale",
+  "common_items": "Polyester and nylon filament yarn",
+  "chapter": "Man-made filaments; strip of man-made textile materials",
+  "search_words": "polyester yarn"
+ },
+ {
+  "code": "5407",
+  "description": "Woven fabrics of synthetic filament yarn",
+  "common_items": "Polyester and nylon fabric, synthetic sarees",
+  "chapter": "Man-made filaments; strip of man-made textile materials",
+  "search_words": "polyester fabric synthetic saree"
+ },
+ {
+  "code": "5512",
+  "description": "Woven fabrics of synthetic staple fibres, containing 85% or more by weight of synthetic staple fibres",
+  "common_items": "Synthetic staple fibre fabric",
+  "chapter": "Man-made staple fibres",
+  "search_words": "synthetic fabric"
+ },
+ {
+  "code": "5601",
+  "description": "Wadding of textile materials and articles thereof",
+  "common_items": "Cotton wadding (non-medical)",
+  "chapter": "Wadding, felt and nonwovens; special yarns; twine, cordage, ropes",
+  "search_words": "rui cotton"
+ },
+ {
+  "code": "5607",
+  "description": "Twine, cordage, ropes and cables, whether or not plaited or braided",
+  "common_items": "Ropes, nylon rope, jute twine",
+  "chapter": "Wadding, felt and nonwovens; special yarns; twine, cordage, ropes",
+  "search_words": "rassi rope sutli"
+ },
+ {
+  "code": "5608",
+  "description": "Knotted netting of twine, cordage or rope; made up fishing nets and other nets",
+  "common_items": "Fishing nets, safety nets",
+  "chapter": "Wadding, felt and nonwovens; special yarns; twine, cordage, ropes",
+  "search_words": "jaal net"
+ },
+ {
+  "code": "5702",
+  "description": "Carpets and other textile floor coverings, woven, not tufted or flocked",
+  "common_items": "Durries, woven carpets",
+  "chapter": "Carpets and other textile floor coverings",
+  "search_words": "dari durrie carpet"
+ },
+ {
+  "code": "5703",
+  "description": "Carpets and other textile floor coverings (including turf), tufted",
+  "common_items": "Tufted carpets, artificial grass",
+  "chapter": "Carpets and other textile floor coverings",
+  "search_words": "carpet"
+ },
+ {
+  "code": "5804",
+  "description": "Tulles and other net fabrics; lace in the piece, in strips or in motifs",
+  "common_items": "Lace, net fabric",
+  "chapter": "Special woven fabrics; lace; trimmings; embroidery",
+  "search_words": "lace"
+ },
+ {
+  "code": "5806",
+  "description": "Narrow woven fabrics",
+  "common_items": "Ribbons, tapes, elastic tapes, niwar",
+  "chapter": "Special woven fabrics; lace; trimmings; embroidery",
+  "search_words": "ribbon niwar tape"
+ },
+ {
+  "code": "5807",
+  "description": "Labels, badges and similar articles of textile materials, not embroidered",
+  "common_items": "Woven labels, cloth labels",
+  "chapter": "Special woven fabrics; lace; trimmings; embroidery",
+  "search_words": "label"
+ },
+ {
+  "code": "5808",
+  "description": "Braids in the piece; ornamental trimmings in the piece; tassels, pompons",
+  "common_items": "Braids, ornamental trimmings, tassels",
+  "chapter": "Special woven fabrics; lace; trimmings; embroidery",
+  "search_words": "lace border tassel"
+ },
+ {
+  "code": "6006",
+  "description": "Other knitted or crocheted fabrics",
+  "common_items": "Knitted fabric for T-shirts and hosiery",
+  "chapter": "Knitted or crocheted fabrics",
+  "search_words": "hosiery fabric"
+ },
+ {
+  "code": "6104",
+  "description": "Women's or girls' suits, ensembles, jackets, dresses, skirts, trousers, shorts, knitted or crocheted",
+  "common_items": "Knitted dresses, leggings, women's knitted trousers",
+  "chapter": "Apparel and clothing accessories, knitted or crocheted",
+  "search_words": "leggings ladies dress"
+ },
+ {
+  "code": "6105",
+  "description": "Men's or boys' shirts, knitted or crocheted",
+  "common_items": "Knitted shirts, polo shirts",
+  "chapter": "Apparel and clothing accessories, knitted or crocheted",
+  "search_words": "polo shirt"
+ },
+ {
+  "code": "6107",
+  "description": "Men's or boys' underpants, briefs, nightshirts, pyjamas, bathrobes, knitted or crocheted",
+  "common_items": "Briefs, trunks, men's knitted pyjamas",
+  "chapter": "Apparel and clothing accessories, knitted or crocheted",
+  "search_words": "underwear chaddi briefs"
+ },
+ {
+  "code": "6108",
+  "description": "Women's or girls' slips, petticoats, panties, nightdresses, pyjamas, knitted or crocheted",
+  "common_items": "Panties, nightwear, women's knitted innerwear",
+  "chapter": "Apparel and clothing accessories, knitted or crocheted",
+  "search_words": "ladies innerwear nightwear"
+ },
+ {
+  "code": "6109",
+  "description": "T-shirts, singlets and other vests, knitted or crocheted",
+  "common_items": "T-shirts, vests (baniyan)",
+  "chapter": "Apparel and clothing accessories, knitted or crocheted",
+  "search_words": "tshirt t-shirt baniyan vest"
+ },
+ {
+  "code": "6110",
+  "description": "Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or crocheted",
+  "common_items": "Sweaters, cardigans, sweatshirts, hoodies",
+  "chapter": "Apparel and clothing accessories, knitted or crocheted",
+  "search_words": "sweater swetar hoodie"
+ },
+ {
+  "code": "6111",
+  "description": "Babies' garments and clothing accessories, knitted or crocheted",
+  "common_items": "Knitted baby clothes",
+  "chapter": "Apparel and clothing accessories, knitted or crocheted",
+  "search_words": "baby clothes"
+ },
+ {
+  "code": "6112",
+  "description": "Track suits, ski suits and swimwear, knitted or crocheted",
+  "common_items": "Track suits, swimwear",
+  "chapter": "Apparel and clothing accessories, knitted or crocheted",
+  "search_words": "tracksuit swimsuit"
+ },
+ {
+  "code": "6115",
+  "description": "Pantyhose, tights, stockings, socks and other hosiery, knitted or crocheted",
+  "common_items": "Socks, stockings",
+  "chapter": "Apparel and clothing accessories, knitted or crocheted",
+  "search_words": "moze moje socks"
+ },
+ {
+  "code": "6117",
+  "description": "Other made up clothing accessories, knitted or crocheted",
+  "common_items": "Knitted shawls, scarves, mufflers and stoles",
+  "chapter": "Apparel and clothing accessories, knitted or crocheted",
+  "search_words": "knitted scarf"
+ },
+ {
+  "code": "6201",
+  "description": "Men's or boys' overcoats, anoraks, windcheaters and similar articles, not knitted",
+  "common_items": "Jackets, windcheaters, overcoats",
+  "chapter": "Apparel and clothing accessories, not knitted or crocheted",
+  "search_words": "jacket"
+ },
+ {
+  "code": "6203",
+  "description": "Men's or boys' suits, ensembles, jackets, blazers, trousers, shorts, not knitted",
+  "common_items": "Men's trousers, jeans, suits, blazers, shorts",
+  "chapter": "Apparel and clothing accessories, not knitted or crocheted",
+  "search_words": "pant jeans trouser suit blazer"
+ },
+ {
+  "code": "6204",
+  "description": "Women's or girls' suits, ensembles, jackets, dresses, skirts, trousers, shorts, not knitted",
+  "common_items": "Women's suits and ensembles, dresses, skirts, women's jeans",
+  "chapter": "Apparel and clothing accessories, not knitted or crocheted",
+  "search_words": "ladies suit dress skirt"
+ },
+ {
+  "code": "6205",
+  "description": "Men's or boys' shirts, not knitted or crocheted",
+  "common_items": "Men's shirts",
+  "chapter": "Apparel and clothing accessories, not knitted or crocheted",
+  "search_words": "shirt kameez"
+ },
+ {
+  "code": "6206",
+  "description": "Women's or girls' blouses, shirts and shirt-blouses, not knitted or crocheted",
+  "common_items": "Blouses, women's shirts and tops",
+  "chapter": "Apparel and clothing accessories, not knitted or crocheted",
+  "search_words": "blouse top"
+ },
+ {
+  "code": "6209",
+  "description": "Babies' garments and clothing accessories, not knitted or crocheted",
+  "common_items": "Woven baby clothes",
+  "chapter": "Apparel and clothing accessories, not knitted or crocheted",
+  "search_words": "baby clothes"
+ },
+ {
+  "code": "6211",
+  "description": "Track suits, ski suits and swimwear; other garments, not knitted or crocheted",
+  "common_items": "Other woven garments, swimwear",
+  "chapter": "Apparel and clothing accessories, not knitted or crocheted",
+  "search_words": "garments"
+ },
+ {
+  "code": "6212",
+  "description": "Brassieres, girdles, corsets, braces, suspenders and similar articles",
+  "common_items": "Bras, shapewear",
+  "chapter": "Apparel and clothing accessories, not knitted or crocheted",
+  "search_words": "bra"
+ },
+ {
+  "code": "6213",
+  "description": "Handkerchiefs",
+  "common_items": "Handkerchiefs",
+  "chapter": "Apparel and clothing accessories, not knitted or crocheted",
+  "search_words": "rumal hanky"
+ },
+ {
+  "code": "6214",
+  "description": "Shawls, scarves, mufflers, mantillas, veils and the like, not knitted",
+  "common_items": "Dupattas, stoles, shawls, scarves, mufflers",
+  "chapter": "Apparel and clothing accessories, not knitted or crocheted",
+  "search_words": "dupatta chunni shawl stole muffler"
+ },
+ {
+  "code": "6215",
+  "description": "Ties, bow ties and cravats",
+  "common_items": "Neckties",
+  "chapter": "Apparel and clothing accessories, not knitted or crocheted",
+  "search_words": "tie"
+ },
+ {
+  "code": "6301",
+  "description": "Blankets and travelling rugs",
+  "common_items": "Blankets",
+  "chapter": "Other made up textile articles; sets; worn clothing",
+  "search_words": "kambal blanket"
+ },
+ {
+  "code": "6302",
+  "description": "Bed linen, table linen, toilet linen and kitchen linen",
+  "common_items": "Bedsheets, pillow covers, towels, table cloths",
+  "chapter": "Other made up textile articles; sets; worn clothing",
+  "search_words": "chadar bedsheet towel tauliya"
+ },
+ {
+  "code": "6303",
+  "description": "Curtains (including drapes) and interior blinds; curtain or bed valances",
+  "common_items": "Curtains",
+  "chapter": "Other made up textile articles; sets; worn clothing",
+  "search_words": "parda curtain"
+ },
+ {
+  "code": "6304",
+  "description": "Other furnishing articles, excluding those of heading 9404",
+  "common_items": "Bedspreads, cushion covers, sofa covers",
+  "chapter": "Other made up textile articles; sets; worn clothing",
+  "search_words": "cushion cover bedcover"
+ },
+ {
+  "code": "6305",
+  "description": "Sacks and bags, of a kind used for the packing of goods",
+  "common_items": "Jute bags (gunny), HDPE and PP woven sacks",
+  "chapter": "Other made up textile articles; sets; worn clothing",
+  "search_words": "bori bora gunny bag sack"
+ },
+ {
+  "code": "6306",
+  "description": "Tarpaulins, awnings and sunblinds; tents; sails; camping goods",
+  "common_items": "Tarpaulins, tents",
+  "chapter": "Other made up textile articles; sets; worn clothing",
+  "search_words": "tirpal tarpaulin tent"
+ },
+ {
+  "code": "6307",
+  "description": "Other made up articles, including dress patterns",
+  "common_items": "Floor cloths, dusters, face masks, life jackets",
+  "chapter": "Other made up textile articles; sets; worn clothing",
+  "search_words": "pocha duster mask"
+ },
+ {
+  "code": "6309",
+  "description": "Worn clothing and other worn articles",
+  "common_items": "Second-hand clothes",
+  "chapter": "Other made up textile articles; sets; worn clothing",
+  "search_words": "used clothes"
+ },
+ {
+  "code": "6401",
+  "description": "Waterproof footwear with outer soles and uppers of rubber or of plastics, uppers not fixed by stitching or similar processes",
+  "common_items": "Gumboots, rain boots",
+  "chapter": "Footwear, gaiters and the like; parts of such articles",
+  "search_words": "gumboot"
+ },
+ {
+  "code": "6402",
+  "description": "Other footwear with outer soles and uppers of rubber or plastics",
+  "common_items": "Plastic or rubber chappals, slippers, sandals, sports shoes",
+  "chapter": "Footwear, gaiters and the like; parts of such articles",
+  "search_words": "chappal slipper sandal joota"
+ },
+ {
+  "code": "640220",
+  "description": "Footwear with upper straps or thongs assembled to the sole by means of plugs",
+  "common_items": "Hawai chappals, flip-flops",
+  "chapter": "Footwear, gaiters and the like; parts of such articles",
+  "search_words": "hawai chappal flip flop"
+ },
+ {
+  "code": "6403",
+  "description": "Footwear with outer soles of rubber, plastics or leather and uppers of leather",
+  "common_items": "Leather shoes, leather sandals, Kolhapuri chappals",
+  "chapter": "Footwear, gaiters and the like; parts of such articles",
+  "search_words": "leather shoes juti mojari kolhapuri"
+ },
+ {
+  "code": "6404",
+  "description": "Footwear with outer soles of rubber, plastics or leather and uppers of textile materials",
+  "common_items": "Canvas shoes, sports shoes with fabric uppers",
+  "chapter": "Footwear, gaiters and the like; parts of such articles",
+  "search_words": "canvas shoes sneakers"
+ },
+ {
+  "code": "6405",
+  "description": "Other footwear",
+  "common_items": "Footwear of other materials",
+  "chapter": "Footwear, gaiters and the like; parts of such articles",
+  "search_words": "footwear"
+ },
+ {
+  "code": "6406",
+  "description": "Parts of footwear; removable insoles, heel cushions; gaiters and similar articles",
+  "common_items": "Soles, insoles, shoe uppers",
+  "chapter": "Footwear, gaiters and the like; parts of such articles",
+  "search_words": "sole insole"
+ },
+ {
+  "code": "6505",
+  "description": "Hats and other headgear, knitted or crocheted, or made up from lace, felt or other textile fabric",
+  "common_items": "Caps, hats, woollen caps",
+  "chapter": "Headgear and parts thereof",
+  "search_words": "topi cap"
+ },
+ {
+  "code": "6506",
+  "description": "Other headgear, whether or not lined or trimmed",
+  "common_items": "Helmets, safety helmets",
+  "chapter": "Headgear and parts thereof",
+  "search_words": "helmet"
+ },
+ {
+  "code": "6601",
+  "description": "Umbrellas and sun umbrellas",
+  "common_items": "Umbrellas",
+  "chapter": "Umbrellas, sun umbrellas, walking-sticks and parts thereof",
+  "search_words": "chhata chhatri umbrella"
+ },
+ {
+  "code": "6702",
+  "description": "Artificial flowers, foliage and fruit and parts thereof",
+  "common_items": "Artificial flowers",
+  "chapter": "Prepared feathers; artificial flowers; articles of human hair",
+  "search_words": "artificial flowers"
+ },
+ {
+  "code": "6704",
+  "description": "Wigs, false beards, eyebrows and eyelashes, switches and the like, of human or animal hair or textile materials",
+  "common_items": "Wigs, hair extensions",
+  "chapter": "Prepared feathers; artificial flowers; articles of human hair",
+  "search_words": "wig"
+ },
+ {
+  "code": "6802",
+  "description": "Worked monumental or building stone and articles thereof",
+  "common_items": "Marble slabs, granite slabs, Kota stone, stone tiles",
+  "chapter": "Articles of stone, plaster, cement, asbestos, mica or similar materials",
+  "search_words": "marble granite kota stone slab"
+ },
+ {
+  "code": "6804",
+  "description": "Millstones, grindstones, grinding wheels and the like",
+  "common_items": "Grinding wheels, cutting wheels",
+  "chapter": "Articles of stone, plaster, cement, asbestos, mica or similar materials",
+  "search_words": "grinding wheel"
+ },
+ {
+  "code": "6805",
+  "description": "Natural or artificial abrasive powder or grain, on a base of textile material, paper or paperboard",
+  "common_items": "Sandpaper, emery paper",
+  "chapter": "Articles of stone, plaster, cement, asbestos, mica or similar materials",
+  "search_words": "regmal sandpaper"
+ },
+ {
+  "code": "6809",
+  "description": "Articles of plaster or of compositions based on plaster",
+  "common_items": "Gypsum boards, false ceiling boards and tiles",
+  "chapter": "Articles of stone, plaster, cement, asbestos, mica or similar materials",
+  "search_words": "gypsum board false ceiling"
+ },
+ {
+  "code": "6810",
+  "description": "Articles of cement, of concrete or of artificial stone",
+  "common_items": "Concrete blocks, paver blocks, precast concrete, cement tiles",
+  "chapter": "Articles of stone, plaster, cement, asbestos, mica or similar materials",
+  "search_words": "paver block concrete block"
+ },
+ {
+  "code": "6811",
+  "description": "Articles of asbestos-cement, of cellulose fibre-cement or the like",
+  "common_items": "Cement roofing sheets",
+  "chapter": "Articles of stone, plaster, cement, asbestos, mica or similar materials",
+  "search_words": "ac sheet cement sheet"
+ },
+ {
+  "code": "6815",
+  "description": "Articles of stone or of other mineral substances, n.e.s.",
+  "common_items": "Fly ash bricks and blocks",
+  "chapter": "Articles of stone, plaster, cement, asbestos, mica or similar materials",
+  "search_words": "fly ash brick"
+ },
+ {
+  "code": "6904",
+  "description": "Ceramic building bricks, flooring blocks, support or filler tiles and the like",
+  "common_items": "Clay bricks, red bricks",
+  "chapter": "Ceramic products",
+  "search_words": "eent int brick"
+ },
+ {
+  "code": "6905",
+  "description": "Roofing tiles, chimney-pots, cowls, chimney liners, architectural ornaments and other ceramic constructional goods",
+  "common_items": "Clay roof tiles, Mangalore tiles",
+  "chapter": "Ceramic products",
+  "search_words": "khaprail roof tile"
+ },
+ {
+  "code": "6907",
+  "description": "Ceramic flags and paving, hearth or wall tiles; ceramic mosaic cubes",
+  "common_items": "Floor tiles, wall tiles, vitrified tiles",
+  "chapter": "Ceramic products",
+  "search_words": "tiles vitrified floor tiles"
+ },
+ {
+  "code": "6910",
+  "description": "Ceramic sinks, wash basins, baths, water closet pans, flushing cisterns, urinals and similar sanitary fixtures",
+  "common_items": "Wash basins, western and Indian toilets, urinals",
+  "chapter": "Ceramic products",
+  "search_words": "wash basin toilet commode sanitaryware"
+ },
+ {
+  "code": "6911",
+  "description": "Tableware, kitchenware, other household articles and toilet articles, of porcelain or china",
+  "common_items": "Bone china and porcelain crockery",
+  "chapter": "Ceramic products",
+  "search_words": "crockery cup plate"
+ },
+ {
+  "code": "6912",
+  "description": "Ceramic tableware, kitchenware, other household articles and toilet articles, other than of porcelain or china",
+  "common_items": "Stoneware mugs, earthenware, ceramic plates",
+  "chapter": "Ceramic products",
+  "search_words": "ceramic mug"
+ },
+ {
+  "code": "6913",
+  "description": "Statuettes and other ornamental ceramic articles",
+  "common_items": "Ceramic idols, decorative ceramic items",
+  "chapter": "Ceramic products",
+  "search_words": "showpiece"
+ },
+ {
+  "code": "7005",
+  "description": "Float glass and surface ground or polished glass, in sheets",
+  "common_items": "Float glass, sheet glass",
+  "chapter": "Glass and glassware",
+  "search_words": "kaanch glass sheet"
+ },
+ {
+  "code": "7007",
+  "description": "Safety glass, consisting of toughened (tempered) or laminated glass",
+  "common_items": "Toughened glass, laminated glass, vehicle windscreens",
+  "chapter": "Glass and glassware",
+  "search_words": "toughened glass windshield"
+ },
+ {
+  "code": "7009",
+  "description": "Glass mirrors, whether or not framed, including rear-view mirrors",
+  "common_items": "Mirrors, vehicle rear-view mirrors",
+  "chapter": "Glass and glassware",
+  "search_words": "aaina sheesha mirror"
+ },
+ {
+  "code": "7010",
+  "description": "Carboys, bottles, flasks, jars, pots, phials and other containers, of glass",
+  "common_items": "Glass bottles, glass jars",
+  "chapter": "Glass and glassware",
+  "search_words": "glass bottle jar"
+ },
+ {
+  "code": "7013",
+  "description": "Glassware of a kind used for table, kitchen, toilet, office or indoor decoration",
+  "common_items": "Glass tumblers, glass bowls, decorative glassware",
+  "chapter": "Glass and glassware",
+  "search_words": "glass tumbler gilas"
+ },
+ {
+  "code": "7018",
+  "description": "Glass beads, imitation pearls and similar small glassware; glass bangles",
+  "common_items": "Glass bangles, glass beads",
+  "chapter": "Glass and glassware",
+  "search_words": "kanch ki chudi bangles"
+ },
+ {
+  "code": "7106",
+  "description": "Silver (including silver plated with gold or platinum), unwrought or in semi-manufactured forms, or in powder form",
+  "common_items": "Silver bars, silver granules",
+  "chapter": "Pearls, precious stones, precious metals; imitation jewellery",
+  "search_words": "chandi silver"
+ },
+ {
+  "code": "7108",
+  "description": "Gold (including gold plated with platinum), unwrought or in semi-manufactured forms, or in powder form",
+  "common_items": "Gold bars, gold biscuits",
+  "chapter": "Pearls, precious stones, precious metals; imitation jewellery",
+  "search_words": "sona gold"
+ },
+ {
+  "code": "7113",
+  "description": "Articles of jewellery and parts thereof, of precious metal or of metal clad with precious metal",
+  "common_items": "Gold jewellery, silver jewellery",
+  "chapter": "Pearls, precious stones, precious metals; imitation jewellery",
+  "search_words": "jewellery gahne zevar gold silver"
+ },
+ {
+  "code": "7114",
+  "description": "Articles of goldsmiths' or silversmiths' wares",
+  "common_items": "Silver utensils, silver articles",
+  "chapter": "Pearls, precious stones, precious metals; imitation jewellery",
+  "search_words": "chandi bartan"
+ },
+ {
+  "code": "7117",
+  "description": "Imitation jewellery",
+  "common_items": "Artificial jewellery, fashion jewellery",
+  "chapter": "Pearls, precious stones, precious metals; imitation jewellery",
+  "search_words": "imitation jewellery artificial"
+ },
+ {
+  "code": "7210",
+  "description": "Flat-rolled products of iron or non-alloy steel, of a width of 600 mm or more, clad, plated or coated",
+  "common_items": "GI sheets, GP sheets, colour-coated roofing sheets, tin plate",
+  "chapter": "Iron and steel",
+  "search_words": "gi sheet chadar roofing sheet"
+ },
+ {
+  "code": "7213",
+  "description": "Bars and rods, hot-rolled, in irregularly wound coils, of iron or non-alloy steel",
+  "common_items": "Wire rods",
+  "chapter": "Iron and steel",
+  "search_words": "wire rod"
+ },
+ {
+  "code": "7214",
+  "description": "Other bars and rods of iron or non-alloy steel, not further worked than forged, hot-rolled, hot-drawn or hot-extruded",
+  "common_items": "TMT bars, steel rods, saria",
+  "chapter": "Iron and steel",
+  "search_words": "saria sariya tmt"
+ },
+ {
+  "code": "721420",
+  "description": "Bars and rods containing indentations, ribs, grooves or other deformations produced during the rolling process or twisted after rolling",
+  "common_items": "TMT bars, ribbed bars",
+  "chapter": "Iron and steel",
+  "search_words": "saria sariya tmt rebar"
+ },
+ {
+  "code": "7216",
+  "description": "Angles, shapes and sections of iron or non-alloy steel",
+  "common_items": "Angles, channels, beams, T-sections",
+  "chapter": "Iron and steel",
+  "search_words": "angle channel girder"
+ },
+ {
+  "code": "7217",
+  "description": "Wire of iron or non-alloy steel",
+  "common_items": "Binding wire, GI wire",
+  "chapter": "Iron and steel",
+  "search_words": "taar binding wire"
+ },
+ {
+  "code": "7306",
+  "description": "Other tubes, pipes and hollow profiles of iron or steel",
+  "common_items": "GI pipes, MS pipes, square and rectangular hollow sections",
+  "chapter": "Articles of iron or steel",
+  "search_words": "gi pipe ms pipe"
+ },
+ {
+  "code": "7307",
+  "description": "Tube or pipe fittings of iron or steel",
+  "common_items": "Elbows, couplings, sockets, flanges",
+  "chapter": "Articles of iron or steel",
+  "search_words": "pipe fittings"
+ },
+ {
+  "code": "7308",
+  "description": "Structures and parts of structures of iron or steel",
+  "common_items": "Steel structures, shuttering, scaffolding, steel doors and frames",
+  "chapter": "Articles of iron or steel",
+  "search_words": "structure shuttering"
+ },
+ {
+  "code": "7310",
+  "description": "Tanks, casks, drums, cans, boxes and similar containers, of iron or steel, capacity not exceeding 300 l",
+  "common_items": "Steel drums, tins, cans",
+  "chapter": "Articles of iron or steel",
+  "search_words": "tin dabba drum"
+ },
+ {
+  "code": "7312",
+  "description": "Stranded wire, ropes, cables, plaited bands, slings and the like, of iron or steel",
+  "common_items": "Wire ropes",
+  "chapter": "Articles of iron or steel",
+  "search_words": "wire rope"
+ },
+ {
+  "code": "7313",
+  "description": "Barbed wire of iron or steel",
+  "common_items": "Barbed wire",
+  "chapter": "Articles of iron or steel",
+  "search_words": "kantedar taar barbed wire"
+ },
+ {
+  "code": "7314",
+  "description": "Cloth, grill, netting and fencing, of iron or steel wire; expanded metal",
+  "common_items": "Chain-link fencing, wire mesh, welded mesh",
+  "chapter": "Articles of iron or steel",
+  "search_words": "jaali wire mesh fencing"
+ },
+ {
+  "code": "7315",
+  "description": "Chain and parts thereof, of iron or steel",
+  "common_items": "Chains",
+  "chapter": "Articles of iron or steel",
+  "search_words": "zanjeer chain"
+ },
+ {
+  "code": "7317",
+  "description": "Nails, tacks, drawing pins, corrugated nails, staples and similar articles, of iron or steel",
+  "common_items": "Nails, wire nails, drawing pins",
+  "chapter": "Articles of iron or steel",
+  "search_words": "keel kil nails"
+ },
+ {
+  "code": "7318",
+  "description": "Screws, bolts, nuts, coach screws, screw hooks, rivets, cotters, washers and similar articles, of iron or steel",
+  "common_items": "Screws, nuts, bolts, washers, rivets",
+  "chapter": "Articles of iron or steel",
+  "search_words": "pench nut bolt screw"
+ },
+ {
+  "code": "7320",
+  "description": "Springs and leaves for springs, of iron or steel",
+  "common_items": "Springs, leaf springs",
+  "chapter": "Articles of iron or steel",
+  "search_words": "spring kamani"
+ },
+ {
+  "code": "7321",
+  "description": "Stoves, ranges, grates, cookers, barbecues, braziers, gas-rings, plate warmers and similar non-electric domestic appliances, of iron or steel",
+  "common_items": "LPG gas stoves, kerosene stoves",
+  "chapter": "Articles of iron or steel",
+  "search_words": "gas chulha stove"
+ },
+ {
+  "code": "7323",
+  "description": "Table, kitchen or other household articles and parts thereof, of iron or steel",
+  "common_items": "Steel utensils, steel pressure cookers, tiffins, buckets",
+  "chapter": "Articles of iron or steel",
+  "search_words": "bartan steel utensils thali katori"
+ },
+ {
+  "code": "7324",
+  "description": "Sanitary ware and parts thereof, of iron or steel",
+  "common_items": "Stainless steel kitchen sinks",
+  "chapter": "Articles of iron or steel",
+  "search_words": "kitchen sink"
+ },
+ {
+  "code": "7326",
+  "description": "Other articles of iron or steel",
+  "common_items": "Hooks, wire articles and other steel articles",
+  "chapter": "Articles of iron or steel",
+  "search_words": "steel articles"
+ },
+ {
+  "code": "7408",
+  "description": "Copper wire",
+  "common_items": "Copper wire",
+  "chapter": "Copper and articles thereof",
+  "search_words": "tamba copper wire"
+ },
+ {
+  "code": "7411",
+  "description": "Copper tubes and pipes",
+  "common_items": "Copper pipes for AC and plumbing",
+  "chapter": "Copper and articles thereof",
+  "search_words": "copper pipe"
+ },
+ {
+  "code": "7418",
+  "description": "Table, kitchen or other household articles and sanitary ware, of copper",
+  "common_items": "Copper and brass utensils, copper bottles",
+  "chapter": "Copper and articles thereof",
+  "search_words": "tamba peetal brass copper bartan"
+ },
+ {
+  "code": "7604",
+  "description": "Aluminium bars, rods and profiles",
+  "common_items": "Aluminium sections for windows and partitions",
+  "chapter": "Aluminium and articles thereof",
+  "search_words": "aluminium section"
+ },
+ {
+  "code": "7606",
+  "description": "Aluminium plates, sheets and strip, of a thickness exceeding 0.2 mm",
+  "common_items": "Aluminium sheets",
+  "chapter": "Aluminium and articles thereof",
+  "search_words": "aluminium sheet"
+ },
+ {
+  "code": "7607",
+  "description": "Aluminium foil, of a thickness not exceeding 0.2 mm",
+  "common_items": "Aluminium foil, kitchen foil",
+  "chapter": "Aluminium and articles thereof",
+  "search_words": "foil"
+ },
+ {
+  "code": "7610",
+  "description": "Aluminium structures and parts of structures",
+  "common_items": "Aluminium doors, windows and frames",
+  "chapter": "Aluminium and articles thereof",
+  "search_words": "aluminium window"
+ },
+ {
+  "code": "7615",
+  "description": "Table, kitchen or other household articles and sanitary ware, of aluminium",
+  "common_items": "Aluminium utensils, aluminium pressure cookers",
+  "chapter": "Aluminium and articles thereof",
+  "search_words": "aluminium bartan cooker"
+ },
+ {
+  "code": "8201",
+  "description": "Hand tools: spades, shovels, mattocks, picks, hoes, forks, rakes, axes, bill hooks, sickles and similar",
+  "common_items": "Spades, shovels, kudal, sickles, axes, garden tools",
+  "chapter": "Tools, implements, cutlery, spoons and forks, of base metal",
+  "search_words": "phawda kudal darati kulhadi"
+ },
+ {
+  "code": "8202",
+  "description": "Hand saws; blades for saws of all kinds",
+  "common_items": "Hand saws, hacksaw blades",
+  "chapter": "Tools, implements, cutlery, spoons and forks, of base metal",
+  "search_words": "aari saw blade"
+ },
+ {
+  "code": "8203",
+  "description": "Files, rasps, pliers (including cutting pliers), pincers, tweezers, metal cutting shears and similar hand tools",
+  "common_items": "Pliers, files, tweezers, cutters",
+  "chapter": "Tools, implements, cutlery, spoons and forks, of base metal",
+  "search_words": "plass pliers file"
+ },
+ {
+  "code": "8204",
+  "description": "Hand-operated spanners and wrenches; interchangeable spanner sockets",
+  "common_items": "Spanners, wrenches, socket sets",
+  "chapter": "Tools, implements, cutlery, spoons and forks, of base metal",
+  "search_words": "spanner pana wrench"
+ },
+ {
+  "code": "8205",
+  "description": "Hand tools n.e.s.; blow lamps; vices, clamps; anvils",
+  "common_items": "Hammers, screwdrivers, chisels, trowels",
+  "chapter": "Tools, implements, cutlery, spoons and forks, of base metal",
+  "search_words": "hathoda hammer screwdriver"
+ },
+ {
+  "code": "8207",
+  "description": "Interchangeable tools for hand tools or machine tools",
+  "common_items": "Drill bits, taps, dies",
+  "chapter": "Tools, implements, cutlery, spoons and forks, of base metal",
+  "search_words": "drill bit"
+ },
+ {
+  "code": "8211",
+  "description": "Knives with cutting blades, serrated or not",
+  "common_items": "Kitchen knives",
+  "chapter": "Tools, implements, cutlery, spoons and forks, of base metal",
+  "search_words": "chaku knife"
+ },
+ {
+  "code": "8212",
+  "description": "Razors and razor blades",
+  "common_items": "Razors, shaving blades",
+  "chapter": "Tools, implements, cutlery, spoons and forks, of base metal",
+  "search_words": "razor blade"
+ },
+ {
+  "code": "8213",
+  "description": "Scissors, tailors' shears and similar shears, and blades therefor",
+  "common_items": "Scissors",
+  "chapter": "Tools, implements, cutlery, spoons and forks, of base metal",
+  "search_words": "kainchi scissors"
+ },
+ {
+  "code": "8214",
+  "description": "Other articles of cutlery (hair clippers, butchers' cleavers, paper knives, pencil sharpeners, nail cutters)",
+  "common_items": "Nail cutters, pencil sharpeners, manual hair clippers",
+  "chapter": "Tools, implements, cutlery, spoons and forks, of base metal",
+  "search_words": "sharpener nail cutter"
+ },
+ {
+  "code": "8215",
+  "description": "Spoons, forks, ladles, skimmers, cake-servers, fish-knives, butter-knives, sugar tongs and similar kitchen or tableware",
+  "common_items": "Spoons, forks, ladles",
+  "chapter": "Tools, implements, cutlery, spoons and forks, of base metal",
+  "search_words": "chammach spoon karchi"
+ },
+ {
+  "code": "8301",
+  "description": "Padlocks and locks (key, combination or electrically operated), of base metal; keys",
+  "common_items": "Padlocks, door locks, keys",
+  "chapter": "Miscellaneous articles of base metal",
+  "search_words": "tala lock chabi"
+ },
+ {
+  "code": "8302",
+  "description": "Base metal mountings, fittings and similar articles for furniture, doors, windows; castors; door closers",
+  "common_items": "Hinges, handles, tower bolts, castor wheels, door closers",
+  "chapter": "Miscellaneous articles of base metal",
+  "search_words": "kabza hinge handle kundi tower bolt"
+ },
+ {
+  "code": "8305",
+  "description": "Fittings for loose-leaf binders or files, letter clips, paper clips, staples in strips",
+  "common_items": "Stapler pins, paper clips, file clips",
+  "chapter": "Miscellaneous articles of base metal",
+  "search_words": "stapler pin u clip"
+ },
+ {
+  "code": "8306",
+  "description": "Bells, gongs and the like, non-electric; statuettes and other ornaments; photograph frames; mirrors, of base metal",
+  "common_items": "Brass bells, metal idols and showpieces, metal photo frames",
+  "chapter": "Miscellaneous articles of base metal",
+  "search_words": "ghanti idol murti"
+ },
+ {
+  "code": "8309",
+  "description": "Stoppers, caps and lids (including crown corks, screw caps and pouring stoppers), of base metal",
+  "common_items": "Bottle caps, metal lids",
+  "chapter": "Miscellaneous articles of base metal",
+  "search_words": "bottle cap"
+ },
+ {
+  "code": "8311",
+  "description": "Wire, rods, tubes, plates and electrodes, of base metal, for soldering, brazing, welding",
+  "common_items": "Welding electrodes, soldering wire",
+  "chapter": "Miscellaneous articles of base metal",
+  "search_words": "welding rod"
+ },
+ {
+  "code": "8409",
+  "description": "Parts suitable for use solely or principally with the engines of heading 8407 or 8408",
+  "common_items": "Pistons, cylinder heads, engine parts",
+  "chapter": "Machinery and mechanical appliances; parts thereof",
+  "search_words": "piston engine parts"
+ },
+ {
+  "code": "8413",
+  "description": "Pumps for liquids; liquid elevators",
+  "common_items": "Water pumps, monoblock and submersible pumps, fuel pumps",
+  "chapter": "Machinery and mechanical appliances; parts thereof",
+  "search_words": "motor pump submersible"
+ },
+ {
+  "code": "8414",
+  "description": "Air or vacuum pumps, air or other gas compressors and fans; ventilating or recycling hoods",
+  "common_items": "Ceiling fans, table fans, exhaust fans, air compressors, kitchen chimneys",
+  "chapter": "Machinery and mechanical appliances; parts thereof",
+  "search_words": "pankha fan exhaust chimney compressor"
+ },
+ {
+  "code": "841451",
+  "description": "Table, floor, wall, window, ceiling or roof fans, with a self-contained electric motor of an output not exceeding 125 W",
+  "common_items": "Ceiling fans, table fans, pedestal fans, wall fans",
+  "chapter": "Machinery and mechanical appliances; parts thereof",
+  "search_words": "pankha ceiling fan table fan"
+ },
+ {
+  "code": "8415",
+  "description": "Air conditioning machines",
+  "common_items": "Split and window air conditioners",
+  "chapter": "Machinery and mechanical appliances; parts thereof",
+  "search_words": "ac air conditioner"
+ },
+ {
+  "code": "8418",
+  "description": "Refrigerators, freezers and other refrigerating or freezing equipment; heat pumps",
+  "common_items": "Refrigerators, deep freezers, water coolers, visi coolers",
+  "chapter": "Machinery and mechanical appliances; parts thereof",
+  "search_words": "fridge refrigerator freezer"
+ },
+ {
+  "code": "8419",
+  "description": "Machinery, plant or laboratory equipment for heating, cooking, drying and similar; non-electric water heaters",
+  "common_items": "Solar water heaters, industrial dryers",
+  "chapter": "Machinery and mechanical appliances; parts thereof",
+  "search_words": "solar water heater"
+ },
+ {
+  "code": "8421",
+  "description": "Centrifuges; filtering or purifying machinery and apparatus for liquids or gases",
+  "common_items": "RO water purifiers, oil filters, air filters",
+  "chapter": "Machinery and mechanical appliances; parts thereof",
+  "search_words": "ro purifier filter"
+ },
+ {
+  "code": "8422",
+  "description": "Dish washing machines; machinery for cleaning, filling, closing, sealing, labelling or packing",
+  "common_items": "Dishwashers, packing machines, sealing machines",
+  "chapter": "Machinery and mechanical appliances; parts thereof",
+  "search_words": "dishwasher sealing machine"
+ },
+ {
+  "code": "8423",
+  "description": "Weighing machinery (excluding balances of a sensitivity of 5 cg or better), including weight-operated counting or checking machines",
+  "common_items": "Electronic weighing scales, platform scales, kitchen scales",
+  "chapter": "Machinery and mechanical appliances; parts thereof",
+  "search_words": "kanta tarazu weighing scale"
+ },
+ {
+  "code": "8424",
+  "description": "Mechanical appliances for projecting, dispersing or spraying liquids or powders; fire extinguishers; spray guns",
+  "common_items": "Agricultural sprayers, fire extinguishers, drip and sprinkler irrigation systems",
+  "chapter": "Machinery and mechanical appliances; parts thereof",
+  "search_words": "sprayer fire extinguisher drip sprinkler"
+ },
+ {
+  "code": "8432",
+  "description": "Agricultural, horticultural or forestry machinery for soil preparation or cultivation",
+  "common_items": "Ploughs, cultivators, rotavators, seed drills",
+  "chapter": "Machinery and mechanical appliances; parts thereof",
+  "search_words": "hal rotavator cultivator"
+ },
+ {
+  "code": "8433",
+  "description": "Harvesting or threshing machinery; grass or hay mowers",
+  "common_items": "Harvesters, threshers, lawn mowers",
+  "chapter": "Machinery and mechanical appliances; parts thereof",
+  "search_words": "thresher harvester"
+ },
+ {
+  "code": "8443",
+  "description": "Printing machinery; printers, copying machines and facsimile machines; parts and accessories",
+  "common_items": "Printers, photocopiers, fax machines, printer parts",
+  "chapter": "Machinery and mechanical appliances; parts thereof",
+  "search_words": "printer xerox photocopier"
+ },
+ {
+  "code": "8450",
+  "description": "Household or laundry-type washing machines, including machines which both wash and dry",
+  "common_items": "Washing machines",
+  "chapter": "Machinery and mechanical appliances; parts thereof",
+  "search_words": "washing machine"
+ },
+ {
+  "code": "8452",
+  "description": "Sewing machines, other than book-sewing machines",
+  "common_items": "Sewing machines",
+  "chapter": "Machinery and mechanical appliances; parts thereof",
+  "search_words": "silai machine sewing"
+ },
+ {
+  "code": "8467",
+  "description": "Tools for working in the hand, pneumatic, hydraulic or with self-contained electric or non-electric motor",
+  "common_items": "Electric drills, angle grinders, cutters",
+  "chapter": "Machinery and mechanical appliances; parts thereof",
+  "search_words": "drill machine grinder"
+ },
+ {
+  "code": "8470",
+  "description": "Calculating machines and pocket-size data recording machines; cash registers",
+  "common_items": "Calculators, cash registers",
+  "chapter": "Machinery and mechanical appliances; parts thereof",
+  "search_words": "calculator"
+ },
+ {
+  "code": "8471",
+  "description": "Automatic data processing machines and units thereof",
+  "common_items": "Computers, laptops, keyboards, mice, scanners",
+  "chapter": "Machinery and mechanical appliances; parts thereof",
+  "search_words": "computer laptop keyboard mouse cpu"
+ },
+ {
+  "code": "847130",
+  "description": "Portable automatic data processing machines, weighing not more than 10 kg",
+  "common_items": "Laptops, notebooks, tablets",
+  "chapter": "Machinery and mechanical appliances; parts thereof",
+  "search_words": "laptop"
+ },
+ {
+  "code": "8472",
+  "description": "Other office machines",
+  "common_items": "Note counting machines, staplers, shredders",
+  "chapter": "Machinery and mechanical appliances; parts thereof",
+  "search_words": "note counting machine stapler"
+ },
+ {
+  "code": "8473",
+  "description": "Parts and accessories of machines of headings 8470 to 8472",
+  "common_items": "Computer parts, RAM, motherboards",
+  "chapter": "Machinery and mechanical appliances; parts thereof",
+  "search_words": "computer parts"
+ },
+ {
+  "code": "8479",
+  "description": "Machines and mechanical appliances having individual functions, n.e.s.",
+  "common_items": "Evaporative air coolers",
+  "chapter": "Machinery and mechanical appliances; parts thereof",
+  "search_words": "cooler air cooler"
+ },
+ {
+  "code": "8481",
+  "description": "Taps, cocks, valves and similar appliances for pipes, boiler shells, tanks, vats or the like",
+  "common_items": "Water taps, valves, bathroom fittings",
+  "chapter": "Machinery and mechanical appliances; parts thereof",
+  "search_words": "nal tap tonti valve"
+ },
+ {
+  "code": "8482",
+  "description": "Ball or roller bearings",
+  "common_items": "Ball bearings, roller bearings",
+  "chapter": "Machinery and mechanical appliances; parts thereof",
+  "search_words": "bearing"
+ },
+ {
+  "code": "8483",
+  "description": "Transmission shafts, cranks, bearing housings, gears, ball screws, gear boxes, flywheels, pulleys, clutches",
+  "common_items": "Gears, pulleys, gear boxes",
+  "chapter": "Machinery and mechanical appliances; parts thereof",
+  "search_words": "gear pulley"
+ },
+ {
+  "code": "8484",
+  "description": "Gaskets and similar joints of metal sheeting combined with other material; sets of gaskets",
+  "common_items": "Gasket sets",
+  "chapter": "Machinery and mechanical appliances; parts thereof",
+  "search_words": "gasket"
+ },
+ {
+  "code": "8501",
+  "description": "Electric motors and generators (excluding generating sets)",
+  "common_items": "Electric motors, alternators",
+  "chapter": "Electrical machinery and equipment; sound and TV equipment; parts",
+  "search_words": "motor"
+ },
+ {
+  "code": "8502",
+  "description": "Electric generating sets and rotary converters",
+  "common_items": "Diesel generator sets, gensets",
+  "chapter": "Electrical machinery and equipment; sound and TV equipment; parts",
+  "search_words": "generator dg set"
+ },
+ {
+  "code": "8504",
+  "description": "Electrical transformers, static converters (for example, rectifiers) and inductors",
+  "common_items": "Mobile chargers, adapters, inverters, UPS, voltage stabilisers, transformers",
+  "chapter": "Electrical machinery and equipment; sound and TV equipment; parts",
+  "search_words": "charger adapter inverter ups stabilizer"
+ },
+ {
+  "code": "8506",
+  "description": "Primary cells and primary batteries",
+  "common_items": "AA and AAA cells, button cells",
+  "chapter": "Electrical machinery and equipment; sound and TV equipment; parts",
+  "search_words": "cell battery"
+ },
+ {
+  "code": "8507",
+  "description": "Electric accumulators, including separators therefor",
+  "common_items": "Car and inverter batteries, lithium-ion batteries",
+  "chapter": "Electrical machinery and equipment; sound and TV equipment; parts",
+  "search_words": "battery inverter battery"
+ },
+ {
+  "code": "8508",
+  "description": "Vacuum cleaners",
+  "common_items": "Vacuum cleaners",
+  "chapter": "Electrical machinery and equipment; sound and TV equipment; parts",
+  "search_words": "vacuum cleaner"
+ },
+ {
+  "code": "8509",
+  "description": "Electro-mechanical domestic appliances, with self-contained electric motor (other than vacuum cleaners)",
+  "common_items": "Mixer grinders, juicers, food processors",
+  "chapter": "Electrical machinery and equipment; sound and TV equipment; parts",
+  "search_words": "mixer grinder juicer"
+ },
+ {
+  "code": "850940",
+  "description": "Food grinders and mixers; fruit or vegetable juice extractors",
+  "common_items": "Mixer grinders, juicer mixer grinders",
+  "chapter": "Electrical machinery and equipment; sound and TV equipment; parts",
+  "search_words": "mixie mixer"
+ },
+ {
+  "code": "8510",
+  "description": "Shavers, hair clippers and hair-removing appliances, with self-contained electric motor",
+  "common_items": "Trimmers, electric shavers",
+  "chapter": "Electrical machinery and equipment; sound and TV equipment; parts",
+  "search_words": "trimmer shaver"
+ },
+ {
+  "code": "8511",
+  "description": "Electrical ignition or starting equipment used for internal combustion engines",
+  "common_items": "Spark plugs, self starters",
+  "chapter": "Electrical machinery and equipment; sound and TV equipment; parts",
+  "search_words": "spark plug"
+ },
+ {
+  "code": "8512",
+  "description": "Electrical lighting or signalling equipment, windscreen wipers, defrosters for cycles or motor vehicles",
+  "common_items": "Vehicle horns, headlamps, indicators, wipers",
+  "chapter": "Electrical machinery and equipment; sound and TV equipment; parts",
+  "search_words": "horn headlight wiper"
+ },
+ {
+  "code": "8513",
+  "description": "Portable electric lamps designed to function by their own source of energy",
+  "common_items": "Torches, rechargeable lamps",
+  "chapter": "Electrical machinery and equipment; sound and TV equipment; parts",
+  "search_words": "torch"
+ },
+ {
+  "code": "8516",
+  "description": "Electric water heaters, space heaters, hair dryers, irons, microwave ovens, cookers, kettles, toasters",
+  "common_items": "Geysers, immersion rods, room heaters, irons, microwaves, induction cooktops, kettles",
+  "chapter": "Electrical machinery and equipment; sound and TV equipment; parts",
+  "search_words": "geyser iron press microwave induction kettle heater"
+ },
+ {
+  "code": "851640",
+  "description": "Electric smoothing irons",
+  "common_items": "Electric irons, steam irons",
+  "chapter": "Electrical machinery and equipment; sound and TV equipment; parts",
+  "search_words": "press iron"
+ },
+ {
+  "code": "8517",
+  "description": "Telephone sets, including smartphones; other apparatus for transmission or reception of voice, images or data",
+  "common_items": "Mobile phones, landline phones, routers, smart watches",
+  "chapter": "Electrical machinery and equipment; sound and TV equipment; parts",
+  "search_words": "mobile phone router smartwatch"
+ },
+ {
+  "code": "851713",
+  "description": "Smartphones",
+  "common_items": "Smartphones",
+  "chapter": "Electrical machinery and equipment; sound and TV equipment; parts",
+  "search_words": "mobile smartphone"
+ },
+ {
+  "code": "8518",
+  "description": "Microphones; loudspeakers; headphones and earphones; audio-frequency electric amplifiers",
+  "common_items": "Speakers, earphones, headphones, microphones, amplifiers",
+  "chapter": "Electrical machinery and equipment; sound and TV equipment; parts",
+  "search_words": "speaker earphone headphone mic"
+ },
+ {
+  "code": "8523",
+  "description": "Discs, tapes, solid-state non-volatile storage devices, smart cards and other media for recording",
+  "common_items": "Pen drives, memory cards, SSDs",
+  "chapter": "Electrical machinery and equipment; sound and TV equipment; parts",
+  "search_words": "pen drive memory card"
+ },
+ {
+  "code": "8525",
+  "description": "Transmission apparatus for radio-broadcasting or television; television cameras, digital cameras and video camera recorders",
+  "common_items": "CCTV cameras, digital cameras, camcorders",
+  "chapter": "Electrical machinery and equipment; sound and TV equipment; parts",
+  "search_words": "cctv camera"
+ },
+ {
+  "code": "8528",
+  "description": "Monitors and projectors; reception apparatus for television",
+  "common_items": "LED TVs, computer monitors, projectors",
+  "chapter": "Electrical machinery and equipment; sound and TV equipment; parts",
+  "search_words": "tv television monitor projector"
+ },
+ {
+  "code": "8531",
+  "description": "Electric sound or visual signalling apparatus (bells, sirens, indicator panels, burglar or fire alarms)",
+  "common_items": "Electric doorbells, fire alarms, burglar alarms",
+  "chapter": "Electrical machinery and equipment; sound and TV equipment; parts",
+  "search_words": "doorbell alarm"
+ },
+ {
+  "code": "8536",
+  "description": "Electrical apparatus for switching or protecting electrical circuits, for a voltage not exceeding 1,000 volts",
+  "common_items": "Switches, sockets, plugs, MCBs, fuses, relays",
+  "chapter": "Electrical machinery and equipment; sound and TV equipment; parts",
+  "search_words": "switch socket plug mcb fuse"
+ },
+ {
+  "code": "853620",
+  "description": "Automatic circuit breakers",
+  "common_items": "MCBs, RCCBs",
+  "chapter": "Electrical machinery and equipment; sound and TV equipment; parts",
+  "search_words": "mcb rccb"
+ },
+ {
+  "code": "853650",
+  "description": "Other switches",
+  "common_items": "Modular switches, electric switches",
+  "chapter": "Electrical machinery and equipment; sound and TV equipment; parts",
+  "search_words": "switch"
+ },
+ {
+  "code": "8537",
+  "description": "Boards, panels, consoles, desks, cabinets equipped with apparatus for electric control or distribution",
+  "common_items": "Distribution boards, control panels",
+  "chapter": "Electrical machinery and equipment; sound and TV equipment; parts",
+  "search_words": "db box panel"
+ },
+ {
+  "code": "8539",
+  "description": "Electric filament or discharge lamps; arc lamps; light-emitting diode (LED) light sources",
+  "common_items": "LED bulbs, CFLs, tube lights, halogen lamps",
+  "chapter": "Electrical machinery and equipment; sound and TV equipment; parts",
+  "search_words": "bulb led bulb tube light"
+ },
+ {
+  "code": "853952",
+  "description": "LED lamps",
+  "common_items": "LED bulbs",
+  "chapter": "Electrical machinery and equipment; sound and TV equipment; parts",
+  "search_words": "led bulb"
+ },
+ {
+  "code": "8541",
+  "description": "Semiconductor devices; light-emitting diodes (LED); photovoltaic cells and modules",
+  "common_items": "Solar panels, solar cells, LEDs, diodes, transistors",
+  "chapter": "Electrical machinery and equipment; sound and TV equipment; parts",
+  "search_words": "solar panel diode"
+ },
+ {
+  "code": "854143",
+  "description": "Photovoltaic cells assembled in modules or made up into panels",
+  "common_items": "Solar panels, solar modules",
+  "chapter": "Electrical machinery and equipment; sound and TV equipment; parts",
+  "search_words": "solar panel"
+ },
+ {
+  "code": "8542",
+  "description": "Electronic integrated circuits",
+  "common_items": "ICs, microchips",
+  "chapter": "Electrical machinery and equipment; sound and TV equipment; parts",
+  "search_words": "ic chip"
+ },
+ {
+  "code": "8544",
+  "description": "Insulated wire, cable and other insulated electric conductors; optical fibre cables",
+  "common_items": "House wiring wire, electric cables, data cables, USB cables",
+  "chapter": "Electrical machinery and equipment; sound and TV equipment; parts",
+  "search_words": "wire cable taar"
+ },
+ {
+  "code": "8701",
+  "description": "Tractors (other than tractors of heading 8709)",
+  "common_items": "Agricultural tractors",
+  "chapter": "Vehicles other than railway rolling-stock, and parts and accessories",
+  "search_words": "tractor"
+ },
+ {
+  "code": "8703",
+  "description": "Motor cars and other motor vehicles principally designed for the transport of persons",
+  "common_items": "Cars, SUVs",
+  "chapter": "Vehicles other than railway rolling-stock, and parts and accessories",
+  "search_words": "car gaadi"
+ },
+ {
+  "code": "8704",
+  "description": "Motor vehicles for the transport of goods",
+  "common_items": "Trucks, pickups, tempos",
+  "chapter": "Vehicles other than railway rolling-stock, and parts and accessories",
+  "search_words": "truck tempo"
+ },
+ {
+  "code": "8708",
+  "description": "Parts and accessories of the motor vehicles of headings 8701 to 8705",
+  "common_items": "Brake pads, clutch plates, bumpers, radiators, silencers, shock absorbers",
+  "chapter": "Vehicles other than railway rolling-stock, and parts and accessories",
+  "search_words": "auto parts spare parts car parts"
+ },
+ {
+  "code": "8711",
+  "description": "Motorcycles (including mopeds) and cycles fitted with an auxiliary motor",
+  "common_items": "Motorcycles, scooters, mopeds",
+  "chapter": "Vehicles other than railway rolling-stock, and parts and accessories",
+  "search_words": "bike motorcycle scooter"
+ },
+ {
+  "code": "8712",
+  "description": "Bicycles and other cycles (including delivery tricycles), not motorised",
+  "common_items": "Bicycles",
+  "chapter": "Vehicles other than railway rolling-stock, and parts and accessories",
+  "search_words": "cycle bicycle"
+ },
+ {
+  "code": "8713",
+  "description": "Carriages for disabled persons, whether or not motorised",
+  "common_items": "Wheelchairs",
+  "chapter": "Vehicles other than railway rolling-stock, and parts and accessories",
+  "search_words": "wheelchair"
+ },
+ {
+  "code": "8714",
+  "description": "Parts and accessories of vehicles of headings 8711 to 8713",
+  "common_items": "Two-wheeler and bicycle parts",
+  "chapter": "Vehicles other than railway rolling-stock, and parts and accessories",
+  "search_words": "bike parts cycle parts"
+ },
+ {
+  "code": "8715",
+  "description": "Baby carriages and parts thereof",
+  "common_items": "Prams, strollers",
+  "chapter": "Vehicles other than railway rolling-stock, and parts and accessories",
+  "search_words": "pram stroller"
+ },
+ {
+  "code": "8716",
+  "description": "Trailers and semi-trailers; other vehicles, not mechanically propelled",
+  "common_items": "Trailers, hand carts, wheelbarrows",
+  "chapter": "Vehicles other than railway rolling-stock, and parts and accessories",
+  "search_words": "trolley thela hand cart"
+ },
+ {
+  "code": "9001",
+  "description": "Optical fibres; sheets of polarising material; lenses, prisms, mirrors, unmounted",
+  "common_items": "Contact lenses, spectacle lenses",
+  "chapter": "Optical, measuring, medical or surgical instruments and apparatus",
+  "search_words": "lens contact lens"
+ },
+ {
+  "code": "9003",
+  "description": "Frames and mountings for spectacles, goggles or the like",
+  "common_items": "Spectacle frames",
+  "chapter": "Optical, measuring, medical or surgical instruments and apparatus",
+  "search_words": "frame chashma"
+ },
+ {
+  "code": "9004",
+  "description": "Spectacles, goggles and the like, corrective, protective or other",
+  "common_items": "Spectacles, sunglasses, safety goggles",
+  "chapter": "Optical, measuring, medical or surgical instruments and apparatus",
+  "search_words": "chashma spectacles sunglasses goggles"
+ },
+ {
+  "code": "9017",
+  "description": "Drawing, marking-out or mathematical calculating instruments; instruments for measuring length, for use in the hand",
+  "common_items": "Geometry boxes, rulers, measuring tapes",
+  "chapter": "Optical, measuring, medical or surgical instruments and apparatus",
+  "search_words": "scale ruler measuring tape geometry box"
+ },
+ {
+  "code": "9018",
+  "description": "Instruments and appliances used in medical, surgical, dental or veterinary sciences",
+  "common_items": "Syringes, needles, catheters, BP monitors, stethoscopes",
+  "chapter": "Optical, measuring, medical or surgical instruments and apparatus",
+  "search_words": "syringe needle bp machine"
+ },
+ {
+  "code": "9019",
+  "description": "Mechano-therapy appliances; massage apparatus; oxygen therapy, aerosol therapy and respiration apparatus",
+  "common_items": "Massagers, nebulisers, CPAP machines",
+  "chapter": "Optical, measuring, medical or surgical instruments and apparatus",
+  "search_words": "massager nebulizer"
+ },
+ {
+  "code": "9021",
+  "description": "Orthopaedic appliances; splints; artificial parts of the body; hearing aids",
+  "common_items": "Orthopaedic belts, crutches, hearing aids, artificial limbs",
+  "chapter": "Optical, measuring, medical or surgical instruments and apparatus",
+  "search_words": "hearing aid crutches"
+ },
+ {
+  "code": "9025",
+  "description": "Hydrometers, thermometers, pyrometers, barometers, hygrometers and psychrometers",
+  "common_items": "Clinical thermometers, digital thermometers",
+  "chapter": "Optical, measuring, medical or surgical instruments and apparatus",
+  "search_words": "thermometer"
+ },
+ {
+  "code": "9028",
+  "description": "Gas, liquid or electricity supply or production meters",
+  "common_items": "Electricity meters, water meters",
+  "chapter": "Optical, measuring, medical or surgical instruments and apparatus",
+  "search_words": "meter bijli meter"
+ },
+ {
+  "code": "9102",
+  "description": "Wrist-watches, pocket-watches and other watches, with case of base metal",
+  "common_items": "Wrist watches",
+  "chapter": "Clocks and watches and parts thereof",
+  "search_words": "ghadi watch"
+ },
+ {
+  "code": "9105",
+  "description": "Other clocks",
+  "common_items": "Wall clocks, alarm clocks",
+  "chapter": "Clocks and watches and parts thereof",
+  "search_words": "deewar ghadi clock"
+ },
+ {
+  "code": "9202",
+  "description": "Other string musical instruments (for example, guitars, violins, harps)",
+  "common_items": "Guitars, violins, sitars",
+  "chapter": "Musical instruments",
+  "search_words": "guitar"
+ },
+ {
+  "code": "9206",
+  "description": "Percussion musical instruments (for example, drums, xylophones, cymbals, castanets, maracas)",
+  "common_items": "Drums, tabla, dholak",
+  "chapter": "Musical instruments",
+  "search_words": "tabla dholak drum"
+ },
+ {
+  "code": "9207",
+  "description": "Musical instruments, the sound of which is produced, or must be amplified, electrically",
+  "common_items": "Electronic keyboards, electric guitars",
+  "chapter": "Musical instruments",
+  "search_words": "keyboard casio"
+ },
+ {
+  "code": "9401",
+  "description": "Seats (other than those of heading 9402), whether or not convertible into beds, and parts thereof",
+  "common_items": "Chairs, sofas, office chairs, plastic chairs",
+  "chapter": "Furniture; bedding, mattresses; lighting fittings; prefabricated buildings",
+  "search_words": "kursi chair sofa"
+ },
+ {
+  "code": "9402",
+  "description": "Medical, surgical, dental or veterinary furniture; barbers' chairs",
+  "common_items": "Hospital beds, dental chairs, salon chairs",
+  "chapter": "Furniture; bedding, mattresses; lighting fittings; prefabricated buildings",
+  "search_words": "hospital bed"
+ },
+ {
+  "code": "9403",
+  "description": "Other furniture and parts thereof",
+  "common_items": "Tables, beds, almirahs, cupboards, wardrobes, office and kitchen furniture",
+  "chapter": "Furniture; bedding, mattresses; lighting fittings; prefabricated buildings",
+  "search_words": "almari table bed palang furniture"
+ },
+ {
+  "code": "9404",
+  "description": "Mattress supports; mattresses, quilts, pillows, cushions and similar articles of bedding",
+  "common_items": "Mattresses, pillows, quilts, cushions",
+  "chapter": "Furniture; bedding, mattresses; lighting fittings; prefabricated buildings",
+  "search_words": "gadda takiya razai mattress pillow"
+ },
+ {
+  "code": "9405",
+  "description": "Luminaires and lighting fittings; illuminated signs and nameplates",
+  "common_items": "LED panel lights, tube light fittings, chandeliers, table lamps, decorative lights",
+  "chapter": "Furniture; bedding, mattresses; lighting fittings; prefabricated buildings",
+  "search_words": "light fitting lamp jhoomar"
+ },
+ {
+  "code": "9406",
+  "description": "Prefabricated buildings",
+  "common_items": "Portable cabins, prefab structures",
+  "chapter": "Furniture; bedding, mattresses; lighting fittings; prefabricated buildings",
+  "search_words": "porta cabin"
+ },
+ {
+  "code": "9503",
+  "description": "Tricycles, scooters, pedal cars and similar wheeled toys; dolls; other toys; puzzles",
+  "common_items": "Toys, dolls, puzzles, tricycles for children",
+  "chapter": "Toys, games and sports requisites",
+  "search_words": "khilona toys"
+ },
+ {
+  "code": "9504",
+  "description": "Video game consoles and machines, table or parlour games, playing cards, carrom and chess boards",
+  "common_items": "Playing cards, carrom boards, chess, board games",
+  "chapter": "Toys, games and sports requisites",
+  "search_words": "taash carrom chess ludo"
+ },
+ {
+  "code": "9505",
+  "description": "Festive, carnival or other entertainment articles",
+  "common_items": "Festival decorations, Christmas items",
+  "chapter": "Toys, games and sports requisites",
+  "search_words": "decoration"
+ },
+ {
+  "code": "9506",
+  "description": "Articles and equipment for general physical exercise, gymnastics, athletics, other sports or outdoor games",
+  "common_items": "Cricket bats and balls, badminton rackets, gym equipment",
+  "chapter": "Toys, games and sports requisites",
+  "search_words": "cricket bat ball gym"
+ },
+ {
+  "code": "9603",
+  "description": "Brooms, brushes (including toothbrushes, paint brushes), mops, squeegees",
+  "common_items": "Toothbrushes, brooms (jhadu), paint brushes, mops",
+  "chapter": "Miscellaneous manufactured articles",
+  "search_words": "jhadu broom toothbrush brush"
+ },
+ {
+  "code": "9606",
+  "description": "Buttons, press-fasteners, snap-fasteners and press-studs, button moulds",
+  "common_items": "Buttons",
+  "chapter": "Miscellaneous manufactured articles",
+  "search_words": "button"
+ },
+ {
+  "code": "9607",
+  "description": "Slide fasteners and parts thereof",
+  "common_items": "Zips, zippers",
+  "chapter": "Miscellaneous manufactured articles",
+  "search_words": "zip chain"
+ },
+ {
+  "code": "9608",
+  "description": "Ball point pens; felt tipped and other porous-tipped pens and markers; fountain pens; refills",
+  "common_items": "Ball pens, gel pens, markers, highlighters, refills",
+  "chapter": "Miscellaneous manufactured articles",
+  "search_words": "pen kalam marker refill"
+ },
+ {
+  "code": "9609",
+  "description": "Pencils (other than those of heading 9608), crayons, pencil leads, pastels, drawing charcoals, writing or drawing chalks",
+  "common_items": "Pencils, crayons, chalk",
+  "chapter": "Miscellaneous manufactured articles",
+  "search_words": "pencil crayon chalk chaak"
+ },
+ {
+  "code": "9610",
+  "description": "Slates and boards, with writing or drawing surfaces, whether or not framed",
+  "common_items": "Whiteboards, blackboards, slates",
+  "chapter": "Miscellaneous manufactured articles",
+  "search_words": "whiteboard board slate"
+ },
+ {
+  "code": "9611",
+  "description": "Date, sealing or numbering stamps, and the like, hand-operated",
+  "common_items": "Rubber stamps, date stamps",
+  "chapter": "Miscellaneous manufactured articles",
+  "search_words": "stamp mohar"
+ },
+ {
+  "code": "9612",
+  "description": "Typewriter or similar ribbons, inked; ink-pads",
+  "common_items": "Stamp pads, printer ribbons",
+  "chapter": "Miscellaneous manufactured articles",
+  "search_words": "stamp pad"
+ },
+ {
+  "code": "9613",
+  "description": "Cigarette lighters and other lighters",
+  "common_items": "Lighters, gas lighters",
+  "chapter": "Miscellaneous manufactured articles",
+  "search_words": "lighter"
+ },
+ {
+  "code": "9615",
+  "description": "Combs, hair-slides and the like; hairpins, curling pins, curling grips, hair-curlers",
+  "common_items": "Combs, hair clips, hair pins",
+  "chapter": "Miscellaneous manufactured articles",
+  "search_words": "kangha comb clip"
+ },
+ {
+  "code": "9617",
+  "description": "Vacuum flasks and other vacuum vessels, complete",
+  "common_items": "Thermos flasks, vacuum bottles",
+  "chapter": "Miscellaneous manufactured articles",
+  "search_words": "thermos flask"
+ },
+ {
+  "code": "9619",
+  "description": "Sanitary towels (pads) and tampons, napkins (diapers) and napkin liners for babies and similar articles",
+  "common_items": "Sanitary pads, baby diapers, adult diapers",
+  "chapter": "Miscellaneous manufactured articles",
+  "search_words": "sanitary pad diaper"
+ }
+]
